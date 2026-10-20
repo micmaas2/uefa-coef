@@ -1,15 +1,21 @@
-// Scriptable widget: UEFA-landencoëfficiënt Nederland
-// Setup: Scriptable → nieuw script → plak dit → homescreen-widget (small of medium)
-//        → Script: dit script, Parameter: URL van stand.json
-//        (bijv. https://raw.githubusercontent.com/<user>/<repo>/main/stand.json)
+// Scriptable widget: UEFA-landencoëfficiënt — Nederland en de 2 landen erboven/eronder.
+// Leest stand.json uit de repo (wordt op wedstrijdavonden elke paar minuten ververst).
+// Widget-parameter is optioneel (alternatieve URL).
 
 const URL = args.widgetParameter || "https://raw.githubusercontent.com/micmaas2/uefa-coef/main/stand.json";
-const CACHE = FileManager.local().joinPath(FileManager.local().cacheDirectory(), "uefa_stand.json");
+const fm = FileManager.local();
+const CACHE = fm.joinPath(fm.cacheDirectory(), "uefa_stand.json");
+
+const C = {
+  bg1: new Color("#101a2e"), bg2: new Color("#1d2b4a"),
+  text: Color.white(), dim: new Color("#9fb3d9"), faint: new Color("#6f82a8"),
+  up: new Color("#7ee787"), down: new Color("#ff8a80"), live: new Color("#ff4d4f"),
+  nl: new Color("#ff7a00"),
+};
 
 async function loadStand() {
-  const fm = FileManager.local();
   try {
-    const req = new Request(URL);
+    const req = new Request(URL + "?t=" + Date.now());   // omzeil CDN-cache
     req.timeoutInterval = 10;
     const data = await req.loadJSON();
     fm.writeString(CACHE, JSON.stringify(data));
@@ -20,65 +26,90 @@ async function loadStand() {
   }
 }
 
-function fmt(x) { return x == null ? "–" : x.toFixed(3).replace(".", ","); }
+const f3 = x => (x == null ? "–" : x.toFixed(3).replace(".", ","));
+const signed = x => (x > 0 ? "+" : "") + f3(x);
 
-function buildWidget(stand, stale) {
-  const f = stand.focus;
+function row(stack, r, isFocus, live) {
+  const s = stack.addStack();
+  s.centerAlignContent();
+  const rank = s.addText(String(r.rank).padStart(2, " "));
+  rank.font = Font.boldMonospacedSystemFont(11);
+  rank.textColor = isFocus ? C.nl : C.dim;
+  s.addSpacer(6);
+  const name = s.addText(r.name);
+  name.font = isFocus ? Font.boldSystemFont(12) : Font.systemFont(12);
+  name.textColor = isFocus ? C.nl : C.text;
+  name.lineLimit = 1;
+  s.addSpacer();
+  const delta = live ? r.live_delta : r.today_delta;
+  if (delta) {
+    const d = s.addText(signed(delta));
+    d.font = Font.mediumMonospacedSystemFont(10);
+    d.textColor = delta > 0 ? C.up : C.down;
+    s.addSpacer(6);
+  }
+  const tot = s.addText(f3(live ? r.projected : r.total));
+  tot.font = Font.boldMonospacedSystemFont(12);
+  tot.textColor = isFocus ? C.nl : C.text;
+}
+
+function build(stand, stale) {
+  const f = stand.focus, live = stand.live;
   const w = new ListWidget();
-  w.setPadding(14, 14, 12, 14);
-  w.backgroundGradient = (() => {
-    const g = new LinearGradient();
-    g.colors = [new Color("#101a2e"), new Color("#1d2b4a")];
-    g.locations = [0, 1];
-    return g;
-  })();
+  w.setPadding(12, 14, 10, 14);
+  const g = new LinearGradient();
+  g.colors = [C.bg1, C.bg2]; g.locations = [0, 1];
+  w.backgroundGradient = g;
 
-  const head = w.addStack();
-  head.centerAlignContent();
-  const t = head.addText("UEFA coëfficiënt · NED");
-  t.font = Font.semiboldSystemFont(11); t.textColor = new Color("#9fb3d9");
+  // kop
+  const head = w.addStack(); head.centerAlignContent();
+  const t = head.addText("UEFA coëfficiënt");
+  t.font = Font.semiboldSystemFont(11); t.textColor = C.dim;
   head.addSpacer();
-  const rank = head.addText("#" + f.rank);
-  rank.font = Font.boldSystemFont(16); rank.textColor = Color.white();
-
-  w.addSpacer(4);
-  const total = w.addText(fmt(f.total));
-  total.font = Font.boldMonospacedSystemFont(30); total.textColor = Color.white();
-  total.minimumScaleFactor = 0.6;
-
-  const season = w.addText("seizoen " + fmt(f.season) + " · " + f.clubs + " clubs");
-  season.font = Font.systemFont(10); season.textColor = new Color("#9fb3d9");
-
-  w.addSpacer(6);
-  const up = w.addText("↑ " + f.gap_up_to + "  −" + fmt(f.gap_up));
-  up.font = Font.mediumSystemFont(11); up.textColor = new Color("#ffb86b");
-  const down = w.addText("↓ " + f.gap_down_to + "  +" + fmt(f.gap_down));
-  down.font = Font.mediumSystemFont(11); down.textColor = new Color("#7ee787");
-
-  const last = f.log[f.log.length - 1];
-  if (last && config.widgetFamily !== "small") {
-    w.addSpacer(6);
-    const l = w.addText("Laatst: " + last.match + "  +" + fmt(last.delta));
-    l.font = Font.systemFont(10); l.textColor = new Color("#c9d4ea"); l.lineLimit = 1;
+  if (live) {
+    const dot = head.addText("● LIVE");
+    dot.font = Font.boldSystemFont(10); dot.textColor = C.live;
+  } else {
+    const d = head.addText("t/m " + stand.last_match_date);
+    d.font = Font.systemFont(9); d.textColor = C.faint;
   }
 
-  w.addSpacer();
-  const foot = w.addText((stale ? "⚠︎ cache · " : "") + "t/m " + stand.last_match_date);
-  foot.font = Font.systemFont(8); foot.textColor = new Color("#6f82a8");
-  w.refreshAfterDate = new Date(Date.now() + 60 * 60 * 1000); // ~ieder uur
+  w.addSpacer(6);
+  const small = config.widgetFamily === "small";
+  const rows = small ? stand.window.filter(r => Math.abs(r.rank - f.rank) <= 1) : stand.window;
+  for (const r of rows) {
+    row(w, r, r.assoc === f.assoc, live);
+    w.addSpacer(2);
+  }
+
+  // voet: NL-regel van vanavond + gaten
+  w.addSpacer(4);
+  if (live && stand.live_matches.length) {
+    const nlLive = stand.live_matches.filter(m => m.assocs.includes(f.assoc));
+    const pick = (nlLive.length ? nlLive : stand.live_matches)[0];
+    const l = w.addText(pick.match + "  " + pick.clock);
+    l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
+  } else {
+    const l = w.addText("↑ " + f.gap_up_to + " −" + f3(f.gap_up) + "   ↓ " + f.gap_down_to + " +" + f3(f.gap_down));
+    l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
+  }
+  if (stale) {
+    const s = w.addText("⚠︎ cache"); s.font = Font.systemFont(8); s.textColor = C.faint;
+  }
+  // iOS bepaalt het echte interval; dit is een verzoek.
+  w.refreshAfterDate = new Date(Date.now() + (live ? 5 : 60) * 60 * 1000);
   return w;
 }
 
 let widget;
 try {
   const { data, stale } = await loadStand();
-  widget = buildWidget(data, stale);
+  widget = build(data, stale);
 } catch (e) {
   widget = new ListWidget();
-  const t = widget.addText("stand.json niet bereikbaar\n" + URL);
+  const t = widget.addText("stand.json niet bereikbaar\n" + e);
   t.font = Font.systemFont(10);
 }
-
 if (config.runsInWidget) Script.setWidget(widget);
 else await widget.presentMedium();
 Script.complete();

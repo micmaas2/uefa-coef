@@ -1,0 +1,39 @@
+name: Update stand.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Europese speelavonden (di/wo/do) 16:30–23:55 UTC, elke 5 min; daarbuiten 1x/uur.
+    - cron: "*/5 16-23 * * 2,3,4"
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stand
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch results and rebuild stand
+        run: |
+          python3 -m uefa_coef.fetch
+          python3 -m uefa_coef.engine
+      - name: Commit if changed
+        run: |
+          git config user.name "uefa-coef bot"
+          git config user.email "actions@users.noreply.github.com"
+          # generated_at verandert altijd; alleen committen als matches/unmapped wijzigen
+          if git diff --quiet -- data/matches.json data/unmapped.json; then
+            echo "no changes"; exit 0
+          fi
+          git add data/matches.json data/unmapped.json stand.json
+          git commit -m "auto: update stand $(date -u +'%Y-%m-%d %H:%M')"
+          git push

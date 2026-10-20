@@ -1,209 +1,241 @@
 {
-  "snapshot_date": "2026-10-15",
-  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
-  "last_match_date": "2026-10-20",
-  "focus": {
-    "assoc": "NED",
-    "rank": 8,
-    "total": 54.062,
-    "season": 5.333,
-    "clubs": 6,
-    "gap_up": 6.788,
-    "gap_up_to": "België",
-    "gap_down": 2.987,
-    "gap_down_to": "Turkije",
-    "log": [
-      {
-        "date": "2026-10-20",
-        "competition": "UCL",
-        "stage": "LP",
-        "match": "Porto 0-1 PSV",
-        "club": "PSV",
-        "raw": 2.0,
-        "delta": 0.333
-      }
-    ]
-  },
-  "ranking": [
-    {
-      "assoc": "ENG",
-      "name": "Engeland",
-      "clubs": 9,
-      "previous": [
-        23.0,
-        17.375,
-        29.464,
-        28.68
-      ],
-      "season": 6.611,
-      "total": 105.13,
-      "added_since_snapshot": 0.0,
-      "rank": 1
-    },
-    {
-      "assoc": "ITA",
-      "name": "Italië",
-      "clubs": 7,
-      "previous": [
-        22.357,
-        21.0,
-        21.875,
-        19.0
-      ],
-      "season": 5.214,
-      "total": 89.446,
-      "added_since_snapshot": 0.0,
-      "rank": 2
-    },
-    {
-      "assoc": "ESP",
-      "name": "Spanje",
-      "clubs": 8,
-      "previous": [
-        16.571,
-        16.062,
-        23.892,
-        22.093
-      ],
-      "season": 6.125,
-      "total": 84.743,
-      "added_since_snapshot": 0.0,
-      "rank": 3
-    },
-    {
-      "assoc": "GER",
-      "name": "Duitsland",
-      "clubs": 7,
-      "previous": [
-        17.125,
-        19.357,
-        18.421,
-        21.785
-      ],
-      "season": 6.142,
-      "total": 82.83,
-      "added_since_snapshot": 0.0,
-      "rank": 4
-    },
-    {
-      "assoc": "FRA",
-      "name": "Frankrijk",
-      "clubs": 7,
-      "previous": [
-        12.583,
-        16.25,
-        17.928,
-        18.321
-      ],
-      "season": 5.214,
-      "total": 70.296,
-      "added_since_snapshot": 0.0,
-      "rank": 5
-    },
-    {
-      "assoc": "POR",
-      "name": "Portugal",
-      "clubs": 5,
-      "previous": [
-        12.5,
-        11.0,
-        16.25,
-        20.5
-      ],
-      "season": 6.3,
-      "total": 66.55,
-      "added_since_snapshot": 0.0,
-      "rank": 6
-    },
-    {
-      "assoc": "BEL",
-      "name": "België",
-      "clubs": 5,
-      "previous": [
-        14.2,
-        14.4,
-        15.65,
-        11.4
-      ],
-      "season": 5.2,
-      "total": 60.85,
-      "added_since_snapshot": 0.0,
-      "rank": 7
-    },
-    {
-      "assoc": "NED",
-      "name": "Nederland",
-      "clubs": 6,
-      "previous": [
-        13.5,
-        10.0,
-        15.25,
-        9.979
-      ],
-      "season": 5.333,
-      "total": 54.062,
-      "added_since_snapshot": 0.333,
-      "rank": 8
-    },
-    {
-      "assoc": "TUR",
-      "name": "Turkije",
-      "clubs": 5,
-      "previous": [
-        11.8,
-        12.0,
-        10.3,
-        11.075
-      ],
-      "season": 5.9,
-      "total": 51.075,
-      "added_since_snapshot": 0.0,
-      "rank": 9
-    },
-    {
-      "assoc": "GRE",
-      "name": "Griekenland",
-      "clubs": 5,
-      "previous": [
-        2.125,
-        11.4,
-        12.687,
-        14.2
-      ],
-      "season": 5.4,
-      "total": 45.812,
-      "added_since_snapshot": 0.0,
-      "rank": 10
-    },
-    {
-      "assoc": "POL",
-      "name": "Polen",
-      "clubs": 5,
-      "previous": [
-        7.75,
-        6.875,
-        11.75,
-        15.75
-      ],
-      "season": 3.4,
-      "total": 45.525,
-      "added_since_snapshot": 0.0,
-      "rank": 11
-    },
-    {
-      "assoc": "CZE",
-      "name": "Tsjechië",
-      "clubs": 5,
-      "previous": [
-        6.75,
-        13.5,
-        10.55,
-        11.025
-      ],
-      "season": 3.5,
-      "total": 45.325,
-      "added_since_snapshot": 0.0,
-      "rank": 12
-    }
+ "generated_at": "2026-10-20T21:34:28+00:00",
+ "snapshot_date": "2026-10-15",
+ "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
+ "last_match_date": "2026-10-20",
+ "live": false,
+ "focus": {
+  "assoc": "NED",
+  "rank": 8,
+  "rank_confirmed": 8,
+  "total": 54.062,
+  "projected": 54.062,
+  "season": 5.333,
+  "clubs": 6,
+  "live_delta": 0.0,
+  "today_delta": 0.333,
+  "gap_up": 6.788,
+  "gap_up_to": "België",
+  "gap_down": 2.987,
+  "gap_down_to": "Turkije",
+  "log": [
+   {
+    "date": "2026-10-20",
+    "competition": "UCL",
+    "status": "final",
+    "match": "FC Porto 0-1 PSV Eindhoven",
+    "club": "PSV Eindhoven",
+    "delta": 0.333
+   }
   ]
+ },
+ "window": [
+  {
+   "assoc": "POR",
+   "name": "Portugal",
+   "clubs": 5,
+   "season": 6.3,
+   "total": 66.55,
+   "projected": 66.55,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 6,
+   "rank_confirmed": 6
+  },
+  {
+   "assoc": "BEL",
+   "name": "België",
+   "clubs": 5,
+   "season": 5.2,
+   "total": 60.85,
+   "projected": 60.85,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 7,
+   "rank_confirmed": 7
+  },
+  {
+   "assoc": "NED",
+   "name": "Nederland",
+   "clubs": 6,
+   "season": 5.333,
+   "total": 54.062,
+   "projected": 54.062,
+   "live_delta": 0.0,
+   "today_delta": 0.333,
+   "rank": 8,
+   "rank_confirmed": 8
+  },
+  {
+   "assoc": "TUR",
+   "name": "Turkije",
+   "clubs": 5,
+   "season": 5.9,
+   "total": 51.075,
+   "projected": 51.075,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 9,
+   "rank_confirmed": 9
+  },
+  {
+   "assoc": "GRE",
+   "name": "Griekenland",
+   "clubs": 5,
+   "season": 5.4,
+   "total": 45.812,
+   "projected": 45.812,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 10,
+   "rank_confirmed": 10
+  }
+ ],
+ "live_matches": [],
+ "ranking": [
+  {
+   "assoc": "ENG",
+   "name": "Engeland",
+   "clubs": 9,
+   "season": 6.611,
+   "total": 105.13,
+   "projected": 105.13,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 1,
+   "rank_confirmed": 1
+  },
+  {
+   "assoc": "ITA",
+   "name": "Italië",
+   "clubs": 7,
+   "season": 5.214,
+   "total": 89.446,
+   "projected": 89.446,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 2,
+   "rank_confirmed": 2
+  },
+  {
+   "assoc": "ESP",
+   "name": "Spanje",
+   "clubs": 8,
+   "season": 6.125,
+   "total": 84.743,
+   "projected": 84.743,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 3,
+   "rank_confirmed": 3
+  },
+  {
+   "assoc": "GER",
+   "name": "Duitsland",
+   "clubs": 7,
+   "season": 6.142,
+   "total": 82.83,
+   "projected": 82.83,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 4,
+   "rank_confirmed": 4
+  },
+  {
+   "assoc": "FRA",
+   "name": "Frankrijk",
+   "clubs": 7,
+   "season": 5.214,
+   "total": 70.296,
+   "projected": 70.296,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 5,
+   "rank_confirmed": 5
+  },
+  {
+   "assoc": "POR",
+   "name": "Portugal",
+   "clubs": 5,
+   "season": 6.3,
+   "total": 66.55,
+   "projected": 66.55,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 6,
+   "rank_confirmed": 6
+  },
+  {
+   "assoc": "BEL",
+   "name": "België",
+   "clubs": 5,
+   "season": 5.2,
+   "total": 60.85,
+   "projected": 60.85,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 7,
+   "rank_confirmed": 7
+  },
+  {
+   "assoc": "NED",
+   "name": "Nederland",
+   "clubs": 6,
+   "season": 5.333,
+   "total": 54.062,
+   "projected": 54.062,
+   "live_delta": 0.0,
+   "today_delta": 0.333,
+   "rank": 8,
+   "rank_confirmed": 8
+  },
+  {
+   "assoc": "TUR",
+   "name": "Turkije",
+   "clubs": 5,
+   "season": 5.9,
+   "total": 51.075,
+   "projected": 51.075,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 9,
+   "rank_confirmed": 9
+  },
+  {
+   "assoc": "GRE",
+   "name": "Griekenland",
+   "clubs": 5,
+   "season": 5.4,
+   "total": 45.812,
+   "projected": 45.812,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 10,
+   "rank_confirmed": 10
+  },
+  {
+   "assoc": "POL",
+   "name": "Polen",
+   "clubs": 5,
+   "season": 3.4,
+   "total": 45.525,
+   "projected": 45.525,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 11,
+   "rank_confirmed": 11
+  },
+  {
+   "assoc": "CZE",
+   "name": "Tsjechië",
+   "clubs": 5,
+   "season": 3.5,
+   "total": 45.325,
+   "projected": 45.325,
+   "live_delta": 0.0,
+   "today_delta": 0.0,
+   "rank": 12,
+   "rank_confirmed": 12
+  }
+ ]
 }
