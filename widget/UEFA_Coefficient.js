@@ -43,10 +43,10 @@ function row(stack, r, isFocus, live) {
   name.lineLimit = 1;
   s.addSpacer();
   const delta = r.today_delta;           // t.o.v. stand om middernacht
-  if (delta) {
+  if (r.played_today) {                  // gespeeld → altijd tonen, ook +0,000
     const d = s.addText(signed(delta));
     d.font = Font.mediumMonospacedSystemFont(10);
-    d.textColor = delta > 0 ? C.up : C.down;
+    d.textColor = delta > 0 ? C.up : delta < 0 ? C.down : C.dim;
     s.addSpacer(6);
   }
   const tot = s.addText(f3(r.projected));   // = total als er niets live is
@@ -91,7 +91,7 @@ function build(stand, stale) {
     const l = w.addText(pick.match + "  " + pick.clock);
     l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
   } else {
-    const l = w.addText("↑ " + f.gap_up_to + " −" + f3(f.gap_up) + "   ↓ " + f.gap_down_to + " +" + f3(f.gap_down));
+    const l = w.addText("achterstand op " + f.gap_up_to + " " + f3(f.gap_up) + " · voorsprong op " + f.gap_down_to + " " + f3(f.gap_down));
     l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
   }
   if (stale) {

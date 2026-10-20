@@ -32,6 +32,7 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
     log, live_list = [], []
     latest_date = max((m["date"] for m in matches if m["status"] != "pre"), default=None)
     today = datetime.now(TZ).date().isoformat()
+    played_today = set()             # associations with a match today (live or final)
 
     for m in matches:
         if m["status"] == "pre":
@@ -44,6 +45,7 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
             (live_raw if m["status"] == "live" else confirmed)[a] += p
             if m["date"] == today:
                 today_raw[a] += p
+                played_today.add(a)
             if a == focus:
                 log.append({"date": m["date"], "competition": m["competition"], "status": m["status"],
                             "match": f"{m['home']} {m['home_goals']}-{m['away_goals']} {m['away']}",
@@ -62,7 +64,8 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
                      "season": season_conf, "total": truncate3(prev + season_conf),
                      "projected": truncate3(prev + season_proj),
                      "live_delta": truncate3(live_raw[code] / n),
-                     "today_delta": truncate3(today_raw[code] / n)})
+                     "today_delta": truncate3(today_raw[code] / n),
+                     "played_today": code in played_today})
     rows.sort(key=lambda r: r["projected"], reverse=True)
     for i, r in enumerate(rows, 1):
         r["rank"] = i
