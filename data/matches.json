@@ -37,18 +37,5 @@
   "status": "final",
   "clock": "FT",
   "decided_on_penalties": false
- },
- {
-  "id": "espn-porto-psv",
-  "date": "2026-10-20",
-  "competition": "UCL",
-  "stage": "LP",
-  "home": "FC Porto",
-  "away": "PSV Eindhoven",
-  "home_goals": 0,
-  "away_goals": 1,
-  "status": "final",
-  "clock": "FT",
-  "decided_on_penalties": false
  }
 ]
