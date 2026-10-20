@@ -32,23 +32,24 @@ const signed = x => (x > 0 ? "+" : "") + f3(x);
 function row(stack, r, isFocus, live) {
   const s = stack.addStack();
   s.centerAlignContent();
-  const rank = s.addText(String(r.rank).padStart(2, " "));
+  const arrow = r.rank_change > 0 ? "▲" : r.rank_change < 0 ? "▼" : " ";
+  const rank = s.addText(String(r.rank).padStart(2, " ") + arrow);
   rank.font = Font.boldMonospacedSystemFont(11);
-  rank.textColor = isFocus ? C.nl : C.dim;
+  rank.textColor = r.rank_change > 0 ? C.up : r.rank_change < 0 ? C.down : (isFocus ? C.nl : C.dim);
   s.addSpacer(6);
   const name = s.addText(r.name);
   name.font = isFocus ? Font.boldSystemFont(12) : Font.systemFont(12);
   name.textColor = isFocus ? C.nl : C.text;
   name.lineLimit = 1;
   s.addSpacer();
-  const delta = live ? r.live_delta : r.today_delta;
+  const delta = r.today_delta;           // t.o.v. stand om middernacht
   if (delta) {
     const d = s.addText(signed(delta));
     d.font = Font.mediumMonospacedSystemFont(10);
     d.textColor = delta > 0 ? C.up : C.down;
     s.addSpacer(6);
   }
-  const tot = s.addText(f3(live ? r.projected : r.total));
+  const tot = s.addText(f3(r.projected));   // = total als er niets live is
   tot.font = Font.boldMonospacedSystemFont(12);
   tot.textColor = isFocus ? C.nl : C.text;
 }
@@ -70,7 +71,7 @@ function build(stand, stale) {
     const dot = head.addText("● LIVE");
     dot.font = Font.boldSystemFont(10); dot.textColor = C.live;
   } else {
-    const d = head.addText("t/m " + stand.last_match_date);
+    const d = head.addText(stand.focus.today_delta ? "Δ vs 0:00" : "t/m " + stand.last_match_date);
     d.font = Font.systemFont(9); d.textColor = C.faint;
   }
 

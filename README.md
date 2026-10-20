@@ -20,7 +20,8 @@ python3 -m uefa_coef.fetch       # uitslagen sinds baseline.since ophalen (of: f
 python3 -m uefa_coef.engine      # schrijft stand.json, print venster NL ±2
 ```
 Live: een wedstrijd met status `live` telt mee in `projected` op basis van de huidige stand,
-`total` bevat alleen afgelopen wedstrijden. De widget toont `projected` zolang er iets live is.
+`total` bevat alleen afgelopen wedstrijden. `today_delta` en `rank_change` zijn t.o.v. de stand om
+middernacht (Europe/Amsterdam); de widget toont die delta per land en ▲/▼ bij een rangwissel.
 
 Stage wordt uit de datum afgeleid (LP t/m januari). Correctie: zet in matches.json
 `"stage": "PO", "stage_override": true` of `"decided_on_penalties": true`; fetch bewaart dat.

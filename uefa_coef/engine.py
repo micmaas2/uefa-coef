@@ -10,11 +10,13 @@ import json
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from .rules import Match, match_points, truncate3
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 WINDOW = 2
+TZ = ZoneInfo("Europe/Amsterdam")
 MATCH_FIELDS = {"date", "competition", "stage", "home", "away", "home_goals", "away_goals", "decided_on_penalties"}
 
 
@@ -26,9 +28,10 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
     assoc = baseline["associations"]
     confirmed = defaultdict(float)   # raw points from finished matches
     live_raw = defaultdict(float)    # raw points from matches in play (current score)
-    today_raw = defaultdict(float)   # raw points (final+live) on the latest match date
+    today_raw = defaultdict(float)   # raw points (final+live) since local midnight
     log, live_list = [], []
     latest_date = max((m["date"] for m in matches if m["status"] != "pre"), default=None)
+    today = datetime.now(TZ).date().isoformat()
 
     for m in matches:
         if m["status"] == "pre":
@@ -39,7 +42,7 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
             if a is None or a not in assoc:
                 continue
             (live_raw if m["status"] == "live" else confirmed)[a] += p
-            if m["date"] == latest_date:
+            if m["date"] == today:
                 today_raw[a] += p
             if a == focus:
                 log.append({"date": m["date"], "competition": m["competition"], "status": m["status"],
@@ -66,6 +69,13 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
     by_conf = sorted(rows, key=lambda r: r["total"], reverse=True)
     for i, r in enumerate(by_conf, 1):
         r["rank_confirmed"] = i
+    # stand om middernacht = projected minus alles van vandaag
+    for r in rows:
+        r["midnight_total"] = truncate3(r["projected"] - r["today_delta"])
+    by_midnight = sorted(rows, key=lambda r: r["midnight_total"], reverse=True)
+    for i, r in enumerate(by_midnight, 1):
+        r["rank_midnight"] = i
+        r["rank_change"] = r["rank_midnight"] - r["rank"]   # +1 = één plek gestegen
 
     idx = next(i for i, r in enumerate(rows) if r["assoc"] == focus)
     window = rows[max(0, idx - WINDOW): idx + WINDOW + 1]
@@ -77,9 +87,12 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "snapshot_date": baseline["snapshot_date"], "cycle": baseline["cycle"],
         "last_match_date": latest_date or baseline["snapshot_date"],
+        "today": today,
         "live": bool(live_list),
         "focus": {"assoc": focus, "rank": f["rank"], "rank_confirmed": f["rank_confirmed"],
+                  "rank_midnight": f["rank_midnight"], "rank_change": f["rank_change"],
                   "total": f["total"], "projected": f["projected"], "season": f["season"], "clubs": f["clubs"],
+                  "midnight_total": f["midnight_total"],
                   "live_delta": f["live_delta"], "today_delta": f["today_delta"],
                   "gap_up": truncate3(above["projected"] - f["projected"]) if above else None,
                   "gap_up_to": above["name"] if above else None,
@@ -99,7 +112,7 @@ def main(out=DATA.parent / "stand.json"):
     print(f"{'LIVE ' if result['live'] else ''}t/m {result['last_match_date']}")
     for r in result["window"]:
         mark = "→" if r["assoc"] == result["focus"]["assoc"] else " "
-        print(f"{mark}{r['rank']:>2} {r['name']:<12} {r['total']:8.3f}  proj {r['projected']:8.3f}  live +{r['live_delta']:.3f}")
+        print(f"{mark}{r['rank']:>2} {r['name']:<12} {r['projected']:8.3f}  vandaag {r['today_delta']:+.3f}  rang {r['rank_change']:+d}")
     for lm in result["live_matches"]:
         print(f"   LIVE {lm['match']} ({lm['clock']})")
     return result

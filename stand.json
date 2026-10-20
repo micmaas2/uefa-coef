@@ -1,17 +1,21 @@
 {
- "generated_at": "2026-10-20T21:36:05+00:00",
+ "generated_at": "2026-10-20T21:36:33+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-20",
+ "today": "2026-10-20",
  "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
   "rank_confirmed": 8,
+  "rank_midnight": 8,
+  "rank_change": 0,
   "total": 54.062,
   "projected": 54.062,
   "season": 5.333,
   "clubs": 6,
+  "midnight_total": 53.729,
   "live_delta": 0.0,
   "today_delta": 0.333,
   "gap_up": 6.788,
@@ -40,7 +44,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 6,
-   "rank_confirmed": 6
+   "rank_confirmed": 6,
+   "midnight_total": 66.55,
+   "rank_midnight": 6,
+   "rank_change": 0
   },
   {
    "assoc": "BEL",
@@ -52,7 +59,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 7,
-   "rank_confirmed": 7
+   "rank_confirmed": 7,
+   "midnight_total": 60.85,
+   "rank_midnight": 7,
+   "rank_change": 0
   },
   {
    "assoc": "NED",
@@ -64,7 +74,10 @@
    "live_delta": 0.0,
    "today_delta": 0.333,
    "rank": 8,
-   "rank_confirmed": 8
+   "rank_confirmed": 8,
+   "midnight_total": 53.729,
+   "rank_midnight": 8,
+   "rank_change": 0
   },
   {
    "assoc": "TUR",
@@ -76,7 +89,10 @@
    "live_delta": 0.0,
    "today_delta": 0.2,
    "rank": 9,
-   "rank_confirmed": 9
+   "rank_confirmed": 9,
+   "midnight_total": 51.075,
+   "rank_midnight": 9,
+   "rank_change": 0
   },
   {
    "assoc": "GRE",
@@ -88,7 +104,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 10,
-   "rank_confirmed": 10
+   "rank_confirmed": 10,
+   "midnight_total": 45.812,
+   "rank_midnight": 10,
+   "rank_change": 0
   }
  ],
  "live_matches": [],
@@ -103,7 +122,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 1,
-   "rank_confirmed": 1
+   "rank_confirmed": 1,
+   "midnight_total": 105.13,
+   "rank_midnight": 1,
+   "rank_change": 0
   },
   {
    "assoc": "ITA",
@@ -115,7 +137,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 2,
-   "rank_confirmed": 2
+   "rank_confirmed": 2,
+   "midnight_total": 89.446,
+   "rank_midnight": 2,
+   "rank_change": 0
   },
   {
    "assoc": "ESP",
@@ -127,7 +152,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 3,
-   "rank_confirmed": 3
+   "rank_confirmed": 3,
+   "midnight_total": 84.743,
+   "rank_midnight": 3,
+   "rank_change": 0
   },
   {
    "assoc": "GER",
@@ -139,7 +167,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 4,
-   "rank_confirmed": 4
+   "rank_confirmed": 4,
+   "midnight_total": 82.83,
+   "rank_midnight": 4,
+   "rank_change": 0
   },
   {
    "assoc": "FRA",
@@ -151,7 +182,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 5,
-   "rank_confirmed": 5
+   "rank_confirmed": 5,
+   "midnight_total": 70.296,
+   "rank_midnight": 5,
+   "rank_change": 0
   },
   {
    "assoc": "POR",
@@ -163,7 +197,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 6,
-   "rank_confirmed": 6
+   "rank_confirmed": 6,
+   "midnight_total": 66.55,
+   "rank_midnight": 6,
+   "rank_change": 0
   },
   {
    "assoc": "BEL",
@@ -175,7 +212,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 7,
-   "rank_confirmed": 7
+   "rank_confirmed": 7,
+   "midnight_total": 60.85,
+   "rank_midnight": 7,
+   "rank_change": 0
   },
   {
    "assoc": "NED",
@@ -187,7 +227,10 @@
    "live_delta": 0.0,
    "today_delta": 0.333,
    "rank": 8,
-   "rank_confirmed": 8
+   "rank_confirmed": 8,
+   "midnight_total": 53.729,
+   "rank_midnight": 8,
+   "rank_change": 0
   },
   {
    "assoc": "TUR",
@@ -199,7 +242,10 @@
    "live_delta": 0.0,
    "today_delta": 0.2,
    "rank": 9,
-   "rank_confirmed": 9
+   "rank_confirmed": 9,
+   "midnight_total": 51.075,
+   "rank_midnight": 9,
+   "rank_change": 0
   },
   {
    "assoc": "GRE",
@@ -211,7 +257,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 10,
-   "rank_confirmed": 10
+   "rank_confirmed": 10,
+   "midnight_total": 45.812,
+   "rank_midnight": 10,
+   "rank_change": 0
   },
   {
    "assoc": "POL",
@@ -223,7 +272,10 @@
    "live_delta": 0.0,
    "today_delta": 0.0,
    "rank": 11,
-   "rank_confirmed": 11
+   "rank_confirmed": 11,
+   "midnight_total": 45.525,
+   "rank_midnight": 11,
+   "rank_change": 0
   },
   {
    "assoc": "CZE",
@@ -235,7 +287,10 @@
    "live_delta": 0.0,
    "today_delta": 0.2,
    "rank": 12,
-   "rank_confirmed": 12
+   "rank_confirmed": 12,
+   "midnight_total": 45.325,
+   "rank_midnight": 12,
+   "rank_change": 0
   }
  ]
 }
