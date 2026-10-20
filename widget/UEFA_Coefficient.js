@@ -3,7 +3,7 @@
 //        → Script: dit script, Parameter: URL van stand.json
 //        (bijv. https://raw.githubusercontent.com/<user>/<repo>/main/stand.json)
 
-const URL = args.widgetParameter || "https://example.com/stand.json";
+const URL = args.widgetParameter || "https://raw.githubusercontent.com/micmaas2/uefa-coef/main/stand.json";
 const CACHE = FileManager.local().joinPath(FileManager.local().cacheDirectory(), "uefa_stand.json");
 
 async function loadStand() {
