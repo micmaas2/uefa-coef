@@ -1,0 +1,25 @@
+{
+  "snapshot_date": "2026-10-15",
+  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
+  "source": "uefa.com country coefficients via Wikipedia, 15 Oct 2026",
+  "associations": {
+    "ENG": {"name": "Engeland",  "clubs": 9, "previous": [23.000, 17.375, 29.464, 28.680], "season_snapshot": 6.611},
+    "ITA": {"name": "Italië",    "clubs": 7, "previous": [22.357, 21.000, 21.875, 19.000], "season_snapshot": 5.214},
+    "ESP": {"name": "Spanje",    "clubs": 8, "previous": [16.571, 16.062, 23.892, 22.093], "season_snapshot": 6.125},
+    "GER": {"name": "Duitsland", "clubs": 7, "previous": [17.125, 19.357, 18.421, 21.785], "season_snapshot": 6.142},
+    "FRA": {"name": "Frankrijk", "clubs": 7, "previous": [12.583, 16.250, 17.928, 18.321], "season_snapshot": 5.214},
+    "POR": {"name": "Portugal",  "clubs": 5, "previous": [12.500, 11.000, 16.250, 20.500], "season_snapshot": 6.300},
+    "BEL": {"name": "België",    "clubs": 5, "previous": [14.200, 14.400, 15.650, 11.400], "season_snapshot": 5.200},
+    "NED": {"name": "Nederland", "clubs": 6, "previous": [13.500, 10.000, 15.250,  9.979], "season_snapshot": 5.000},
+    "TUR": {"name": "Turkije",   "clubs": 5, "previous": [11.800, 12.000, 10.300, 11.075], "season_snapshot": 5.900},
+    "GRE": {"name": "Griekenland","clubs": 5, "previous": [ 2.125, 11.400, 12.687, 14.200], "season_snapshot": 5.400},
+    "POL": {"name": "Polen",     "clubs": 5, "previous": [ 7.750,  6.875, 11.750, 15.750], "season_snapshot": 3.400},
+    "CZE": {"name": "Tsjechië",  "clubs": 5, "previous": [ 6.750, 13.500, 10.550, 11.025], "season_snapshot": 3.500}
+  },
+  "clubs": {
+    "PSV": "NED", "Ajax": "NED", "Feyenoord": "NED", "FC Twente": "NED", "AZ": "NED", "NEC": "NED",
+    "Porto": "POR", "Benfica": "POR", "Sporting CP": "POR", "Braga": "POR",
+    "Club Brugge": "BEL", "Anderlecht": "BEL", "Union SG": "BEL", "Gent": "BEL",
+    "Galatasaray": "TUR", "Fenerbahçe": "TUR", "Besiktas": "TUR"
+  }
+}
