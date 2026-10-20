@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:46:32+00:00",
+ "generated_at": "2026-10-20T21:47:06+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-20",
@@ -118,7 +118,7 @@
  "today_matches": [
   {
    "date": "2026-10-20",
-   "time": "",
+   "time": "21:00",
    "competition": "UCL",
    "status": "final",
    "clock": "FT",
@@ -127,7 +127,18 @@
    "delta": 0.333
   }
  ],
- "next_matches": [],
+ "next_matches": [
+  {
+   "date": "2026-10-21",
+   "time": "21:00",
+   "competition": "UCL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Real Betis 0-0 Feyenoord Rotterdam",
+   "club": "Feyenoord Rotterdam",
+   "delta": 0.0
+  }
+ ],
  "live_matches": [],
  "ranking": [
   {
