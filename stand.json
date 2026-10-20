@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:42:48+00:00",
+ "generated_at": "2026-10-20T21:46:32+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-20",
@@ -115,6 +115,19 @@
    "rank_change": 0
   }
  ],
+ "today_matches": [
+  {
+   "date": "2026-10-20",
+   "time": "",
+   "competition": "UCL",
+   "status": "final",
+   "clock": "FT",
+   "match": "FC Porto 0-1 PSV Eindhoven",
+   "club": "PSV Eindhoven",
+   "delta": 0.333
+  }
+ ],
+ "next_matches": [],
  "live_matches": [],
  "ranking": [
   {

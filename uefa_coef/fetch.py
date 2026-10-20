@@ -54,8 +54,14 @@ def fetch_day(yyyymmdd: str, clubs: dict) -> tuple[list[dict], set[str]]:
             st = c["status"]["type"]
             status = "final" if st.get("completed") else ("live" if st["state"] == "in" else "pre")
             d = ev["date"][:10]
+            try:
+                from zoneinfo import ZoneInfo
+                local = datetime.fromisoformat(ev["date"].replace("Z", "+00:00")).astimezone(ZoneInfo("Europe/Amsterdam"))
+                d, t = local.date().isoformat(), local.strftime("%H:%M")
+            except Exception:
+                t = ""
             out.append({
-                "id": ev["id"], "date": d, "competition": comp, "stage": infer_stage(d),
+                "id": ev["id"], "date": d, "time": t, "competition": comp, "stage": infer_stage(d),
                 "home": hn, "away": an,
                 "home_goals": int(home.get("score") or 0), "away_goals": int(away.get("score") or 0),
                 "status": status, "clock": st.get("shortDetail", ""),
@@ -73,7 +79,7 @@ def main(days: list[str] | None = None):
     if not days:
         start = date.fromisoformat(baseline["since"])
         today = datetime.now(timezone.utc).date()
-        days = [(start + timedelta(i)).strftime("%Y%m%d") for i in range((today - start).days + 1)]
+        days = [(start + timedelta(i)).strftime("%Y%m%d") for i in range((today - start).days + 4)]  # +3 dagen vooruit
 
     unmapped_all = set()
     for d in days:

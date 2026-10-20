@@ -80,6 +80,18 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
         r["rank_midnight"] = i
         r["rank_change"] = r["rank_midnight"] - r["rank"]   # +1 = één plek gestegen
 
+    def involves(m):
+        return any(clubs.get(c) == focus for c in (m["home"], m["away"]))
+    def brief(m):
+        club = next(c for c in (m["home"], m["away"]) if clubs.get(c) == focus)
+        raw = match_points(Match(**{k: m[k] for k in MATCH_FIELDS})).get(club, 0.0) if m["status"] != "pre" else 0.0
+        return {"date": m["date"], "time": m.get("time", ""), "competition": m["competition"], "status": m["status"],
+                "clock": m.get("clock", ""), "match": f"{m['home']} {m['home_goals']}-{m['away_goals']} {m['away']}",
+                "club": club, "delta": truncate3(raw / assoc[focus]["clubs"])}
+    today_matches = [brief(m) for m in matches if involves(m) and m["date"] == today and m["status"] != "pre"]
+    upcoming = sorted((m for m in matches if involves(m) and m["status"] == "pre"), key=lambda m: (m["date"], m.get("time", "")))
+    next_matches = [brief(m) for m in upcoming if m["date"] == upcoming[0]["date"]] if upcoming else []
+
     idx = next(i for i, r in enumerate(rows) if r["assoc"] == focus)
     window = rows[max(0, idx - WINDOW): idx + WINDOW + 1]
     f = rows[idx]
@@ -103,6 +115,8 @@ def compute(baseline: dict, clubs: dict, matches: list[dict], focus: str = "NED"
                   "gap_down_to": below["name"] if below else None,
                   "log": log},
         "window": window,
+        "today_matches": today_matches,
+        "next_matches": next_matches,
         "live_matches": live_list,
         "ranking": rows,
     }

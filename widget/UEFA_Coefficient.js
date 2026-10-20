@@ -27,6 +27,10 @@ async function loadStand() {
 }
 
 const f3 = x => (x == null ? "–" : x.toFixed(3).replace(".", ","));
+const MAAND = ["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec"];
+const nlDate = iso => { const [y, m, d] = iso.split("-"); return parseInt(d) + " " + MAAND[parseInt(m) - 1]; };
+// "FC Porto 0-1 PSV Eindhoven" → "Porto 0-1 PSV"
+const shortMatch = s => s.replace(/\b(FC|SC|SL|RSC|KAA|KRC|CP|Eindhoven|Amsterdam|Rotterdam|Alkmaar|Nijmegen)\b/g, "").replace(/\s+/g, " ").trim();
 const signed = x => (x > 0 ? "+" : "") + f3(x);
 
 function row(stack, r, isFocus, live) {
@@ -71,7 +75,7 @@ function build(stand, stale) {
     const dot = head.addText("● LIVE");
     dot.font = Font.boldSystemFont(10); dot.textColor = C.live;
   } else {
-    const d = head.addText(stand.focus.today_delta ? "Δ vs 0:00" : "t/m " + stand.last_match_date);
+    const d = head.addText(stand.today_matches.length ? "vandaag" : "t/m " + nlDate(stand.last_match_date));
     d.font = Font.systemFont(9); d.textColor = C.faint;
   }
 
@@ -83,17 +87,19 @@ function build(stand, stale) {
     w.addSpacer(2);
   }
 
-  // voet: NL-regel van vanavond + gaten
+  // voet: NL-wedstrijden van vandaag (live of afgelopen), anders de eerstvolgende
   w.addSpacer(4);
-  if (live && stand.live_matches.length) {
-    const nlLive = stand.live_matches.filter(m => m.assocs.includes(f.assoc));
-    const pick = (nlLive.length ? nlLive : stand.live_matches)[0];
-    const l = w.addText(pick.match + "  " + pick.clock);
-    l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
+  let foot;
+  if (stand.today_matches.length) {
+    foot = stand.today_matches.map(m => shortMatch(m.match) + (m.status === "live" ? " " + m.clock : " " + signed(m.delta))).join(" · ");
+  } else if (stand.next_matches.length) {
+    const n = stand.next_matches[0];
+    foot = "volgende: " + stand.next_matches.map(m => shortMatch(m.match)).join(", ") + " " + nlDate(n.date) + (n.time ? " " + n.time : "");
   } else {
-    const l = w.addText("achterstand op " + f.gap_up_to + " " + f3(f.gap_up) + " · voorsprong op " + f.gap_down_to + " " + f3(f.gap_down));
-    l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 1;
+    foot = "geen NL-wedstrijd gepland";
   }
+  const l = w.addText(foot);
+  l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = small ? 2 : 1;
   if (stale) {
     const s = w.addText("⚠︎ cache"); s.font = Font.systemFont(8); s.textColor = C.faint;
   }
