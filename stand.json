@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:52:32+00:00",
+ "generated_at": "2026-10-21T20:54:38+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
@@ -34,7 +34,7 @@
    {
     "date": "2026-10-21",
     "competition": "UCL",
-    "status": "live",
+    "status": "final",
     "match": "Real Betis 1-0 Feyenoord Rotterdam",
     "club": "Feyenoord Rotterdam",
     "delta": 0.0
@@ -138,8 +138,8 @@
    "date": "2026-10-21",
    "time": "21:00",
    "competition": "UCL",
-   "status": "live",
-   "clock": "90'+5'",
+   "status": "final",
+   "clock": "FT",
    "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
@@ -190,15 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+5'",
-   "match": "Real Betis 1-0 Feyenoord Rotterdam",
-   "assocs": [
-    "NED"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Sporting CP 2-3 LASK Linz",
    "assocs": [
     "POR"
