@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:02:18+00:00",
+ "generated_at": "2026-10-21T19:17:17+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 54.062,
-  "projected": 54.062,
+  "projected": 54.229,
   "season": 5.333,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.0,
-  "week_delta": 0.333,
-  "gap_up": 6.788,
+  "live_delta": 0.166,
+  "week_delta": 0.5,
+  "gap_up": 6.821,
   "gap_up_to": "België",
-  "gap_down": 2.587,
+  "gap_down": 2.554,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -30,6 +30,14 @@
     "match": "FC Porto 0-1 PSV Eindhoven",
     "club": "PSV Eindhoven",
     "delta": 0.333
+   },
+   {
+    "date": "2026-10-21",
+    "competition": "UCL",
+    "status": "live",
+    "match": "Real Betis 0-0 Feyenoord Rotterdam",
+    "club": "Feyenoord Rotterdam",
+    "delta": 0.166
    }
   ]
  },
@@ -40,9 +48,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.95,
+   "live_delta": 0.4,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -56,10 +64,10 @@
    "clubs": 5,
    "season": 5.2,
    "total": 60.85,
-   "projected": 60.85,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 61.05,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 60.85,
@@ -72,9 +80,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.062,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 54.229,
+   "live_delta": 0.166,
+   "week_delta": 0.5,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -86,11 +94,11 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 6.1,
-   "total": 51.275,
-   "projected": 51.475,
-   "live_delta": 0.2,
-   "week_delta": 0.4,
+   "season": 6.5,
+   "total": 51.675,
+   "projected": 51.675,
+   "live_delta": 0.0,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -125,27 +133,83 @@
    "match": "FC Porto 0-1 PSV Eindhoven",
    "club": "PSV Eindhoven",
    "delta": 0.333
-  }
- ],
- "next_matches": [
+  },
   {
    "date": "2026-10-21",
    "time": "21:00",
    "competition": "UCL",
-   "status": "pre",
-   "clock": "Scheduled",
+   "status": "live",
+   "clock": "17'",
    "match": "Real Betis 0-0 Feyenoord Rotterdam",
    "club": "Feyenoord Rotterdam",
+   "delta": 0.166
+  }
+ ],
+ "next_matches": [
+  {
+   "date": "2026-10-22",
+   "time": "18:45",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Ararat-Armenia 0-0 AZ Alkmaar",
+   "club": "AZ Alkmaar",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-10-22",
+   "time": "18:45",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Dinamo Zagreb 0-0 NEC Nijmegen",
+   "club": "NEC Nijmegen",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-10-22",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Lincoln Red Imps 0-0 FC Twente",
+   "club": "FC Twente",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-10-22",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Ajax Amsterdam 0-0 Atalanta",
+   "club": "Ajax Amsterdam",
    "delta": 0.0
   }
  ],
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "1'",
-   "match": "Lille 0-0 Galatasaray",
+   "clock": "16'",
+   "match": "Club Brugge 0-0 Lens",
    "assocs": [
-    "TUR"
+    "BEL"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "17'",
+   "match": "Real Betis 0-0 Feyenoord Rotterdam",
+   "assocs": [
+    "NED"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "15'",
+   "match": "Sporting CP 1-0 LASK Linz",
+   "assocs": [
+    "POR"
    ]
   }
  ],
@@ -236,9 +300,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.95,
+   "live_delta": 0.4,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -252,10 +316,10 @@
    "clubs": 5,
    "season": 5.2,
    "total": 60.85,
-   "projected": 60.85,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 61.05,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 60.85,
@@ -268,9 +332,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.062,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 54.229,
+   "live_delta": 0.166,
+   "week_delta": 0.5,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -282,11 +346,11 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 6.1,
-   "total": 51.275,
-   "projected": 51.475,
-   "live_delta": 0.2,
-   "week_delta": 0.4,
+   "season": 6.5,
+   "total": 51.675,
+   "projected": 51.675,
+   "live_delta": 0.0,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,

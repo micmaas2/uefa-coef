@@ -51,8 +51,8 @@
   "away": "Lens",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -65,8 +65,8 @@
   "away": "Feyenoord Rotterdam",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -77,10 +77,10 @@
   "stage": "LP",
   "home": "Sporting CP",
   "away": "LASK Linz",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "15'",
   "decided_on_penalties": false
  },
  {
@@ -91,10 +91,10 @@
   "stage": "LP",
   "home": "Lille",
   "away": "Galatasaray",
-  "home_goals": 0,
-  "away_goals": 0,
-  "status": "live",
-  "clock": "1'",
+  "home_goals": 2,
+  "away_goals": 4,
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
