@@ -49,10 +49,10 @@
   "stage": "LP",
   "home": "Club Brugge",
   "away": "Lens",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "45'+2'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {
@@ -80,7 +80,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "45'+1'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {

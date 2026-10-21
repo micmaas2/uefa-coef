@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T19:48:06+00:00",
+ "generated_at": "2026-10-21T19:50:10+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
@@ -18,7 +18,7 @@
   "week_start_total": 53.729,
   "live_delta": 0.166,
   "week_delta": 0.5,
-  "gap_up": 6.821,
+  "gap_up": 7.021,
   "gap_up_to": "België",
   "gap_down": 2.554,
   "gap_down_to": "Turkije",
@@ -64,9 +64,9 @@
    "clubs": 5,
    "season": 5.2,
    "total": 60.85,
-   "projected": 61.05,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 61.25,
+   "live_delta": 0.4,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -190,8 +190,8 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "45'+2'",
-   "match": "Club Brugge 0-0 Lens",
+   "clock": "HT",
+   "match": "Club Brugge 1-0 Lens",
    "assocs": [
     "BEL"
    ]
@@ -206,7 +206,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "45'+1'",
+   "clock": "HT",
    "match": "Sporting CP 1-1 LASK Linz",
    "assocs": [
     "POR"
@@ -316,9 +316,9 @@
    "clubs": 5,
    "season": 5.2,
    "total": 60.85,
-   "projected": 61.05,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 61.25,
+   "live_delta": 0.4,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
