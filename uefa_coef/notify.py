@@ -31,8 +31,8 @@ def events(old: dict, new: dict) -> list[tuple[str, str, str]]:
     out = []
     f_old, f_new = old["focus"], new["focus"]
     nl = f_new["assoc"]
-    old_m = {key(m): m for m in old.get("today_matches", [])}
-    for m in new.get("today_matches", []):
+    old_m = {key(m): m for m in old.get("week_matches", [])}
+    for m in new.get("week_matches", []):
         o = old_m.get(key(m))
         short = m["match"]
         if o is None or o["status"] == "pre":
@@ -50,10 +50,10 @@ def events(old: dict, new: dict) -> list[tuple[str, str, str]]:
         out.append((f"{arrow} {nl} naar plek {f_new['rank']}",
                     f"was {f_old['rank']} · totaal {f_new['projected']:.3f}".replace(".", ","), "high"))
     # samenvatting bij laatste eindsignaal van de dag
-    if any(t.startswith("🏁") for t, _, _ in out) and all(m["status"] == "final" for m in new.get("today_matches", [])):
+    if any(t.startswith("🏁") for t, _, _ in out) and all(m["status"] == "final" for m in new.get("week_matches", [])):
         up, down = f_new.get("gap_up_to"), f_new.get("gap_down_to")
         out.append((f"Stand {nl}: #{f_new['rank']} · {f_new['projected']:.3f}".replace(".", ","),
-                    f"vandaag {f3(f_new['today_delta'])} · achter {up} {f_new['gap_up']:.3f} · voor {down} {f_new['gap_down']:.3f}".replace(".", ","),
+                    f"deze week {f3(f_new['week_delta'])} · achter {up} {f_new['gap_up']:.3f} · voor {down} {f_new['gap_down']:.3f}".replace(".", ","),
                     "default"))
     return out
 

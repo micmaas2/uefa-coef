@@ -46,8 +46,8 @@ function row(stack, r, isFocus, live) {
   name.textColor = isFocus ? C.nl : C.text;
   name.lineLimit = 1;
   s.addSpacer();
-  const delta = r.today_delta;           // t.o.v. stand om middernacht
-  if (r.played_today) {                  // gespeeld → altijd tonen, ook +0,000
+  const delta = r.week_delta;            // t.o.v. stand aan het begin van de week (ma)
+  if (r.played_week) {                   // gespeeld deze week → altijd tonen, ook +0,000
     const d = s.addText(signed(delta));
     d.font = Font.mediumMonospacedSystemFont(10);
     d.textColor = delta > 0 ? C.up : delta < 0 ? C.down : C.dim;
@@ -75,7 +75,7 @@ function build(stand, stale) {
     const dot = head.addText("● LIVE");
     dot.font = Font.boldSystemFont(10); dot.textColor = C.live;
   } else {
-    const d = head.addText(stand.today_matches.length ? "vandaag" : "t/m " + nlDate(stand.last_match_date));
+    const d = head.addText(stand.week_matches.length ? "week " + stand.week : "t/m " + nlDate(stand.last_match_date));
     d.font = Font.systemFont(9); d.textColor = C.faint;
   }
 
@@ -87,11 +87,11 @@ function build(stand, stale) {
     w.addSpacer(2);
   }
 
-  // voet: NL-wedstrijden van vandaag (live of afgelopen), anders de eerstvolgende
+  // voet: NL-wedstrijden van deze week (live of afgelopen), anders de eerstvolgende
   w.addSpacer(4);
   let foot;
-  if (stand.today_matches.length) {
-    foot = stand.today_matches.map(m => shortMatch(m.match) + (m.status === "live" ? " " + m.clock : " " + signed(m.delta))).join(" · ");
+  if (stand.week_matches.length) {
+    foot = stand.week_matches.map(m => shortMatch(m.match) + (m.status === "live" ? " " + m.clock : " " + signed(m.delta))).join(" · ");
   } else if (stand.next_matches.length) {
     const n = stand.next_matches[0];
     foot = "volgende: " + stand.next_matches.map(m => shortMatch(m.match)).join(", ") + " " + nlDate(n.date) + (n.time ? " " + n.time : "");
@@ -99,7 +99,7 @@ function build(stand, stale) {
     foot = "geen NL-wedstrijd gepland";
   }
   const l = w.addText(foot);
-  l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = small ? 2 : 1;
+  l.font = Font.systemFont(9); l.textColor = C.dim; l.lineLimit = 2; l.minimumScaleFactor = 0.8;
   if (stale) {
     const s = w.addText("⚠︎ cache"); s.font = Font.systemFont(8); s.textColor = C.faint;
   }
