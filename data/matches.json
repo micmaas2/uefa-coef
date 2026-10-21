@@ -79,8 +79,8 @@
   "away": "LASK Linz",
   "home_goals": 2,
   "away_goals": 3,
-  "status": "live",
-  "clock": "90'+8'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {

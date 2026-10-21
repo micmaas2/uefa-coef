@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21T20:58:49+00:00",
+ "generated_at": "2026-10-21T21:00:55+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
  "week": "19 okt – 25 okt",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -187,16 +187,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UCL",
-   "clock": "90'+8'",
-   "match": "Sporting CP 2-3 LASK Linz",
-   "assocs": [
-    "POR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
