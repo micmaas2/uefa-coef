@@ -52,7 +52,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "58'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {
@@ -63,10 +63,10 @@
   "stage": "LP",
   "home": "Real Betis",
   "away": "Feyenoord Rotterdam",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "59'",
+  "clock": "61'",
   "decided_on_penalties": false
  },
  {
@@ -80,7 +80,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "57'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {

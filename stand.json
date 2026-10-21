@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:17:08+00:00",
+ "generated_at": "2026-10-21T20:19:12+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 54.062,
-  "projected": 54.229,
+  "projected": 54.062,
   "season": 5.333,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.166,
-  "week_delta": 0.5,
-  "gap_up": 7.021,
+  "live_delta": 0.0,
+  "week_delta": 0.333,
+  "gap_up": 7.188,
   "gap_up_to": "België",
-  "gap_down": 2.554,
+  "gap_down": 2.387,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -35,9 +35,9 @@
     "date": "2026-10-21",
     "competition": "UCL",
     "status": "live",
-    "match": "Real Betis 0-0 Feyenoord Rotterdam",
+    "match": "Real Betis 1-0 Feyenoord Rotterdam",
     "club": "Feyenoord Rotterdam",
-    "delta": 0.166
+    "delta": 0.0
    }
   ]
  },
@@ -80,9 +80,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.229,
-   "live_delta": 0.166,
-   "week_delta": 0.5,
+   "projected": 54.062,
+   "live_delta": 0.0,
+   "week_delta": 0.333,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -139,10 +139,10 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "59'",
-   "match": "Real Betis 0-0 Feyenoord Rotterdam",
+   "clock": "61'",
+   "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "club": "Feyenoord Rotterdam",
-   "delta": 0.166
+   "delta": 0.0
   }
  ],
  "next_matches": [
@@ -190,7 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "58'",
+   "clock": "59'",
    "match": "Club Brugge 2-0 Lens",
    "assocs": [
     "BEL"
@@ -198,15 +198,15 @@
   },
   {
    "competition": "UCL",
-   "clock": "59'",
-   "match": "Real Betis 0-0 Feyenoord Rotterdam",
+   "clock": "61'",
+   "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UCL",
-   "clock": "57'",
+   "clock": "59'",
    "match": "Sporting CP 1-1 LASK Linz",
    "assocs": [
     "POR"
@@ -332,9 +332,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.229,
-   "live_delta": 0.166,
-   "week_delta": 0.5,
+   "projected": 54.062,
+   "live_delta": 0.0,
+   "week_delta": 0.333,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
