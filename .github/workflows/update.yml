@@ -24,8 +24,14 @@ jobs:
           python-version: "3.12"
       - name: Fetch results and rebuild stand
         run: |
+          cp stand.json /tmp/stand_before.json
           python3 -m uefa_coef.fetch
           python3 -m uefa_coef.engine
+      - name: Push notifications (ntfy)
+        if: always()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 -m uefa_coef.notify /tmp/stand_before.json stand.json
       - name: Commit if changed
         run: |
           git config user.name "uefa-coef bot"

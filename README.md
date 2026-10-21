@@ -26,6 +26,11 @@ middernacht (Europe/Amsterdam); de widget toont die delta per land en ▲/▼ bi
 Stage wordt uit de datum afgeleid (LP t/m januari). Correctie: zet in matches.json
 `"stage": "PO", "stage_override": true` of `"decided_on_penalties": true`; fetch bewaart dat.
 
+## Pushmeldingen (ntfy)
+`uefa_coef/notify.py` vergelijkt de stand vóór en na elke run en stuurt via ntfy.sh een melding
+bij aftrap, goal, eindsignaal en rangwissel van NL. Topic staat in GitHub-secret `NTFY_TOPIC`.
+Test: `NTFY_TOPIC=<topic> python3 -m uefa_coef.notify oud.json nieuw.json`.
+
 ## Widget
 1. Host `stand.json` ergens met een https-URL (GitHub raw, thuisserver, S3 …).
 2. Scriptable → nieuw script → plak `widget/UEFA_Coefficient.js`.
