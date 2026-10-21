@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-20T21:47:06+00:00",
+ "generated_at": "2026-10-21T16:45:52+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-10-20",
- "today": "2026-10-20",
- "live": false,
+ "last_match_date": "2026-10-21",
+ "today": "2026-10-21",
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -15,12 +15,12 @@
   "projected": 54.062,
   "season": 5.333,
   "clubs": 6,
-  "midnight_total": 53.729,
+  "midnight_total": 54.062,
   "live_delta": 0.0,
-  "today_delta": 0.333,
+  "today_delta": 0.0,
   "gap_up": 6.788,
   "gap_up_to": "België",
-  "gap_down": 2.787,
+  "gap_down": 2.587,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -43,7 +43,7 @@
    "projected": 66.55,
    "live_delta": 0.0,
    "today_delta": 0.0,
-   "played_today": true,
+   "played_today": false,
    "rank": 6,
    "rank_confirmed": 6,
    "midnight_total": 66.55,
@@ -74,11 +74,11 @@
    "total": 54.062,
    "projected": 54.062,
    "live_delta": 0.0,
-   "today_delta": 0.333,
-   "played_today": true,
+   "today_delta": 0.0,
+   "played_today": false,
    "rank": 8,
    "rank_confirmed": 8,
-   "midnight_total": 53.729,
+   "midnight_total": 54.062,
    "rank_midnight": 8,
    "rank_change": 0
   },
@@ -88,13 +88,13 @@
    "clubs": 5,
    "season": 6.1,
    "total": 51.275,
-   "projected": 51.275,
-   "live_delta": 0.0,
+   "projected": 51.475,
+   "live_delta": 0.2,
    "today_delta": 0.2,
    "played_today": true,
    "rank": 9,
    "rank_confirmed": 9,
-   "midnight_total": 51.075,
+   "midnight_total": 51.275,
    "rank_midnight": 9,
    "rank_change": 0
   },
@@ -107,7 +107,7 @@
    "projected": 45.812,
    "live_delta": 0.0,
    "today_delta": 0.0,
-   "played_today": true,
+   "played_today": false,
    "rank": 10,
    "rank_confirmed": 10,
    "midnight_total": 45.812,
@@ -115,18 +115,7 @@
    "rank_change": 0
   }
  ],
- "today_matches": [
-  {
-   "date": "2026-10-20",
-   "time": "21:00",
-   "competition": "UCL",
-   "status": "final",
-   "clock": "FT",
-   "match": "FC Porto 0-1 PSV Eindhoven",
-   "club": "PSV Eindhoven",
-   "delta": 0.333
-  }
- ],
+ "today_matches": [],
  "next_matches": [
   {
    "date": "2026-10-21",
@@ -139,7 +128,16 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Lille 0-0 Galatasaray",
+   "assocs": [
+    "TUR"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -230,7 +228,7 @@
    "projected": 66.55,
    "live_delta": 0.0,
    "today_delta": 0.0,
-   "played_today": true,
+   "played_today": false,
    "rank": 6,
    "rank_confirmed": 6,
    "midnight_total": 66.55,
@@ -261,11 +259,11 @@
    "total": 54.062,
    "projected": 54.062,
    "live_delta": 0.0,
-   "today_delta": 0.333,
-   "played_today": true,
+   "today_delta": 0.0,
+   "played_today": false,
    "rank": 8,
    "rank_confirmed": 8,
-   "midnight_total": 53.729,
+   "midnight_total": 54.062,
    "rank_midnight": 8,
    "rank_change": 0
   },
@@ -275,13 +273,13 @@
    "clubs": 5,
    "season": 6.1,
    "total": 51.275,
-   "projected": 51.275,
-   "live_delta": 0.0,
+   "projected": 51.475,
+   "live_delta": 0.2,
    "today_delta": 0.2,
    "played_today": true,
    "rank": 9,
    "rank_confirmed": 9,
-   "midnight_total": 51.075,
+   "midnight_total": 51.275,
    "rank_midnight": 9,
    "rank_change": 0
   },
@@ -294,7 +292,7 @@
    "projected": 45.812,
    "live_delta": 0.0,
    "today_delta": 0.0,
-   "played_today": true,
+   "played_today": false,
    "rank": 10,
    "rank_confirmed": 10,
    "midnight_total": 45.812,
@@ -325,11 +323,11 @@
    "total": 45.525,
    "projected": 45.525,
    "live_delta": 0.0,
-   "today_delta": 0.2,
-   "played_today": true,
+   "today_delta": 0.0,
+   "played_today": false,
    "rank": 12,
    "rank_confirmed": 12,
-   "midnight_total": 45.325,
+   "midnight_total": 45.525,
    "rank_midnight": 12,
    "rank_change": 0
   }
