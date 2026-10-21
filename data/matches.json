@@ -51,8 +51,8 @@
   "away": "Lens",
   "home_goals": 3,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+1'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -66,7 +66,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'+2'",
+  "clock": "90'+5'",
   "decided_on_penalties": false
  },
  {
@@ -80,7 +80,7 @@
   "home_goals": 2,
   "away_goals": 3,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {

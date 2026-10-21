@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:50:26+00:00",
+ "generated_at": "2026-10-21T20:52:32+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-21",
@@ -62,10 +62,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 5.2,
-   "total": 60.85,
+   "season": 5.6,
+   "total": 61.25,
    "projected": 61.25,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
@@ -139,7 +139,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "90'+2'",
+   "clock": "90'+5'",
    "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
@@ -190,15 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+1'",
-   "match": "Club Brugge 3-0 Lens",
-   "assocs": [
-    "BEL"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+2'",
+   "clock": "90'+5'",
    "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "assocs": [
     "NED"
@@ -206,7 +198,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+2'",
    "match": "Sporting CP 2-3 LASK Linz",
    "assocs": [
     "POR"
@@ -314,10 +306,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 5.2,
-   "total": 60.85,
+   "season": 5.6,
+   "total": 61.25,
    "projected": 61.25,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
