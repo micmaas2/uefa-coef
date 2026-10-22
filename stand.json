@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:49:52+00:00",
+ "generated_at": "2026-10-22T20:51:56+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -11,12 +11,12 @@
   "rank_confirmed": 8,
   "rank_week_start": 8,
   "rank_change": 0,
-  "total": 54.729,
+  "total": 55.062,
   "projected": 55.395,
-  "season": 6.0,
+  "season": 6.333,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.666,
+  "live_delta": 0.333,
   "week_delta": 1.666,
   "gap_up": 6.255,
   "gap_up_to": "België",
@@ -66,8 +66,8 @@
    {
     "date": "2026-10-22",
     "competition": "UECL",
-    "status": "live",
-    "match": "Ajax Amsterdam 1-0 Atalanta",
+    "status": "final",
+    "match": "Ajax Amsterdam 2-0 Atalanta",
     "club": "Ajax Amsterdam",
     "delta": 0.333
    }
@@ -110,10 +110,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 6.0,
-   "total": 54.729,
+   "season": 6.333,
+   "total": 55.062,
    "projected": 55.395,
-   "live_delta": 0.666,
+   "live_delta": 0.333,
    "week_delta": 1.666,
    "played_week": true,
    "rank": 8,
@@ -142,10 +142,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 5.8,
-   "total": 46.212,
+   "season": 6.2,
+   "total": 46.612,
    "projected": 46.612,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 10,
@@ -201,7 +201,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Lincoln Red Imps 1-3 FC Twente",
    "club": "FC Twente",
    "delta": 0.333
@@ -210,9 +210,9 @@
    "date": "2026-10-22",
    "time": "21:00",
    "competition": "UECL",
-   "status": "live",
-   "clock": "90'+3'",
-   "match": "Ajax Amsterdam 1-0 Atalanta",
+   "status": "final",
+   "clock": "FT",
+   "match": "Ajax Amsterdam 2-0 Atalanta",
    "club": "Ajax Amsterdam",
    "delta": 0.333
   }
@@ -221,7 +221,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'+2'",
+   "clock": "90'+5'",
    "match": "Viktoria Plzen 1-2 Levski Sofia",
    "assocs": [
     "CZE"
@@ -229,7 +229,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+1'",
+   "clock": "90'+4'",
    "match": "Jagiellonia Bialystok 0-3 Anderlecht",
    "assocs": [
     "BEL",
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Omonia Nicosia 1-4 Benfica",
    "assocs": [
     "POR"
@@ -246,24 +246,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "88'",
+   "clock": "90'+1'",
    "match": "Besiktas 2-2 Crystal Palace",
    "assocs": [
     "TUR"
    ]
   },
   {
-   "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Olympiacos 1-0 Sparta Prague",
-   "assocs": [
-    "CZE",
-    "GRE"
-   ]
-  },
-  {
    "competition": "UECL",
-   "clock": "90'+1'",
+   "clock": "90'+2'",
    "match": "Braga 2-0 KAA Gent",
    "assocs": [
     "BEL",
@@ -272,16 +263,8 @@
   },
   {
    "competition": "UECL",
-   "clock": "90'+1'",
-   "match": "Lincoln Red Imps 1-3 FC Twente",
-   "assocs": [
-    "NED"
-   ]
-  },
-  {
-   "competition": "UECL",
    "clock": "90'+3'",
-   "match": "Ajax Amsterdam 1-0 Atalanta",
+   "match": "Lincoln Red Imps 1-3 FC Twente",
    "assocs": [
     "NED"
    ]
@@ -404,10 +387,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 6.0,
-   "total": 54.729,
+   "season": 6.333,
+   "total": 55.062,
    "projected": 55.395,
-   "live_delta": 0.666,
+   "live_delta": 0.333,
    "week_delta": 1.666,
    "played_week": true,
    "rank": 8,
@@ -436,10 +419,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 5.8,
-   "total": 46.212,
+   "season": 6.2,
+   "total": 46.612,
    "projected": 46.612,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 10,

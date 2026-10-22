@@ -108,7 +108,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "90'+2'",
+  "clock": "90'+5'",
   "decided_on_penalties": false
  },
  {
@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 3,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+4'",
   "decided_on_penalties": false
  },
  {
@@ -136,7 +136,7 @@
   "home_goals": 1,
   "away_goals": 4,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -178,7 +178,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -191,8 +191,8 @@
   "away": "Sparta Prague",
   "home_goals": 1,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 1,
   "away_goals": 3,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -273,10 +273,10 @@
   "stage": "LP",
   "home": "Ajax Amsterdam",
   "away": "Atalanta",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
