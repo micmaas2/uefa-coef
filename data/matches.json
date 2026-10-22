@@ -108,7 +108,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 3,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -134,9 +134,9 @@
   "home": "Omonia Nicosia",
   "away": "Benfica",
   "home_goals": 1,
-  "away_goals": 3,
+  "away_goals": 4,
   "status": "live",
-  "clock": "85'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -178,7 +178,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "84'",
+  "clock": "86'",
   "decided_on_penalties": false
  },
  {
@@ -192,7 +192,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "86'",
+  "clock": "88'",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 1,
   "away_goals": 3,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -276,7 +276,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
