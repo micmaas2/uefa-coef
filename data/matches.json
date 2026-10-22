@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "45'+2'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {
@@ -136,7 +136,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "45'+1'",
+  "clock": "45'+3'",
   "decided_on_penalties": false
  },
  {
@@ -175,10 +175,10 @@
   "stage": "LP",
   "home": "Besiktas",
   "away": "Crystal Palace",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "45'",
+  "clock": "45'+2'",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "45'+2'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "45'+2'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {

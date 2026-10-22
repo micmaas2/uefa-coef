@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:47:45+00:00",
+ "generated_at": "2026-10-22T19:49:51+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -20,7 +20,7 @@
   "week_delta": 1.5,
   "gap_up": 6.421,
   "gap_up_to": "België",
-  "gap_down": 2.954,
+  "gap_down": 2.754,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -128,9 +128,9 @@
    "clubs": 5,
    "season": 6.9,
    "total": 52.075,
-   "projected": 52.275,
-   "live_delta": 0.2,
-   "week_delta": 1.2,
+   "projected": 52.475,
+   "live_delta": 0.4,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -201,7 +201,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "club": "FC Twente",
    "delta": 0.333
@@ -229,7 +229,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Jagiellonia Bialystok 0-1 Anderlecht",
    "assocs": [
     "BEL",
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+1'",
+   "clock": "45'+3'",
    "match": "Omonia Nicosia 1-1 Benfica",
    "assocs": [
     "POR"
@@ -246,8 +246,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'",
-   "match": "Besiktas 0-0 Crystal Palace",
+   "clock": "45'+2'",
+   "match": "Besiktas 1-0 Crystal Palace",
    "assocs": [
     "TUR"
    ]
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Braga 1-0 KAA Gent",
    "assocs": [
     "BEL",
@@ -272,7 +272,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "assocs": [
     "NED"
@@ -422,9 +422,9 @@
    "clubs": 5,
    "season": 6.9,
    "total": 52.075,
-   "projected": 52.275,
-   "live_delta": 0.2,
-   "week_delta": 1.2,
+   "projected": 52.475,
+   "live_delta": 0.4,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
