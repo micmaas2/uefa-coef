@@ -108,7 +108,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "21'",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -120,9 +120,9 @@
   "home": "Jagiellonia Bialystok",
   "away": "Anderlecht",
   "home_goals": 0,
-  "away_goals": 0,
+  "away_goals": 1,
   "status": "live",
-  "clock": "21'",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -136,7 +136,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "19'",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -178,7 +178,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "19'",
+  "clock": "21'",
   "decided_on_penalties": false
  },
  {
@@ -192,7 +192,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "20'",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "20'",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -260,9 +260,9 @@
   "home": "Lincoln Red Imps",
   "away": "FC Twente",
   "home_goals": 0,
-  "away_goals": 0,
+  "away_goals": 1,
   "status": "live",
-  "clock": "20'",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -276,7 +276,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "20'",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
