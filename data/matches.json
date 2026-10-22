@@ -121,8 +121,8 @@
   "away": "Anderlecht",
   "home_goals": 0,
   "away_goals": 3,
-  "status": "live",
-  "clock": "90'+6'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -135,8 +135,8 @@
   "away": "Benfica",
   "home_goals": 1,
   "away_goals": 4,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -178,7 +178,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "90'+3'",
+  "clock": "90'+5'",
   "decided_on_penalties": false
  },
  {

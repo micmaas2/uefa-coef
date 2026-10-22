@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:54:01+00:00",
+ "generated_at": "2026-10-22T20:56:06+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -78,10 +78,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 6.7,
-   "total": 66.95,
+   "season": 7.1,
+   "total": 67.35,
    "projected": 67.35,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 6,
@@ -94,10 +94,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 5.6,
-   "total": 61.25,
+   "season": 6.0,
+   "total": 61.65,
    "projected": 61.65,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 7,
@@ -221,24 +221,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'+6'",
-   "match": "Jagiellonia Bialystok 0-3 Anderlecht",
-   "assocs": [
-    "BEL",
-    "POL"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Omonia Nicosia 1-4 Benfica",
-   "assocs": [
-    "POR"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "Besiktas 2-2 Crystal Palace",
    "assocs": [
     "TUR"
@@ -330,10 +313,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 6.7,
-   "total": 66.95,
+   "season": 7.1,
+   "total": 67.35,
    "projected": 67.35,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 6,
@@ -346,10 +329,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 5.6,
-   "total": 61.25,
+   "season": 6.0,
+   "total": 61.65,
    "projected": 61.65,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 7,
