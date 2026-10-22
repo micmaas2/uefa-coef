@@ -177,8 +177,8 @@
   "away": "Crystal Palace",
   "home_goals": 2,
   "away_goals": 2,
-  "status": "live",
-  "clock": "90'+5'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {

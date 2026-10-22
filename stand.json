@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-22T20:56:06+00:00",
+ "generated_at": "2026-10-22T20:58:11+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
  "week": "19 okt – 25 okt",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -126,10 +126,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 6.9,
-   "total": 52.075,
+   "season": 7.1,
+   "total": 52.275,
    "projected": 52.275,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 1.2,
    "played_week": true,
    "rank": 9,
@@ -218,16 +218,7 @@
   }
  ],
  "next_matches": [],
- "live_matches": [
-  {
-   "competition": "UEL",
-   "clock": "90'+5'",
-   "match": "Besiktas 2-2 Crystal Palace",
-   "assocs": [
-    "TUR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -361,10 +352,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 6.9,
-   "total": 52.075,
+   "season": 7.1,
+   "total": 52.275,
    "projected": 52.275,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 1.2,
    "played_week": true,
    "rank": 9,
