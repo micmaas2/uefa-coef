@@ -1,47 +1,50 @@
 name: Update stand.json
 
-# GitHub's cron is onbetrouwbaar voor hoge frequenties (*/5 wordt vaak overgeslagen).
-# Daarom: één job per speelavond die zelf elke 2 min polt (max ~5,5 uur), plus een
-# dagelijkse korte run voor nagekomen uitslagen en het programma.
+# GitHub's cron is onbetrouwbaar (uren vertraging, runs overgeslagen). Daarom draait
+# er één job die zelf beslist: pollen (elke 2 min) zolang er vandaag iets live/gepland
+# is, anders slapen tot 10 min voor de eerstvolgende aftrap. Tegen het 6-uurs
+# joblimiet start hij zichzelf opnieuw (chain). De crons zijn alleen een vangnet.
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "once = één keer, watch = blijven pollen tot alles afgelopen is"
+        description: "once = één keer, watch = pollen/slapen en zichzelf doorstarten"
         default: watch
         type: choice
         options: [once, watch]
   schedule:
-    - cron: "15 16 * * 2,3,4"   # di/wo/do 18:15 NL-tijd: start de wake-lus (eerste aftrap 18:45)
-    - cron: "30 9 * * *"        # dagelijks: nagekomen uitslagen + programma 3 dagen vooruit
+    - cron: "0 */6 * * *"       # vangnet: elke 6 uur een (her)start als de keten dood is
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-stand
-  cancel-in-progress: true      # een nieuwe (handmatige) start vervangt de lopende lus
+  cancel-in-progress: true      # nieuwe start vervangt de lopende (slapende) job
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 345        # < 6 uur jobmaximum
+    timeout-minutes: 350
     env:
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Poll, rebuild, notify, commit
+      - name: Poll / sleep / notify / commit
+        id: loop
         run: |
           git config user.name "uefa-coef bot"
           git config user.email "actions@users.noreply.github.com"
-          MODE="${{ github.event.inputs.mode }}"
-          [ -z "$MODE" ] && { [ "${{ github.event.schedule }}" = "30 9 * * *" ] && MODE=once || MODE=watch; }
+          MODE="${{ github.event.inputs.mode }}"; [ -z "$MODE" ] && MODE=watch
+          DEADLINE=$(( $(date +%s) + 330*60 ))
           echo "mode=$MODE"
-          DEADLINE=$(( $(date +%s) + 340*60 ))
           while true; do
+            git pull -q --rebase origin main || true
             cp stand.json /tmp/stand_before.json
             python3 -m uefa_coef.fetch
             python3 -m uefa_coef.engine
@@ -49,13 +52,18 @@ jobs:
             if ! git diff --quiet -- data/matches.json data/unmapped.json; then
               git add data/matches.json data/unmapped.json stand.json
               git commit -q -m "auto: update stand $(date -u +'%Y-%m-%d %H:%M')"
-              git pull -q --rebase origin main || true
-              git push -q || true
+              git push -q || { git pull -q --rebase origin main; git push -q; } || true
             fi
-            [ "$MODE" = once ] && break
-            # stoppen als er vandaag niets meer live of gepland is
-            python3 -m uefa_coef.pending && break
-            [ $(date +%s) -gt $DEADLINE ] && break
-            sleep 120
+            [ "$MODE" = once ] && { echo "chain=no" >> "$GITHUB_OUTPUT"; break; }
+            read ACTION SECS < <(python3 -m uefa_coef.plan)
+            NOW=$(date +%s)
+            if [ "$ACTION" = poll ]; then SECS=120; fi
+            if [ $(( NOW + SECS )) -gt $DEADLINE ]; then
+              echo "time's up → chain"; echo "chain=yes" >> "$GITHUB_OUTPUT"; break
+            fi
+            echo "$(date -u +%H:%M) $ACTION ${SECS}s"
+            sleep "$SECS"
           done
-          echo "done"
+      - name: Chain next run
+        if: steps.loop.outputs.chain == 'yes'
+        run: gh workflow run update.yml --ref main -f mode=watch
