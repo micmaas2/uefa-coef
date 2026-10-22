@@ -148,9 +148,9 @@
   "home": "Lech Poznan",
   "away": "Sunderland",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "away_goals": 1,
+  "status": "live",
+  "clock": "43'",
   "decided_on_penalties": false
  },
  {
@@ -162,9 +162,9 @@
   "home": "Ararat-Armenia",
   "away": "AZ Alkmaar",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "away_goals": 2,
+  "status": "live",
+  "clock": "43'",
   "decided_on_penalties": false
  },
  {
@@ -203,10 +203,10 @@
   "stage": "LP",
   "home": "Dinamo Zagreb",
   "away": "NEC Nijmegen",
-  "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "home_goals": 2,
+  "away_goals": 1,
+  "status": "live",
+  "clock": "41'",
   "decided_on_penalties": false
  },
  {
@@ -217,10 +217,10 @@
   "stage": "LP",
   "home": "Ferencvaros",
   "away": "Torreense",
-  "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "home_goals": 1,
+  "away_goals": 1,
+  "status": "live",
+  "clock": "43'",
   "decided_on_penalties": false
  },
  {
@@ -231,10 +231,10 @@
   "stage": "LP",
   "home": "Trabzonspor",
   "away": "Heart of Midlothian",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "43'",
   "decided_on_penalties": false
  },
  {
@@ -287,10 +287,10 @@
   "stage": "LP",
   "home": "Kairat Almaty",
   "away": "Panathinaikos",
-  "home_goals": 0,
-  "away_goals": 0,
-  "status": "live",
-  "clock": "6'",
+  "home_goals": 1,
+  "away_goals": 5,
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  }
 ]

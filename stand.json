@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:36:33+00:00",
+ "generated_at": "2026-10-22T17:28:20+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 54.062,
-  "projected": 54.062,
+  "projected": 54.395,
   "season": 5.333,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.0,
-  "week_delta": 0.333,
-  "gap_up": 7.188,
+  "live_delta": 0.333,
+  "week_delta": 0.666,
+  "gap_up": 6.855,
   "gap_up_to": "België",
-  "gap_down": 2.387,
+  "gap_down": 2.32,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -38,6 +38,22 @@
     "match": "Real Betis 1-0 Feyenoord Rotterdam",
     "club": "Feyenoord Rotterdam",
     "delta": 0.0
+   },
+   {
+    "date": "2026-10-22",
+    "competition": "UEL",
+    "status": "live",
+    "match": "Ararat-Armenia 0-2 AZ Alkmaar",
+    "club": "AZ Alkmaar",
+    "delta": 0.333
+   },
+   {
+    "date": "2026-10-22",
+    "competition": "UEL",
+    "status": "live",
+    "match": "Dinamo Zagreb 2-1 NEC Nijmegen",
+    "club": "NEC Nijmegen",
+    "delta": 0.0
    }
   ]
  },
@@ -48,9 +64,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.75,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -80,9 +96,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.062,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 54.395,
+   "live_delta": 0.333,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -96,9 +112,9 @@
    "clubs": 5,
    "season": 6.5,
    "total": 51.675,
-   "projected": 51.675,
-   "live_delta": 0.0,
-   "week_delta": 0.6,
+   "projected": 52.075,
+   "live_delta": 0.4,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -110,11 +126,11 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 5.4,
-   "total": 45.812,
-   "projected": 46.012,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "season": 5.8,
+   "total": 46.212,
+   "projected": 46.212,
+   "live_delta": 0.0,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -143,29 +159,29 @@
    "match": "Real Betis 1-0 Feyenoord Rotterdam",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
+  },
+  {
+   "date": "2026-10-22",
+   "time": "18:45",
+   "competition": "UEL",
+   "status": "live",
+   "clock": "43'",
+   "match": "Ararat-Armenia 0-2 AZ Alkmaar",
+   "club": "AZ Alkmaar",
+   "delta": 0.333
+  },
+  {
+   "date": "2026-10-22",
+   "time": "18:45",
+   "competition": "UEL",
+   "status": "live",
+   "clock": "41'",
+   "match": "Dinamo Zagreb 2-1 NEC Nijmegen",
+   "club": "NEC Nijmegen",
+   "delta": 0.0
   }
  ],
  "next_matches": [
-  {
-   "date": "2026-10-22",
-   "time": "18:45",
-   "competition": "UEL",
-   "status": "pre",
-   "clock": "Scheduled",
-   "match": "Ararat-Armenia 0-0 AZ Alkmaar",
-   "club": "AZ Alkmaar",
-   "delta": 0.0
-  },
-  {
-   "date": "2026-10-22",
-   "time": "18:45",
-   "competition": "UEL",
-   "status": "pre",
-   "clock": "Scheduled",
-   "match": "Dinamo Zagreb 0-0 NEC Nijmegen",
-   "club": "NEC Nijmegen",
-   "delta": 0.0
-  },
   {
    "date": "2026-10-22",
    "time": "21:00",
@@ -189,11 +205,43 @@
  ],
  "live_matches": [
   {
-   "competition": "UECL",
-   "clock": "6'",
-   "match": "Kairat Almaty 0-0 Panathinaikos",
+   "competition": "UEL",
+   "clock": "43'",
+   "match": "Lech Poznan 0-1 Sunderland",
    "assocs": [
-    "GRE"
+    "POL"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "43'",
+   "match": "Ararat-Armenia 0-2 AZ Alkmaar",
+   "assocs": [
+    "NED"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "41'",
+   "match": "Dinamo Zagreb 2-1 NEC Nijmegen",
+   "assocs": [
+    "NED"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "43'",
+   "match": "Ferencvaros 1-1 Torreense",
+   "assocs": [
+    "POR"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "43'",
+   "match": "Trabzonspor 1-0 Heart of Midlothian",
+   "assocs": [
+    "TUR"
    ]
   }
  ],
@@ -284,9 +332,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.75,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -316,9 +364,9 @@
    "clubs": 6,
    "season": 5.333,
    "total": 54.062,
-   "projected": 54.062,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 54.395,
+   "live_delta": 0.333,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -332,9 +380,9 @@
    "clubs": 5,
    "season": 6.5,
    "total": 51.675,
-   "projected": 51.675,
-   "live_delta": 0.0,
-   "week_delta": 0.6,
+   "projected": 52.075,
+   "live_delta": 0.4,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -346,11 +394,11 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 5.4,
-   "total": 45.812,
-   "projected": 46.012,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "season": 5.8,
+   "total": 46.212,
+   "projected": 46.212,
+   "live_delta": 0.0,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -367,7 +415,7 @@
    "projected": 45.525,
    "live_delta": 0.0,
    "week_delta": 0.0,
-   "played_week": false,
+   "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
    "week_start_total": 45.525,
