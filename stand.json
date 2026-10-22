@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:02:12+00:00",
+ "generated_at": "2026-10-22T20:04:17+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -201,7 +201,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "club": "FC Twente",
    "delta": 0.333
@@ -211,7 +211,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -221,7 +221,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Viktoria Plzen 0-1 Levski Sofia",
    "assocs": [
     "CZE"
@@ -229,7 +229,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Jagiellonia Bialystok 0-1 Anderlecht",
    "assocs": [
     "BEL",
@@ -254,7 +254,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "46'",
+   "clock": "48'",
    "match": "Olympiacos 0-0 Sparta Prague",
    "assocs": [
     "CZE",
@@ -272,7 +272,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "assocs": [
     "NED"
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "assocs": [
     "NED"
