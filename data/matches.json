@@ -205,8 +205,8 @@
   "away": "NEC Nijmegen",
   "home_goals": 2,
   "away_goals": 4,
-  "status": "live",
-  "clock": "90'+2'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -234,7 +234,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
