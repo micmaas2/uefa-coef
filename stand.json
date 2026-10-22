@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-22T18:43:08+00:00",
+ "generated_at": "2026-10-22T19:01:38+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
  "week": "19 okt – 25 okt",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 54.729,
-  "projected": 54.729,
+  "projected": 55.062,
   "season": 6.0,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.0,
-  "week_delta": 1.0,
-  "gap_up": 6.521,
+  "live_delta": 0.333,
+  "week_delta": 1.333,
+  "gap_up": 6.588,
   "gap_up_to": "België",
-  "gap_down": 2.654,
+  "gap_down": 2.987,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -54,6 +54,22 @@
     "match": "Dinamo Zagreb 2-4 NEC Nijmegen",
     "club": "NEC Nijmegen",
     "delta": 0.333
+   },
+   {
+    "date": "2026-10-22",
+    "competition": "UECL",
+    "status": "live",
+    "match": "Lincoln Red Imps 0-0 FC Twente",
+    "club": "FC Twente",
+    "delta": 0.166
+   },
+   {
+    "date": "2026-10-22",
+    "competition": "UECL",
+    "status": "live",
+    "match": "Ajax Amsterdam 0-0 Atalanta",
+    "club": "Ajax Amsterdam",
+    "delta": 0.166
    }
   ]
  },
@@ -64,9 +80,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.75,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -80,9 +96,9 @@
    "clubs": 5,
    "season": 5.6,
    "total": 61.25,
-   "projected": 61.25,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 61.65,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -96,9 +112,9 @@
    "clubs": 6,
    "season": 6.0,
    "total": 54.729,
-   "projected": 54.729,
-   "live_delta": 0.0,
-   "week_delta": 1.0,
+   "projected": 55.062,
+   "live_delta": 0.333,
+   "week_delta": 1.333,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -128,9 +144,9 @@
    "clubs": 5,
    "season": 5.8,
    "total": 46.212,
-   "projected": 46.212,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 46.412,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -179,31 +195,82 @@
    "match": "Dinamo Zagreb 2-4 NEC Nijmegen",
    "club": "NEC Nijmegen",
    "delta": 0.333
-  }
- ],
- "next_matches": [
-  {
-   "date": "2026-10-22",
-   "time": "21:00",
-   "competition": "UECL",
-   "status": "pre",
-   "clock": "Scheduled",
-   "match": "Lincoln Red Imps 0-0 FC Twente",
-   "club": "FC Twente",
-   "delta": 0.0
   },
   {
    "date": "2026-10-22",
    "time": "21:00",
    "competition": "UECL",
-   "status": "pre",
-   "clock": "Scheduled",
+   "status": "live",
+   "clock": "1'",
+   "match": "Lincoln Red Imps 0-0 FC Twente",
+   "club": "FC Twente",
+   "delta": 0.166
+  },
+  {
+   "date": "2026-10-22",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "live",
+   "clock": "1'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "club": "Ajax Amsterdam",
-   "delta": 0.0
+   "delta": 0.166
   }
  ],
- "live_matches": [],
+ "next_matches": [],
+ "live_matches": [
+  {
+   "competition": "UEL",
+   "clock": "1'",
+   "match": "Viktoria Plzen 0-0 Levski Sofia",
+   "assocs": [
+    "CZE"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "1'",
+   "match": "Jagiellonia Bialystok 0-0 Anderlecht",
+   "assocs": [
+    "BEL",
+    "POL"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "2'",
+   "match": "Olympiacos 0-0 Sparta Prague",
+   "assocs": [
+    "CZE",
+    "GRE"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "Braga 0-0 KAA Gent",
+   "assocs": [
+    "BEL",
+    "POR"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "Lincoln Red Imps 0-0 FC Twente",
+   "assocs": [
+    "NED"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "Ajax Amsterdam 0-0 Atalanta",
+   "assocs": [
+    "NED"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -291,9 +358,9 @@
    "clubs": 5,
    "season": 6.3,
    "total": 66.55,
-   "projected": 66.55,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 66.75,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -307,9 +374,9 @@
    "clubs": 5,
    "season": 5.6,
    "total": 61.25,
-   "projected": 61.25,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 61.65,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -323,9 +390,9 @@
    "clubs": 6,
    "season": 6.0,
    "total": 54.729,
-   "projected": 54.729,
-   "live_delta": 0.0,
-   "week_delta": 1.0,
+   "projected": 55.062,
+   "live_delta": 0.333,
+   "week_delta": 1.333,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -355,9 +422,9 @@
    "clubs": 5,
    "season": 5.8,
    "total": 46.212,
-   "projected": 46.212,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 46.412,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -371,9 +438,9 @@
    "clubs": 5,
    "season": 3.6,
    "total": 45.725,
-   "projected": 45.725,
-   "live_delta": 0.0,
-   "week_delta": 0.2,
+   "projected": 45.925,
+   "live_delta": 0.2,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
@@ -387,9 +454,9 @@
    "clubs": 5,
    "season": 3.7,
    "total": 45.525,
-   "projected": 45.525,
-   "live_delta": 0.0,
-   "week_delta": 0.2,
+   "projected": 45.925,
+   "live_delta": 0.4,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 12,
    "rank_confirmed": 12,
