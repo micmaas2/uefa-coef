@@ -108,7 +108,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "78'",
+  "clock": "80'",
   "decided_on_penalties": false
  },
  {
@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "77'",
+  "clock": "79'",
   "decided_on_penalties": false
  },
  {
@@ -134,9 +134,9 @@
   "home": "Omonia Nicosia",
   "away": "Benfica",
   "home_goals": 1,
-  "away_goals": 2,
+  "away_goals": 3,
   "status": "live",
-  "clock": "75'",
+  "clock": "77'",
   "decided_on_penalties": false
  },
  {
@@ -175,10 +175,10 @@
   "stage": "LP",
   "home": "Besiktas",
   "away": "Crystal Palace",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "74'",
+  "clock": "76'",
   "decided_on_penalties": false
  },
  {
@@ -189,10 +189,10 @@
   "stage": "LP",
   "home": "Olympiacos",
   "away": "Sparta Prague",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "78'",
+  "clock": "81'",
   "decided_on_penalties": false
  },
  {
@@ -245,10 +245,10 @@
   "stage": "LP",
   "home": "Braga",
   "away": "KAA Gent",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "76'",
+  "clock": "78'",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 1,
   "away_goals": 3,
   "status": "live",
-  "clock": "77'",
+  "clock": "79'",
   "decided_on_penalties": false
  },
  {
@@ -276,7 +276,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "78'",
+  "clock": "80'",
   "decided_on_penalties": false
  },
  {
