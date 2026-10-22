@@ -108,7 +108,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "23'",
+  "clock": "25'",
   "decided_on_penalties": false
  },
  {
@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "23'",
+  "clock": "25'",
   "decided_on_penalties": false
  },
  {
@@ -136,7 +136,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "22'",
+  "clock": "24'",
   "decided_on_penalties": false
  },
  {
@@ -178,7 +178,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "21'",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -192,7 +192,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "23'",
+  "clock": "25'",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "23'",
+  "clock": "25'",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "22'",
+  "clock": "24'",
   "decided_on_penalties": false
  },
  {
@@ -276,7 +276,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "22'",
+  "clock": "24'",
   "decided_on_penalties": false
  },
  {
