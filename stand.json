@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:49:51+00:00",
+ "generated_at": "2026-10-22T19:51:56+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+3'",
+   "clock": "HT",
    "match": "Omonia Nicosia 1-1 Benfica",
    "assocs": [
     "POR"
@@ -246,7 +246,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Besiktas 1-0 Crystal Palace",
    "assocs": [
     "TUR"
