@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21T21:00:55+00:00",
+ "generated_at": "2026-10-22T14:36:33+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-10-21",
+ "last_match_date": "2026-10-22",
  "week": "19 okt – 25 okt",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -112,9 +112,9 @@
    "clubs": 5,
    "season": 5.4,
    "total": 45.812,
-   "projected": 45.812,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 46.012,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -187,7 +187,16 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UECL",
+   "clock": "6'",
+   "match": "Kairat Almaty 0-0 Panathinaikos",
+   "assocs": [
+    "GRE"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -339,9 +348,9 @@
    "clubs": 5,
    "season": 5.4,
    "total": 45.812,
-   "projected": 45.812,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 46.012,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
