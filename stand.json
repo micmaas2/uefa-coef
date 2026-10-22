@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:18:43+00:00",
+ "generated_at": "2026-10-22T19:20:47+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -201,7 +201,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "18'",
+   "clock": "20'",
    "match": "Lincoln Red Imps 0-0 FC Twente",
    "club": "FC Twente",
    "delta": 0.166
@@ -211,7 +211,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "18'",
+   "clock": "20'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -221,7 +221,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "19'",
+   "clock": "21'",
    "match": "Viktoria Plzen 0-0 Levski Sofia",
    "assocs": [
     "CZE"
@@ -229,7 +229,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "19'",
+   "clock": "21'",
    "match": "Jagiellonia Bialystok 0-0 Anderlecht",
    "assocs": [
     "BEL",
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "18'",
+   "clock": "19'",
    "match": "Omonia Nicosia 0-1 Benfica",
    "assocs": [
     "POR"
@@ -246,7 +246,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "17'",
+   "clock": "19'",
    "match": "Besiktas 0-0 Crystal Palace",
    "assocs": [
     "TUR"
@@ -254,7 +254,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "19'",
+   "clock": "20'",
    "match": "Olympiacos 0-0 Sparta Prague",
    "assocs": [
     "CZE",
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "19'",
+   "clock": "20'",
    "match": "Braga 1-0 KAA Gent",
    "assocs": [
     "BEL",
@@ -272,7 +272,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "18'",
+   "clock": "20'",
    "match": "Lincoln Red Imps 0-0 FC Twente",
    "assocs": [
     "NED"
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "18'",
+   "clock": "20'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "assocs": [
     "NED"
