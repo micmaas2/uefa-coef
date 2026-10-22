@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:11:49+00:00",
+ "generated_at": "2026-10-22T18:13:55+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -165,7 +165,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "68'",
+   "clock": "71'",
    "match": "Ararat-Armenia 0-2 AZ Alkmaar",
    "club": "AZ Alkmaar",
    "delta": 0.333
@@ -175,7 +175,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "67'",
+   "clock": "69'",
    "match": "Dinamo Zagreb 2-3 NEC Nijmegen",
    "club": "NEC Nijmegen",
    "delta": 0.333
@@ -206,15 +206,15 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "70'",
-   "match": "Lech Poznan 0-1 Sunderland",
+   "clock": "73'",
+   "match": "Lech Poznan 1-1 Sunderland",
    "assocs": [
     "POL"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "68'",
+   "clock": "71'",
    "match": "Ararat-Armenia 0-2 AZ Alkmaar",
    "assocs": [
     "NED"
@@ -222,7 +222,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "67'",
+   "clock": "69'",
    "match": "Dinamo Zagreb 2-3 NEC Nijmegen",
    "assocs": [
     "NED"
@@ -230,7 +230,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "70'",
+   "clock": "72'",
    "match": "Ferencvaros 2-1 Torreense",
    "assocs": [
     "POR"
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "65'",
+   "clock": "67'",
    "match": "Trabzonspor 2-0 Heart of Midlothian",
    "assocs": [
     "TUR"
@@ -412,9 +412,9 @@
    "clubs": 5,
    "season": 3.4,
    "total": 45.525,
-   "projected": 45.525,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 45.725,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
