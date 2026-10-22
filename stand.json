@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:34:48+00:00",
+ "generated_at": "2026-10-22T18:36:52+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -11,12 +11,12 @@
   "rank_confirmed": 8,
   "rank_week_start": 8,
   "rank_change": 0,
-  "total": 54.062,
+  "total": 54.395,
   "projected": 54.729,
-  "season": 5.333,
+  "season": 5.666,
   "clubs": 6,
   "week_start_total": 53.729,
-  "live_delta": 0.666,
+  "live_delta": 0.333,
   "week_delta": 1.0,
   "gap_up": 6.521,
   "gap_up_to": "België",
@@ -42,7 +42,7 @@
    {
     "date": "2026-10-22",
     "competition": "UEL",
-    "status": "live",
+    "status": "final",
     "match": "Ararat-Armenia 0-4 AZ Alkmaar",
     "club": "AZ Alkmaar",
     "delta": 0.333
@@ -94,10 +94,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 5.333,
-   "total": 54.062,
+   "season": 5.666,
+   "total": 54.395,
    "projected": 54.729,
-   "live_delta": 0.666,
+   "live_delta": 0.333,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 8,
@@ -164,8 +164,8 @@
    "date": "2026-10-22",
    "time": "18:45",
    "competition": "UEL",
-   "status": "live",
-   "clock": "90'+1'",
+   "status": "final",
+   "clock": "FT",
    "match": "Ararat-Armenia 0-4 AZ Alkmaar",
    "club": "AZ Alkmaar",
    "delta": 0.333
@@ -175,7 +175,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "Dinamo Zagreb 2-4 NEC Nijmegen",
    "club": "NEC Nijmegen",
    "delta": 0.333
@@ -206,39 +206,15 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Lech Poznan 1-1 Sunderland",
-   "assocs": [
-    "POL"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+1'",
-   "match": "Ararat-Armenia 0-4 AZ Alkmaar",
-   "assocs": [
-    "NED"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "Dinamo Zagreb 2-4 NEC Nijmegen",
    "assocs": [
     "NED"
    ]
   },
   {
-   "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Ferencvaros 4-1 Torreense",
-   "assocs": [
-    "POR"
-   ]
-  },
-  {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "Trabzonspor 2-0 Heart of Midlothian",
    "assocs": [
     "TUR"
@@ -362,10 +338,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 5.333,
-   "total": 54.062,
+   "season": 5.666,
+   "total": 54.395,
    "projected": 54.729,
-   "live_delta": 0.666,
+   "live_delta": 0.333,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 8,
@@ -410,10 +386,10 @@
    "assoc": "POL",
    "name": "Polen",
    "clubs": 5,
-   "season": 3.4,
-   "total": 45.525,
+   "season": 3.6,
+   "total": 45.725,
    "projected": 45.725,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 0.2,
    "played_week": true,
    "rank": 11,

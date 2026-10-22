@@ -149,8 +149,8 @@
   "away": "Sunderland",
   "home_goals": 1,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -163,8 +163,8 @@
   "away": "AZ Alkmaar",
   "home_goals": 0,
   "away_goals": 4,
-  "status": "live",
-  "clock": "90'+1'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -206,7 +206,7 @@
   "home_goals": 2,
   "away_goals": 4,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
@@ -219,8 +219,8 @@
   "away": "Torreense",
   "home_goals": 4,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -234,7 +234,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
