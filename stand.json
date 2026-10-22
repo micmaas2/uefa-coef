@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:43:36+00:00",
+ "generated_at": "2026-10-22T19:45:41+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-10-22",
@@ -201,7 +201,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "club": "FC Twente",
    "delta": 0.333
@@ -211,7 +211,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -221,15 +221,15 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "43'",
-   "match": "Viktoria Plzen 0-0 Levski Sofia",
+   "clock": "45'",
+   "match": "Viktoria Plzen 0-1 Levski Sofia",
    "assocs": [
     "CZE"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Jagiellonia Bialystok 0-1 Anderlecht",
    "assocs": [
     "BEL",
@@ -238,7 +238,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "42'",
+   "clock": "44'",
    "match": "Omonia Nicosia 1-1 Benfica",
    "assocs": [
     "POR"
@@ -246,7 +246,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "41'",
+   "clock": "43'",
    "match": "Besiktas 0-0 Crystal Palace",
    "assocs": [
     "TUR"
@@ -254,7 +254,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "43'",
+   "clock": "45'+1'",
    "match": "Olympiacos 0-0 Sparta Prague",
    "assocs": [
     "CZE",
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Braga 1-0 KAA Gent",
    "assocs": [
     "BEL",
@@ -272,7 +272,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Lincoln Red Imps 1-2 FC Twente",
    "assocs": [
     "NED"
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "43'",
+   "clock": "45'",
    "match": "Ajax Amsterdam 0-0 Atalanta",
    "assocs": [
     "NED"
@@ -449,22 +449,6 @@
    "rank_change": 0
   },
   {
-   "assoc": "CZE",
-   "name": "Tsjechië",
-   "clubs": 5,
-   "season": 3.7,
-   "total": 45.525,
-   "projected": 45.925,
-   "live_delta": 0.4,
-   "week_delta": 0.6,
-   "played_week": true,
-   "rank": 11,
-   "rank_confirmed": 12,
-   "week_start_total": 45.325,
-   "rank_week_start": 12,
-   "rank_change": 1
-  },
-  {
    "assoc": "POL",
    "name": "Polen",
    "clubs": 5,
@@ -474,11 +458,27 @@
    "live_delta": 0.0,
    "week_delta": 0.2,
    "played_week": true,
-   "rank": 12,
+   "rank": 11,
    "rank_confirmed": 11,
    "week_start_total": 45.525,
    "rank_week_start": 11,
-   "rank_change": -1
+   "rank_change": 0
+  },
+  {
+   "assoc": "CZE",
+   "name": "Tsjechië",
+   "clubs": 5,
+   "season": 3.7,
+   "total": 45.525,
+   "projected": 45.725,
+   "live_delta": 0.2,
+   "week_delta": 0.4,
+   "played_week": true,
+   "rank": 12,
+   "rank_confirmed": 12,
+   "week_start_total": 45.325,
+   "rank_week_start": 12,
+   "rank_change": 0
   }
  ]
 }
