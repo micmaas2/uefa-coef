@@ -108,7 +108,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -122,7 +122,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -135,8 +135,8 @@
   "away": "Benfica",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "2'",
   "decided_on_penalties": false
  },
  {
@@ -177,8 +177,8 @@
   "away": "Crystal Palace",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -192,7 +192,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "2'",
+  "clock": "4'",
   "decided_on_penalties": false
  },
  {
@@ -248,7 +248,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -262,7 +262,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -276,7 +276,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
