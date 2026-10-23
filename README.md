@@ -11,7 +11,7 @@ data/baseline.json    UEFA-snapshot 15-10-2026 (4 vorige seizoenen + lopend seiz
 data/clubs.json       clubnaam (zoals de feed hem spelt) → land; onbekende clubs komen in data/unmapped.json
 data/matches.json     wedstrijden sinds de snapshot, status pre | live | final (auto-beheerd)
 widget/UEFA_Coefficient.js   Scriptable-widget: tabel NL ±2, live-delta, ● LIVE
-.github/workflows/update.yml  draait fetch+engine elke 5 min op speelavonden, commit bij wijziging
+.github/workflows/update.yml  zelfstartende job: polt elke 2 min tijdens wedstrijden, slaapt tot de volgende aftrap
 ```
 
 ## Draaien
@@ -40,7 +40,8 @@ Widget cachet de laatste goede versie en toont ⚠︎ als de fetch mislukt.
 
 ## Bekende beperkingen / TODO
 - Baseline bevat top-12 landen; rest aanvullen uit uefa.com als je volledige stand wilt.
-- clubs.json is een startset; check `data/unmapped.json` na een speelronde en vul aan.
+- clubs.json dekt de 12 gevolgde landen; alle overige namen in `data/unmapped.json` zijn van landen
+  buiten de top-12 en mogen genegeerd worden. Nieuwe spelling van een gevolgde club → toevoegen.
 - ESPN-feed is onofficieel; bij wijziging van het JSON-formaat breekt fetch.py (engine en widget niet).
 - iOS bepaalt zelf hoe vaak een widget ververst (vaak 15–30 min, soms langer). Echt live op je
   scherm = Live Activity / Dynamic Island, en dat is precies waar de SwiftUI-stap voor is.
