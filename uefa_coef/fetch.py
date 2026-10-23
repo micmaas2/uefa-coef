@@ -46,11 +46,9 @@ def fetch_day(yyyymmdd: str, clubs: dict) -> tuple[list[dict], set[str]]:
             home = next(t for t in c["competitors"] if t["homeAway"] == "home")
             away = next(t for t in c["competitors"] if t["homeAway"] == "away")
             hn, an = home["team"]["displayName"], away["team"]["displayName"]
-            if hn not in clubs and an not in clubs:
-                continue                      # nobody we track
             for n in (hn, an):
                 if n not in clubs:
-                    unmapped.add(n)
+                    unmapped.add(n)           # engine ignores unmapped clubs; map them in clubs.json
             st = c["status"]["type"]
             status = "final" if st.get("completed") else ("live" if st["state"] == "in" else "pre")
             d = ev["date"][:10]
