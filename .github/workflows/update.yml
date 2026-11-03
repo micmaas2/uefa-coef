@@ -26,7 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 345
     env:
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
       GH_TOKEN: ${{ github.token }}
@@ -41,23 +41,29 @@ jobs:
           git config user.name "uefa-coef bot"
           git config user.email "actions@users.noreply.github.com"
           MODE="${{ github.event.inputs.mode }}"; [ -z "$MODE" ] && MODE=watch
-          DEADLINE=$(( $(date +%s) + 330*60 ))
+          DEADLINE=$(( $(date +%s) + 320*60 ))
           echo "mode=$MODE"
           while true; do
-            git pull -q --rebase origin main || true
+            NOW=$(date +%s)
+            if [ $(( NOW + 180 )) -gt $DEADLINE ]; then
+              echo "time's up → chain"; echo "chain=yes" >> "$GITHUB_OUTPUT"; break
+            fi
+            timeout 60 git pull -q --rebase origin main || { git rebase --abort 2>/dev/null; git reset -q --hard origin/main; }
             cp stand.json /tmp/stand_before.json
-            python3 -m uefa_coef.fetch
-            python3 -m uefa_coef.engine
-            python3 -m uefa_coef.notify /tmp/stand_before.json stand.json || true
+            timeout 120 python3 -m uefa_coef.fetch || echo "fetch failed/timeout"
+            timeout 60 python3 -m uefa_coef.engine || echo "engine failed"
+            timeout 60 python3 -m uefa_coef.notify /tmp/stand_before.json stand.json || true
             if ! git diff --quiet -- data/matches.json data/unmapped.json; then
               git add data/matches.json data/unmapped.json stand.json
-              git commit -q -m "auto: update stand $(date -u +'%Y-%m-%d %H:%M')"
-              git push -q || { git pull -q --rebase origin main; git push -q; } || true
+              git commit -q -m "auto: update stand $(date -u +'%Y-%m-%d %H:%M')" || true
+              timeout 60 git push -q || { timeout 60 git pull -q --rebase origin main && timeout 60 git push -q; } || echo "push failed"
             fi
             [ "$MODE" = once ] && { echo "chain=no" >> "$GITHUB_OUTPUT"; break; }
-            read ACTION SECS < <(python3 -m uefa_coef.plan)
+            PLAN=$(timeout 30 python3 -m uefa_coef.plan 2>/dev/null || echo "poll 0")
+            ACTION=${PLAN%% *}; SECS=${PLAN##* }
+            [ "$ACTION" = poll ] && SECS=120
+            case "$SECS" in ''|*[!0-9]*) SECS=120;; esac
             NOW=$(date +%s)
-            if [ "$ACTION" = poll ]; then SECS=120; fi
             if [ $(( NOW + SECS )) -gt $DEADLINE ]; then
               echo "time's up → chain"; echo "chain=yes" >> "$GITHUB_OUTPUT"; break
             fi
