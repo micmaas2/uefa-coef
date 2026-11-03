@@ -71,7 +71,11 @@ function build(stand, stale) {
   const t = head.addText("UEFA coëfficiënt");
   t.font = Font.semiboldSystemFont(11); t.textColor = C.dim;
   head.addSpacer();
-  if (live) {
+  const ageMin = (Date.now() - Date.parse(stand.generated_at)) / 60000;
+  if (live && ageMin > 20) {               // claimt LIVE maar data verouderd (job gestopt?) → waarschuwen
+    const d = head.addText("⚠︎ " + Math.round(ageMin < 120 ? ageMin : ageMin / 60) + (ageMin < 120 ? " min oud" : " uur oud"));
+    d.font = Font.boldSystemFont(9); d.textColor = C.down;
+  } else if (live) {
     const dot = head.addText("● LIVE");
     dot.font = Font.boldSystemFont(10); dot.textColor = C.live;
   } else {
