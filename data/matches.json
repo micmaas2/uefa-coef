@@ -766,7 +766,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "42'",
+  "clock": "44'",
   "decided_on_penalties": false
  },
  {
@@ -780,7 +780,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "42'",
+  "clock": "45'",
   "decided_on_penalties": false
  },
  {
@@ -794,7 +794,7 @@
   "home_goals": 0,
   "away_goals": 4,
   "status": "live",
-  "clock": "42'",
+  "clock": "45'",
   "decided_on_penalties": false
  },
  {
@@ -836,7 +836,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "42'",
+  "clock": "45'",
   "decided_on_penalties": false
  },
  {
@@ -847,10 +847,10 @@
   "stage": "LP",
   "home": "LASK Linz",
   "away": "Slovan Bratislava",
-  "home_goals": 2,
+  "home_goals": 3,
   "away_goals": 0,
   "status": "live",
-  "clock": "42'",
+  "clock": "45'",
   "decided_on_penalties": false
  },
  {
@@ -864,7 +864,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "42'",
+  "clock": "45'",
   "decided_on_penalties": false
  },
  {
@@ -878,7 +878,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "41'",
+  "clock": "44'",
   "decided_on_penalties": false
  },
  {
