@@ -808,7 +808,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "15'",
+  "clock": "18'",
   "decided_on_penalties": false
  },
  {
@@ -819,10 +819,10 @@
   "stage": "LP",
   "home": "Galatasaray",
   "away": "VfB Stuttgart",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "13'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
