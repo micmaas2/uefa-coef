@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-02T01:46:51+00:00",
+ "generated_at": "2026-11-03T17:47:52+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-10-22",
+ "last_match_date": "2026-11-03",
  "week": "2 nov – 8 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -20,7 +20,7 @@
   "week_delta": 0.0,
   "gap_up": 7.055,
   "gap_up_to": "België",
-  "gap_down": 3.12,
+  "gap_down": 2.92,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -80,10 +80,10 @@
    "clubs": 5,
    "season": 7.1,
    "total": 67.35,
-   "projected": 67.35,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 67.55,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
    "week_start_total": 67.35,
@@ -128,10 +128,10 @@
    "clubs": 5,
    "season": 7.1,
    "total": 52.275,
-   "projected": 52.275,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 52.475,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
    "week_start_total": 52.275,
@@ -168,7 +168,25 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "Shakhtar Donetsk 0-0 Sporting CP",
+   "assocs": [
+    "POR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Galatasaray 0-0 VfB Stuttgart",
+   "assocs": [
+    "GER",
+    "TUR"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -224,13 +242,13 @@
    "clubs": 7,
    "season": 7.284,
    "total": 83.972,
-   "projected": 83.972,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 84.115,
+   "live_delta": 0.142,
+   "week_delta": 0.142,
+   "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
-   "week_start_total": 83.972,
+   "week_start_total": 83.973,
    "rank_week_start": 4,
    "rank_change": 0
   },
@@ -256,10 +274,10 @@
    "clubs": 5,
    "season": 7.1,
    "total": 67.35,
-   "projected": 67.35,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 67.55,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
    "week_start_total": 67.35,
@@ -304,10 +322,10 @@
    "clubs": 5,
    "season": 7.1,
    "total": 52.275,
-   "projected": 52.275,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 52.475,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
    "week_start_total": 52.275,
