@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:52:16+00:00",
+ "generated_at": "2026-11-03T17:54:30+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-03",
@@ -171,7 +171,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "6'",
+   "clock": "9'",
    "match": "Shakhtar Donetsk 0-0 Sporting CP",
    "assocs": [
     "POR"
@@ -179,7 +179,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "5'",
+   "clock": "7'",
    "match": "Galatasaray 0-0 VfB Stuttgart",
    "assocs": [
     "GER",
