@@ -38,6 +38,7 @@ jobs:
       - name: Poll / sleep / notify / commit
         id: loop
         run: |
+          set +e
           git config user.name "uefa-coef bot"
           git config user.email "actions@users.noreply.github.com"
           MODE="${{ github.event.inputs.mode }}"; [ -z "$MODE" ] && MODE=watch
@@ -48,7 +49,8 @@ jobs:
             if [ $(( NOW + 180 )) -gt $DEADLINE ]; then
               echo "time's up → chain"; echo "chain=yes" >> "$GITHUB_OUTPUT"; break
             fi
-            timeout 60 git pull -q --rebase origin main || { git rebase --abort 2>/dev/null; git reset -q --hard origin/main; }
+            # harde sync: lokale wijzigingen (stand.json) zijn altijd regenereerbaar
+            timeout 60 git fetch -q origin main && git reset -q --hard origin/main || echo "sync failed"
             cp stand.json /tmp/stand_before.json
             timeout 120 python3 -m uefa_coef.fetch || echo "fetch failed/timeout"
             timeout 60 python3 -m uefa_coef.engine || echo "engine failed"
@@ -56,7 +58,7 @@ jobs:
             if ! git diff --quiet -- data/matches.json data/unmapped.json; then
               git add data/matches.json data/unmapped.json stand.json
               git commit -q -m "auto: update stand $(date -u +'%Y-%m-%d %H:%M')" || true
-              timeout 60 git push -q || { timeout 60 git pull -q --rebase origin main && timeout 60 git push -q; } || echo "push failed"
+              timeout 60 git push -q origin HEAD:main || echo "push failed (next iteration re-syncs)"
             fi
             [ "$MODE" = once ] && { echo "chain=no" >> "$GITHUB_OUTPUT"; break; }
             PLAN=$(timeout 30 python3 -m uefa_coef.plan 2>/dev/null || echo "poll 0")
