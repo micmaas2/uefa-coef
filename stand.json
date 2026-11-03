@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:37:00+00:00",
+ "generated_at": "2026-11-03T20:39:20+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-03",
@@ -75,7 +75,7 @@
     "date": "2026-11-03",
     "competition": "UCL",
     "status": "live",
-    "match": "Feyenoord Rotterdam 0-1 Internazionale",
+    "match": "Feyenoord Rotterdam 0-2 Internazionale",
     "club": "Feyenoord Rotterdam",
     "delta": 0.0
    }
@@ -169,8 +169,8 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "34'",
-   "match": "Feyenoord Rotterdam 0-1 Internazionale",
+   "clock": "36'",
+   "match": "Feyenoord Rotterdam 0-2 Internazionale",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
   }
@@ -190,8 +190,8 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "34'",
-   "match": "Feyenoord Rotterdam 0-1 Internazionale",
+   "clock": "36'",
+   "match": "Feyenoord Rotterdam 0-2 Internazionale",
    "assocs": [
     "ITA",
     "NED"
@@ -199,7 +199,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Manchester United 0-2 AS Roma",
    "assocs": [
     "ENG",
@@ -208,7 +208,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Villarreal 0-4 Paris Saint-Germain",
    "assocs": [
     "ESP",
@@ -217,7 +217,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "35'",
+   "clock": "38'",
    "match": "Bodo/Glimt 0-0 Lille",
    "assocs": [
     "FRA"
@@ -225,7 +225,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "36'",
+   "clock": "38'",
    "match": "Atlético Madrid 0-0 Bayern Munich",
    "assocs": [
     "ESP",
@@ -234,7 +234,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "34'",
+   "clock": "37'",
    "match": "Barcelona 1-0 Aston Villa",
    "assocs": [
     "ENG",

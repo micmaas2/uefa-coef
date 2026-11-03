@@ -764,9 +764,9 @@
   "home": "Feyenoord Rotterdam",
   "away": "Internazionale",
   "home_goals": 0,
-  "away_goals": 1,
+  "away_goals": 2,
   "status": "live",
-  "clock": "34'",
+  "clock": "36'",
   "decided_on_penalties": false
  },
  {
@@ -780,7 +780,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "35'",
+  "clock": "37'",
   "decided_on_penalties": false
  },
  {
@@ -794,7 +794,7 @@
   "home_goals": 0,
   "away_goals": 4,
   "status": "live",
-  "clock": "35'",
+  "clock": "37'",
   "decided_on_penalties": false
  },
  {
@@ -836,7 +836,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "35'",
+  "clock": "38'",
   "decided_on_penalties": false
  },
  {
@@ -847,10 +847,10 @@
   "stage": "LP",
   "home": "LASK Linz",
   "away": "Slovan Bratislava",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "35'",
+  "clock": "38'",
   "decided_on_penalties": false
  },
  {
@@ -864,7 +864,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "36'",
+  "clock": "38'",
   "decided_on_penalties": false
  },
  {
@@ -878,7 +878,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "34'",
+  "clock": "37'",
   "decided_on_penalties": false
  },
  {
