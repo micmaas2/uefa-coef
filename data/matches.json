@@ -764,9 +764,9 @@
   "home": "Feyenoord Rotterdam",
   "away": "Internazionale",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "away_goals": 1,
+  "status": "live",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -778,9 +778,9 @@
   "home": "Manchester United",
   "away": "AS Roma",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "away_goals": 2,
+  "status": "live",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -792,9 +792,9 @@
   "home": "Villarreal",
   "away": "Paris Saint-Germain",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "away_goals": 4,
+  "status": "live",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -806,9 +806,9 @@
   "home": "Shakhtar Donetsk",
   "away": "Sporting CP",
   "home_goals": 0,
-  "away_goals": 0,
-  "status": "live",
-  "clock": "51'",
+  "away_goals": 1,
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -821,8 +821,8 @@
   "away": "VfB Stuttgart",
   "home_goals": 2,
   "away_goals": 0,
-  "status": "live",
-  "clock": "48'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -835,8 +835,8 @@
   "away": "Lille",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -847,10 +847,10 @@
   "stage": "LP",
   "home": "LASK Linz",
   "away": "Slovan Bratislava",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
@@ -863,8 +863,8 @@
   "away": "Bayern Munich",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -875,10 +875,10 @@
   "stage": "LP",
   "home": "Barcelona",
   "away": "Aston Villa",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "23'",
   "decided_on_penalties": false
  },
  {
