@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:32:58+00:00",
+ "generated_at": "2026-11-03T18:35:16+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-03",
@@ -179,7 +179,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "45'",
+   "clock": "45'+3'",
    "match": "Galatasaray 2-0 VfB Stuttgart",
    "assocs": [
     "GER",
