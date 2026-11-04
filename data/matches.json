@@ -892,7 +892,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "65'",
+  "clock": "67'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "65'",
+  "clock": "67'",
   "decided_on_penalties": false
  },
  {
@@ -918,9 +918,9 @@
   "home": "PSV Eindhoven",
   "away": "Club Brugge",
   "home_goals": 1,
-  "away_goals": 1,
+  "away_goals": 2,
   "status": "live",
-  "clock": "64'",
+  "clock": "67'",
   "decided_on_penalties": false
  },
  {
@@ -934,7 +934,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "61'",
+  "clock": "64'",
   "decided_on_penalties": false
  },
  {
@@ -945,10 +945,10 @@
   "stage": "LP",
   "home": "Lens",
   "away": "Como",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 7,
   "status": "live",
-  "clock": "63'",
+  "clock": "65'",
   "decided_on_penalties": false
  },
  {
@@ -962,7 +962,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "65'",
+  "clock": "67'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "67'",
+  "clock": "68'",
   "decided_on_penalties": false
  },
  {
