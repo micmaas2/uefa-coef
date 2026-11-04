@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-04T19:41:44+00:00",
+ "generated_at": "2026-11-04T20:02:43+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
  "week": "2 nov – 8 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 55.395,
-  "projected": 55.395,
+  "projected": 55.562,
   "season": 6.666,
   "clubs": 6,
-  "week_start_total": 55.395,
-  "live_delta": 0.0,
-  "week_delta": 0.0,
-  "gap_up": 7.055,
+  "week_start_total": 55.396,
+  "live_delta": 0.166,
+  "week_delta": 0.166,
+  "gap_up": 7.088,
   "gap_up_to": "België",
-  "gap_down": 2.32,
+  "gap_down": 2.487,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -78,6 +78,14 @@
     "match": "Feyenoord Rotterdam 0-3 Internazionale",
     "club": "Feyenoord Rotterdam",
     "delta": 0.0
+   },
+   {
+    "date": "2026-11-04",
+    "competition": "UCL",
+    "status": "live",
+    "match": "PSV Eindhoven 0-0 Club Brugge",
+    "club": "PSV Eindhoven",
+    "delta": 0.166
    }
   ]
  },
@@ -88,9 +96,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 67.75,
-   "projected": 67.75,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 67.95,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -104,10 +112,10 @@
    "clubs": 5,
    "season": 6.8,
    "total": 62.45,
-   "projected": 62.45,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 62.65,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 62.45,
@@ -120,13 +128,13 @@
    "clubs": 6,
    "season": 6.666,
    "total": 55.395,
-   "projected": 55.395,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 55.562,
+   "live_delta": 0.166,
+   "week_delta": 0.166,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 55.395,
+   "week_start_total": 55.396,
    "rank_week_start": 8,
    "rank_change": 0
   },
@@ -173,21 +181,98 @@
    "match": "Feyenoord Rotterdam 0-3 Internazionale",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
-  }
- ],
- "next_matches": [
+  },
   {
    "date": "2026-11-04",
    "time": "21:00",
    "competition": "UCL",
-   "status": "pre",
-   "clock": "Scheduled",
+   "status": "live",
+   "clock": "1'",
    "match": "PSV Eindhoven 0-0 Club Brugge",
    "club": "PSV Eindhoven",
+   "delta": 0.166
+  }
+ ],
+ "next_matches": [
+  {
+   "date": "2026-11-05",
+   "time": "18:45",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "NEC Nijmegen 0-0 Omonia Nicosia",
+   "club": "NEC Nijmegen",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-05",
+   "time": "18:45",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "FC Midtjylland 0-0 Ajax Amsterdam",
+   "club": "Ajax Amsterdam",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-05",
+   "time": "21:00",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "AZ Alkmaar 0-0 Juventus",
+   "club": "AZ Alkmaar",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-05",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "FC Twente 0-0 Pafos",
+   "club": "FC Twente",
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "FC Porto 0-0 Napoli",
+   "assocs": [
+    "ITA",
+    "POR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "PSV Eindhoven 0-0 Club Brugge",
+   "assocs": [
+    "BEL",
+    "NED"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Lens 0-0 Como",
+   "assocs": [
+    "FRA",
+    "ITA"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Slavia Prague 0-0 Arsenal",
+   "assocs": [
+    "CZE",
+    "ENG"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -195,9 +280,9 @@
    "clubs": 9,
    "season": 8.166,
    "total": 106.685,
-   "projected": 106.685,
-   "live_delta": 0.0,
-   "week_delta": 0.222,
+   "projected": 106.796,
+   "live_delta": 0.111,
+   "week_delta": 0.333,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -211,9 +296,9 @@
    "clubs": 7,
    "season": 6.785,
    "total": 91.017,
-   "projected": 91.017,
-   "live_delta": 0.0,
-   "week_delta": 0.285,
+   "projected": 91.303,
+   "live_delta": 0.285,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -259,9 +344,9 @@
    "clubs": 7,
    "season": 6.499,
    "total": 71.581,
-   "projected": 71.581,
-   "live_delta": 0.0,
-   "week_delta": 0.571,
+   "projected": 71.724,
+   "live_delta": 0.142,
+   "week_delta": 0.714,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
@@ -275,9 +360,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 67.75,
-   "projected": 67.75,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 67.95,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -291,10 +376,10 @@
    "clubs": 5,
    "season": 6.8,
    "total": 62.45,
-   "projected": 62.45,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 62.65,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 62.45,
@@ -307,13 +392,13 @@
    "clubs": 6,
    "season": 6.666,
    "total": 55.395,
-   "projected": 55.395,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 55.562,
+   "live_delta": 0.166,
+   "week_delta": 0.166,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 55.395,
+   "week_start_total": 55.396,
    "rank_week_start": 8,
    "rank_change": 0
   },
@@ -350,15 +435,15 @@
    "rank_change": 0
   },
   {
-   "assoc": "POL",
-   "name": "Polen",
+   "assoc": "CZE",
+   "name": "Tsjechië",
    "clubs": 5,
-   "season": 3.6,
+   "season": 3.9,
    "total": 45.725,
-   "projected": 45.725,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 45.925,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
    "week_start_total": 45.725,
@@ -366,10 +451,10 @@
    "rank_change": 0
   },
   {
-   "assoc": "CZE",
-   "name": "Tsjechië",
+   "assoc": "POL",
+   "name": "Polen",
    "clubs": 5,
-   "season": 3.9,
+   "season": 3.6,
    "total": 45.725,
    "projected": 45.725,
    "live_delta": 0.0,

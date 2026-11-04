@@ -891,8 +891,8 @@
   "away": "Napoli",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -905,8 +905,8 @@
   "away": "Sabah FK",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -919,8 +919,8 @@
   "away": "Club Brugge",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -947,8 +947,8 @@
   "away": "Como",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -975,8 +975,8 @@
   "away": "Arsenal",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
