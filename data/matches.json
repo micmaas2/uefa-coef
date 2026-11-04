@@ -891,8 +891,8 @@
   "away": "Napoli",
   "home_goals": 4,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+2'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -903,10 +903,10 @@
   "stage": "LP",
   "home": "Viking FK",
   "away": "Sabah FK",
-  "home_goals": 3,
+  "home_goals": 4,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -934,7 +934,7 @@
   "home_goals": 2,
   "away_goals": 1,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -946,9 +946,9 @@
   "home": "Lens",
   "away": "Como",
   "home_goals": 1,
-  "away_goals": 8,
+  "away_goals": 9,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -961,8 +961,8 @@
   "away": "Manchester City",
   "home_goals": 2,
   "away_goals": 3,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -975,8 +975,8 @@
   "away": "Arsenal",
   "home_goals": 1,
   "away_goals": 2,
-  "status": "live",
-  "clock": "90'+4'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
