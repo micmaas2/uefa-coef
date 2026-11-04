@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:16:58+00:00",
+ "generated_at": "2026-11-04T21:19:03+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -187,7 +187,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "56'",
+   "clock": "57'",
    "match": "PSV Eindhoven 1-1 Club Brugge",
    "club": "PSV Eindhoven",
    "delta": 0.166
@@ -238,7 +238,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "57'",
+   "clock": "59'",
    "match": "FC Porto 1-1 Napoli",
    "assocs": [
     "ITA",
@@ -247,7 +247,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "56'",
+   "clock": "57'",
    "match": "PSV Eindhoven 1-1 Club Brugge",
    "assocs": [
     "BEL",
@@ -256,7 +256,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "53'",
+   "clock": "55'",
    "match": "Borussia Dortmund 1-0 Real Betis",
    "assocs": [
     "ESP",
@@ -265,8 +265,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "55'",
-   "match": "Lens 0-5 Como",
+   "clock": "57'",
+   "match": "Lens 0-6 Como",
    "assocs": [
     "FRA",
     "ITA"
@@ -274,8 +274,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "57'",
-   "match": "RB Leipzig 1-1 Manchester City",
+   "clock": "59'",
+   "match": "RB Leipzig 1-2 Manchester City",
    "assocs": [
     "ENG",
     "GER"
@@ -283,7 +283,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "58'",
+   "clock": "60'",
    "match": "Slavia Prague 0-2 Arsenal",
    "assocs": [
     "CZE",
@@ -298,13 +298,13 @@
    "clubs": 9,
    "season": 8.166,
    "total": 106.685,
-   "projected": 107.018,
-   "live_delta": 0.333,
-   "week_delta": 0.555,
+   "projected": 107.13,
+   "live_delta": 0.444,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
-   "week_start_total": 106.463,
+   "week_start_total": 106.464,
    "rank_week_start": 1,
    "rank_change": 0
   },
@@ -346,9 +346,9 @@
    "clubs": 7,
    "season": 7.57,
    "total": 84.258,
-   "projected": 84.687,
-   "live_delta": 0.428,
-   "week_delta": 0.714,
+   "projected": 84.544,
+   "live_delta": 0.285,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,

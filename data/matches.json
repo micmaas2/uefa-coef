@@ -892,7 +892,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "57'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "57'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "56'",
+  "clock": "57'",
   "decided_on_penalties": false
  },
  {
@@ -934,7 +934,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "53'",
+  "clock": "55'",
   "decided_on_penalties": false
  },
  {
@@ -946,9 +946,9 @@
   "home": "Lens",
   "away": "Como",
   "home_goals": 0,
-  "away_goals": 5,
+  "away_goals": 6,
   "status": "live",
-  "clock": "55'",
+  "clock": "57'",
   "decided_on_penalties": false
  },
  {
@@ -960,9 +960,9 @@
   "home": "RB Leipzig",
   "away": "Manchester City",
   "home_goals": 1,
-  "away_goals": 1,
+  "away_goals": 2,
   "status": "live",
-  "clock": "57'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "58'",
+  "clock": "60'",
   "decided_on_penalties": false
  },
  {
