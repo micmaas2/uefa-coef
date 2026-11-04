@@ -892,7 +892,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -933,8 +933,8 @@
   "away": "Real Betis",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -948,7 +948,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "2'",
   "decided_on_penalties": false
  },
  {
@@ -961,8 +961,8 @@
   "away": "Manchester City",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "1'",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
