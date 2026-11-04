@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-03T21:59:57+00:00",
+ "generated_at": "2026-11-04T15:33:21+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-11-03",
+ "last_match_date": "2026-11-04",
  "week": "2 nov – 8 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -152,10 +152,10 @@
    "clubs": 5,
    "season": 6.2,
    "total": 46.612,
-   "projected": 46.612,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 46.812,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
    "week_start_total": 46.612,
@@ -187,7 +187,17 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UEL",
+   "clock": "2'",
+   "match": "Stade Rennais 0-0 Olympiacos",
+   "assocs": [
+    "FRA",
+    "GRE"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -259,9 +269,9 @@
    "clubs": 7,
    "season": 6.356,
    "total": 71.438,
-   "projected": 71.438,
-   "live_delta": 0.0,
-   "week_delta": 0.428,
+   "projected": 71.581,
+   "live_delta": 0.142,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
@@ -339,10 +349,10 @@
    "clubs": 5,
    "season": 6.2,
    "total": 46.612,
-   "projected": 46.612,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 46.812,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
    "week_start_total": 46.612,

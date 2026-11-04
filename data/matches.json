@@ -1017,8 +1017,8 @@
   "away": "Olympiacos",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "2'",
   "decided_on_penalties": false
  },
  {
