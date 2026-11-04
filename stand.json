@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:35:25+00:00",
+ "generated_at": "2026-11-04T19:37:31+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -152,9 +152,9 @@
    "clubs": 5,
    "season": 6.4,
    "total": 46.812,
-   "projected": 47.012,
-   "live_delta": 0.2,
-   "week_delta": 0.4,
+   "projected": 46.812,
+   "live_delta": 0.0,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -190,7 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'",
+   "clock": "90'+1'",
    "match": "Fenerbahce 3-2 Liverpool",
    "assocs": [
     "ENG",
@@ -199,8 +199,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'",
-   "match": "AEK Athens 2-2 Real Madrid",
+   "clock": "90'+3'",
+   "match": "AEK Athens 2-3 Real Madrid",
    "assocs": [
     "ESP",
     "GRE"
@@ -246,9 +246,9 @@
    "clubs": 8,
    "season": 7.5,
    "total": 86.118,
-   "projected": 86.243,
-   "live_delta": 0.125,
-   "week_delta": 0.375,
+   "projected": 86.368,
+   "live_delta": 0.25,
+   "week_delta": 0.5,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -358,9 +358,9 @@
    "clubs": 5,
    "season": 6.4,
    "total": 46.812,
-   "projected": 47.012,
-   "live_delta": 0.2,
-   "week_delta": 0.4,
+   "projected": 46.812,
+   "live_delta": 0.0,
+   "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
