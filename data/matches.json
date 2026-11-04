@@ -987,10 +987,10 @@
   "stage": "LP",
   "home": "Fenerbahce",
   "away": "Liverpool",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "26'",
+  "clock": "30'",
   "decided_on_penalties": false
  },
  {
@@ -1004,7 +1004,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "28'",
+  "clock": "29'",
   "decided_on_penalties": false
  },
  {
