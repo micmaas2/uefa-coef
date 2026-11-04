@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:51:43+00:00",
+ "generated_at": "2026-11-04T20:53:51+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -256,7 +256,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "45'+3'",
+   "clock": "HT",
    "match": "Borussia Dortmund 0-0 Real Betis",
    "assocs": [
     "ESP",
@@ -265,7 +265,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "45'+4'",
+   "clock": "HT",
    "match": "Lens 0-3 Como",
    "assocs": [
     "FRA",

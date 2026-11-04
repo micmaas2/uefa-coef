@@ -934,7 +934,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "45'+3'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {
@@ -948,7 +948,7 @@
   "home_goals": 0,
   "away_goals": 3,
   "status": "live",
-  "clock": "45'+4'",
+  "clock": "HT",
   "decided_on_penalties": false
  },
  {
