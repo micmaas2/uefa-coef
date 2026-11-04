@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:54:51+00:00",
+ "generated_at": "2026-11-04T21:56:57+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -82,7 +82,7 @@
    {
     "date": "2026-11-04",
     "competition": "UCL",
-    "status": "live",
+    "status": "final",
     "match": "PSV Eindhoven 1-2 Club Brugge",
     "club": "PSV Eindhoven",
     "delta": 0.0
@@ -110,10 +110,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 6.8,
-   "total": 62.45,
+   "season": 7.2,
+   "total": 62.85,
    "projected": 62.85,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
@@ -186,8 +186,8 @@
    "date": "2026-11-04",
    "time": "21:00",
    "competition": "UCL",
-   "status": "live",
-   "clock": "90'+3'",
+   "status": "final",
+   "clock": "FT",
    "match": "PSV Eindhoven 1-2 Club Brugge",
    "club": "PSV Eindhoven",
    "delta": 0.0
@@ -238,29 +238,11 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+3'",
-   "match": "PSV Eindhoven 1-2 Club Brugge",
-   "assocs": [
-    "BEL",
-    "NED"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+4'",
    "match": "Borussia Dortmund 2-1 Real Betis",
    "assocs": [
     "ESP",
     "GER"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+3'",
-   "match": "Lens 1-9 Como",
-   "assocs": [
-    "FRA",
-    "ITA"
    ]
   }
  ],
@@ -285,10 +267,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 6.785,
-   "total": 91.017,
+   "season": 7.071,
+   "total": 91.303,
    "projected": 91.303,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 0.571,
    "played_week": true,
    "rank": 2,
@@ -365,10 +347,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 6.8,
-   "total": 62.45,
+   "season": 7.2,
+   "total": 62.85,
    "projected": 62.85,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 7,
