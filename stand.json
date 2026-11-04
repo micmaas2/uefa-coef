@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:37:31+00:00",
+ "generated_at": "2026-11-04T19:39:38+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -134,10 +134,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 7.5,
-   "total": 52.675,
+   "season": 7.9,
+   "total": 53.075,
    "projected": 53.075,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
@@ -190,16 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+1'",
-   "match": "Fenerbahce 3-2 Liverpool",
-   "assocs": [
-    "ENG",
-    "TUR"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+3'",
+   "clock": "90'+4'",
    "match": "AEK Athens 2-3 Real Madrid",
    "assocs": [
     "ESP",
@@ -340,10 +331,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 7.5,
-   "total": 52.675,
+   "season": 7.9,
+   "total": 53.075,
    "projected": 53.075,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
