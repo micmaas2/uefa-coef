@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:09:00+00:00",
+ "generated_at": "2026-11-04T20:11:10+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -187,7 +187,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "7'",
+   "clock": "10'",
    "match": "PSV Eindhoven 0-0 Club Brugge",
    "club": "PSV Eindhoven",
    "delta": 0.166
@@ -238,7 +238,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "6'",
+   "clock": "9'",
    "match": "FC Porto 0-0 Napoli",
    "assocs": [
     "ITA",
@@ -247,7 +247,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "7'",
+   "clock": "10'",
    "match": "PSV Eindhoven 0-0 Club Brugge",
    "assocs": [
     "BEL",
@@ -256,7 +256,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "5'",
+   "clock": "7'",
    "match": "Borussia Dortmund 0-0 Real Betis",
    "assocs": [
     "ESP",
@@ -265,8 +265,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "7'",
-   "match": "Lens 0-0 Como",
+   "clock": "9'",
+   "match": "Lens 0-1 Como",
    "assocs": [
     "FRA",
     "ITA"
@@ -274,7 +274,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "5'",
+   "clock": "7'",
    "match": "RB Leipzig 0-0 Manchester City",
    "assocs": [
     "ENG",
@@ -283,7 +283,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "7'",
+   "clock": "9'",
    "match": "Slavia Prague 0-0 Arsenal",
    "assocs": [
     "CZE",
@@ -314,9 +314,9 @@
    "clubs": 7,
    "season": 6.785,
    "total": 91.017,
-   "projected": 91.303,
-   "live_delta": 0.285,
-   "week_delta": 0.571,
+   "projected": 91.446,
+   "live_delta": 0.428,
+   "week_delta": 0.714,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -362,9 +362,9 @@
    "clubs": 7,
    "season": 6.499,
    "total": 71.581,
-   "projected": 71.724,
-   "live_delta": 0.142,
-   "week_delta": 0.714,
+   "projected": 71.581,
+   "live_delta": 0.0,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
