@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:23:16+00:00",
+ "generated_at": "2026-11-04T21:25:22+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -187,7 +187,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "62'",
+   "clock": "64'",
    "match": "PSV Eindhoven 1-1 Club Brugge",
    "club": "PSV Eindhoven",
    "delta": 0.166
@@ -238,7 +238,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "63'",
+   "clock": "65'",
    "match": "FC Porto 1-1 Napoli",
    "assocs": [
     "ITA",
@@ -247,7 +247,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "62'",
+   "clock": "64'",
    "match": "PSV Eindhoven 1-1 Club Brugge",
    "assocs": [
     "BEL",
@@ -256,7 +256,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "59'",
+   "clock": "61'",
    "match": "Borussia Dortmund 1-0 Real Betis",
    "assocs": [
     "ESP",
@@ -265,8 +265,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "61'",
-   "match": "Lens 0-6 Como",
+   "clock": "63'",
+   "match": "Lens 0-7 Como",
    "assocs": [
     "FRA",
     "ITA"
@@ -274,7 +274,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "63'",
+   "clock": "65'",
    "match": "RB Leipzig 2-2 Manchester City",
    "assocs": [
     "ENG",
@@ -283,7 +283,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "65'",
+   "clock": "67'",
    "match": "Slavia Prague 0-2 Arsenal",
    "assocs": [
     "CZE",
