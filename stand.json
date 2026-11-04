@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:13:16+00:00",
+ "generated_at": "2026-11-04T20:15:27+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -96,9 +96,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 67.75,
-   "projected": 67.95,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 68.15,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -187,7 +187,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "12'",
+   "clock": "14'",
    "match": "PSV Eindhoven 0-0 Club Brugge",
    "club": "PSV Eindhoven",
    "delta": 0.166
@@ -238,8 +238,8 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "12'",
-   "match": "FC Porto 0-0 Napoli",
+   "clock": "13'",
+   "match": "FC Porto 1-0 Napoli",
    "assocs": [
     "ITA",
     "POR"
@@ -247,7 +247,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "12'",
+   "clock": "14'",
    "match": "PSV Eindhoven 0-0 Club Brugge",
    "assocs": [
     "BEL",
@@ -256,7 +256,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "9'",
+   "clock": "11'",
    "match": "Borussia Dortmund 0-0 Real Betis",
    "assocs": [
     "ESP",
@@ -265,7 +265,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "11'",
+   "clock": "13'",
    "match": "Lens 0-1 Como",
    "assocs": [
     "FRA",
@@ -274,7 +274,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "9'",
+   "clock": "11'",
    "match": "RB Leipzig 0-0 Manchester City",
    "assocs": [
     "ENG",
@@ -283,7 +283,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "11'",
+   "clock": "13'",
    "match": "Slavia Prague 0-1 Arsenal",
    "assocs": [
     "CZE",
@@ -314,9 +314,9 @@
    "clubs": 7,
    "season": 6.785,
    "total": 91.017,
-   "projected": 91.446,
-   "live_delta": 0.428,
-   "week_delta": 0.714,
+   "projected": 91.303,
+   "live_delta": 0.285,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -378,9 +378,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 67.75,
-   "projected": 67.95,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 68.15,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
