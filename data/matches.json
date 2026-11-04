@@ -892,7 +892,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "53'",
+  "clock": "55'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "53'",
+  "clock": "55'",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "52'",
+  "clock": "54'",
   "decided_on_penalties": false
  },
  {
@@ -931,10 +931,10 @@
   "stage": "LP",
   "home": "Borussia Dortmund",
   "away": "Real Betis",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "50'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -948,7 +948,7 @@
   "home_goals": 0,
   "away_goals": 4,
   "status": "live",
-  "clock": "50'",
+  "clock": "53'",
   "decided_on_penalties": false
  },
  {
@@ -962,7 +962,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "53'",
+  "clock": "55'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "54'",
+  "clock": "56'",
   "decided_on_penalties": false
  },
  {
