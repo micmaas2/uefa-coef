@@ -892,7 +892,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "61'",
+  "clock": "63'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "61'",
+  "clock": "63'",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "60'",
+  "clock": "62'",
   "decided_on_penalties": false
  },
  {
@@ -934,7 +934,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "57'",
+  "clock": "59'",
   "decided_on_penalties": false
  },
  {
@@ -948,7 +948,7 @@
   "home_goals": 0,
   "away_goals": 6,
   "status": "live",
-  "clock": "59'",
+  "clock": "61'",
   "decided_on_penalties": false
  },
  {
@@ -959,10 +959,10 @@
   "stage": "LP",
   "home": "RB Leipzig",
   "away": "Manchester City",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "61'",
+  "clock": "63'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "63'",
+  "clock": "65'",
   "decided_on_penalties": false
  },
  {
