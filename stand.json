@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-04T17:22:30+00:00",
+ "generated_at": "2026-11-04T17:24:42+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
  "week": "2 nov – 8 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -150,10 +150,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.2,
-   "total": 46.612,
+   "season": 6.4,
+   "total": 46.812,
    "projected": 46.812,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
@@ -187,17 +187,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Stade Rennais 0-0 Olympiacos",
-   "assocs": [
-    "FRA",
-    "GRE"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -267,10 +257,10 @@
    "assoc": "FRA",
    "name": "Frankrijk",
    "clubs": 7,
-   "season": 6.356,
-   "total": 71.438,
+   "season": 6.499,
+   "total": 71.581,
    "projected": 71.581,
-   "live_delta": 0.142,
+   "live_delta": 0.0,
    "week_delta": 0.571,
    "played_week": true,
    "rank": 5,
@@ -347,10 +337,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.2,
-   "total": 46.612,
+   "season": 6.4,
+   "total": 46.812,
    "projected": 46.812,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 0.2,
    "played_week": true,
    "rank": 10,
