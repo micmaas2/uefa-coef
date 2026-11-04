@@ -889,10 +889,10 @@
   "stage": "LP",
   "home": "FC Porto",
   "away": "Napoli",
-  "home_goals": 3,
+  "home_goals": 4,
   "away_goals": 1,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 3,
   "away_goals": 1,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -920,7 +920,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
@@ -934,7 +934,7 @@
   "home_goals": 2,
   "away_goals": 1,
   "status": "live",
-  "clock": "85'",
+  "clock": "88'",
   "decided_on_penalties": false
  },
  {
@@ -948,7 +948,7 @@
   "home_goals": 1,
   "away_goals": 8,
   "status": "live",
-  "clock": "86'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -962,7 +962,7 @@
   "home_goals": 2,
   "away_goals": 3,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
@@ -973,10 +973,10 @@
   "stage": "LP",
   "home": "Slavia Prague",
   "away": "Arsenal",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
