@@ -990,7 +990,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "77'",
+  "clock": "79'",
   "decided_on_penalties": false
  },
  {
@@ -1002,9 +1002,9 @@
   "home": "AEK Athens",
   "away": "Real Madrid",
   "home_goals": 2,
-  "away_goals": 1,
+  "away_goals": 2,
   "status": "live",
-  "clock": "78'",
+  "clock": "80'",
   "decided_on_penalties": false
  },
  {
