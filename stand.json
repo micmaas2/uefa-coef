@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-04T17:24:42+00:00",
+ "generated_at": "2026-11-04T17:48:29+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
  "week": "2 nov – 8 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -20,7 +20,7 @@
   "week_delta": 0.0,
   "gap_up": 7.055,
   "gap_up_to": "België",
-  "gap_down": 2.72,
+  "gap_down": 2.52,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -136,9 +136,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 52.675,
-   "projected": 52.675,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 52.875,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -152,9 +152,9 @@
    "clubs": 5,
    "season": 6.4,
    "total": 46.812,
-   "projected": 46.812,
-   "live_delta": 0.0,
-   "week_delta": 0.2,
+   "projected": 47.012,
+   "live_delta": 0.2,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
@@ -187,7 +187,26 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Fenerbahce 0-0 Liverpool",
+   "assocs": [
+    "ENG",
+    "TUR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "AEK Athens 0-0 Real Madrid",
+   "assocs": [
+    "ESP",
+    "GRE"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -195,9 +214,9 @@
    "clubs": 9,
    "season": 8.166,
    "total": 106.685,
-   "projected": 106.685,
-   "live_delta": 0.0,
-   "week_delta": 0.222,
+   "projected": 106.796,
+   "live_delta": 0.111,
+   "week_delta": 0.333,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -227,9 +246,9 @@
    "clubs": 8,
    "season": 7.5,
    "total": 86.118,
-   "projected": 86.118,
-   "live_delta": 0.0,
-   "week_delta": 0.25,
+   "projected": 86.243,
+   "live_delta": 0.125,
+   "week_delta": 0.375,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -323,9 +342,9 @@
    "clubs": 5,
    "season": 7.5,
    "total": 52.675,
-   "projected": 52.675,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 52.875,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -339,9 +358,9 @@
    "clubs": 5,
    "season": 6.4,
    "total": 46.812,
-   "projected": 46.812,
-   "live_delta": 0.0,
-   "week_delta": 0.2,
+   "projected": 47.012,
+   "live_delta": 0.2,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 10,
    "rank_confirmed": 10,
