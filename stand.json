@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:10:01+00:00",
+ "generated_at": "2026-11-04T19:12:16+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -190,7 +190,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "64'",
+   "clock": "67'",
    "match": "Fenerbahce 1-1 Liverpool",
    "assocs": [
     "ENG",
@@ -199,7 +199,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "65'",
+   "clock": "68'",
    "match": "AEK Athens 1-1 Real Madrid",
    "assocs": [
     "ESP",
