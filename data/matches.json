@@ -892,7 +892,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "HT",
+  "clock": "47'",
   "decided_on_penalties": false
  },
  {
@@ -906,7 +906,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "HT",
+  "clock": "47'",
   "decided_on_penalties": false
  },
  {
@@ -962,7 +962,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "HT",
+  "clock": "46'",
   "decided_on_penalties": false
  },
  {
@@ -976,7 +976,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "46'",
+  "clock": "48'",
   "decided_on_penalties": false
  },
  {

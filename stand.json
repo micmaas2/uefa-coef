@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:04:21+00:00",
+ "generated_at": "2026-11-04T21:06:27+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
@@ -238,7 +238,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "FC Porto 1-1 Napoli",
    "assocs": [
     "ITA",
@@ -274,7 +274,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "RB Leipzig 0-1 Manchester City",
    "assocs": [
     "ENG",
@@ -283,7 +283,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "46'",
+   "clock": "48'",
    "match": "Slavia Prague 0-2 Arsenal",
    "assocs": [
     "CZE",
