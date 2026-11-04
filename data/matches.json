@@ -933,8 +933,8 @@
   "away": "Real Betis",
   "home_goals": 2,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+4'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
