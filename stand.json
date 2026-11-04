@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-04T19:39:38+00:00",
+ "generated_at": "2026-11-04T19:41:44+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-04",
  "week": "2 nov – 8 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -187,17 +187,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "AEK Athens 2-3 Real Madrid",
-   "assocs": [
-    "ESP",
-    "GRE"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -235,10 +225,10 @@
    "assoc": "ESP",
    "name": "Spanje",
    "clubs": 8,
-   "season": 7.5,
-   "total": 86.118,
+   "season": 7.75,
+   "total": 86.368,
    "projected": 86.368,
-   "live_delta": 0.25,
+   "live_delta": 0.0,
    "week_delta": 0.5,
    "played_week": true,
    "rank": 3,
