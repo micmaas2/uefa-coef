@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:46:12+00:00",
+ "generated_at": "2026-11-05T18:48:19+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -223,7 +223,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "FC Midtjylland 1-1 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Trabzonspor 0-1 SC Freiburg",
    "assocs": [
     "GER",
@@ -338,7 +338,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "FC Midtjylland 1-1 Ajax Amsterdam",
    "assocs": [
     "NED"
