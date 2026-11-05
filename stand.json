@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:52:43+00:00",
+ "generated_at": "2026-11-05T21:54:54+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -11,12 +11,12 @@
   "rank_confirmed": 8,
   "rank_week_start": 8,
   "rank_change": 0,
-  "total": 56.062,
+  "total": 56.395,
   "projected": 56.395,
-  "season": 7.333,
+  "season": 7.666,
   "clubs": 6,
   "week_start_total": 55.395,
-  "live_delta": 0.333,
+  "live_delta": 0.0,
   "week_delta": 1.0,
   "gap_up": 7.655,
   "gap_up_to": "België",
@@ -106,7 +106,7 @@
    {
     "date": "2026-11-05",
     "competition": "UECL",
-    "status": "live",
+    "status": "final",
     "match": "FC Twente 3-1 Pafos",
     "club": "FC Twente",
     "delta": 0.333
@@ -126,11 +126,11 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 8.1,
-   "total": 68.35,
-   "projected": 68.75,
-   "live_delta": 0.4,
-   "week_delta": 1.4,
+   "season": 8.5,
+   "total": 68.75,
+   "projected": 68.95,
+   "live_delta": 0.2,
+   "week_delta": 1.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -142,10 +142,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 7.8,
-   "total": 63.45,
+   "season": 8.0,
+   "total": 63.65,
    "projected": 64.05,
-   "live_delta": 0.6,
+   "live_delta": 0.4,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 7,
@@ -158,10 +158,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 7.333,
-   "total": 56.062,
+   "season": 7.666,
+   "total": 56.395,
    "projected": 56.395,
-   "live_delta": 0.333,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 8,
@@ -190,10 +190,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.4,
-   "total": 46.812,
+   "season": 6.8,
+   "total": 47.212,
    "projected": 47.612,
-   "live_delta": 0.8,
+   "live_delta": 0.4,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 10,
@@ -249,7 +249,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "AZ Alkmaar 1-2 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -258,8 +258,8 @@
    "date": "2026-11-05",
    "time": "21:00",
    "competition": "UECL",
-   "status": "live",
-   "clock": "90'+2'",
+   "status": "final",
+   "clock": "FT",
    "match": "FC Twente 3-1 Pafos",
    "club": "FC Twente",
    "delta": 0.333
@@ -269,15 +269,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'+5'",
-   "match": "Celtic 3-2 Besiktas",
-   "assocs": [
-    "TUR"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Sunderland 0-2 Dinamo Zagreb",
    "assocs": [
     "ENG"
@@ -285,16 +277,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+2'",
-   "match": "Benfica 3-1 Lech Poznan",
-   "assocs": [
-    "POL",
-    "POR"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "AZ Alkmaar 1-2 Juventus",
    "assocs": [
     "ITA",
@@ -303,15 +286,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+2'",
-   "match": "Torreense 1-2 Ararat-Armenia",
+   "clock": "90'+4'",
+   "match": "Torreense 2-2 Ararat-Armenia",
    "assocs": [
     "POR"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "90'+4'",
+   "clock": "90'+6'",
    "match": "Celta Vigo 1-2 Union St.-Gilloise",
    "assocs": [
     "BEL",
@@ -320,43 +303,19 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+2'",
-   "match": "Hapoel Be'er 0-3 OFI Crete",
+   "clock": "90'+4'",
+   "match": "Hapoel Be'er 0-2 OFI Crete",
    "assocs": [
     "GRE"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Bayer Leverkusen 0-1 Marseille",
    "assocs": [
     "FRA",
     "GER"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+3'",
-   "match": "Panathinaikos 2-1 CSKA Sofia",
-   "assocs": [
-    "GRE"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+4'",
-   "match": "Sint-Truidense 1-1 SK Brann",
-   "assocs": [
-    "BEL"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+2'",
-   "match": "FC Twente 3-1 Pafos",
-   "assocs": [
-    "NED"
    ]
   }
  ],
@@ -445,11 +404,11 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 8.1,
-   "total": 68.35,
-   "projected": 68.75,
-   "live_delta": 0.4,
-   "week_delta": 1.4,
+   "season": 8.5,
+   "total": 68.75,
+   "projected": 68.95,
+   "live_delta": 0.2,
+   "week_delta": 1.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -461,10 +420,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 7.8,
-   "total": 63.45,
+   "season": 8.0,
+   "total": 63.65,
    "projected": 64.05,
-   "live_delta": 0.6,
+   "live_delta": 0.4,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 7,
@@ -477,10 +436,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 7.333,
-   "total": 56.062,
+   "season": 7.666,
+   "total": 56.395,
    "projected": 56.395,
-   "live_delta": 0.333,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 8,
@@ -509,10 +468,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.4,
-   "total": 46.812,
+   "season": 6.8,
+   "total": 47.212,
    "projected": 47.612,
-   "live_delta": 0.8,
+   "live_delta": 0.4,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 10,
