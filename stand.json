@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:48:30+00:00",
+ "generated_at": "2026-11-05T19:50:40+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -223,7 +223,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "FC Midtjylland 1-6 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.333
@@ -254,7 +254,7 @@
  "live_matches": [
   {
    "competition": "UECL",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "FC Midtjylland 1-6 Ajax Amsterdam",
    "assocs": [
     "NED"
