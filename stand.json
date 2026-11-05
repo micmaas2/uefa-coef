@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:54:54+00:00",
+ "generated_at": "2026-11-05T21:57:06+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -128,9 +128,9 @@
    "clubs": 5,
    "season": 8.5,
    "total": 68.75,
-   "projected": 68.95,
-   "live_delta": 0.2,
-   "week_delta": 1.6,
+   "projected": 69.15,
+   "live_delta": 0.4,
+   "week_delta": 1.8,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -142,10 +142,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 8.0,
-   "total": 63.65,
+   "season": 8.4,
+   "total": 64.05,
    "projected": 64.05,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 7,
@@ -190,10 +190,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.8,
-   "total": 47.212,
+   "season": 7.2,
+   "total": 47.612,
    "projected": 47.612,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 10,
@@ -249,7 +249,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "90'+5'",
+   "clock": "90'+7'",
    "match": "AZ Alkmaar 1-2 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -269,15 +269,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Sunderland 0-2 Dinamo Zagreb",
-   "assocs": [
-    "ENG"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+5'",
+   "clock": "90'+7'",
    "match": "AZ Alkmaar 1-2 Juventus",
    "assocs": [
     "ITA",
@@ -286,36 +278,10 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+4'",
-   "match": "Torreense 2-2 Ararat-Armenia",
+   "clock": "90'+7'",
+   "match": "Torreense 3-2 Ararat-Armenia",
    "assocs": [
     "POR"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+6'",
-   "match": "Celta Vigo 1-2 Union St.-Gilloise",
-   "assocs": [
-    "BEL",
-    "ESP"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+4'",
-   "match": "Hapoel Be'er 0-2 OFI Crete",
-   "assocs": [
-    "GRE"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+4'",
-   "match": "Bayer Leverkusen 0-1 Marseille",
-   "assocs": [
-    "FRA",
-    "GER"
    ]
   }
  ],
@@ -388,10 +354,10 @@
    "assoc": "FRA",
    "name": "Frankrijk",
    "clubs": 7,
-   "season": 6.928,
-   "total": 72.01,
+   "season": 7.214,
+   "total": 72.296,
    "projected": 72.296,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 1.285,
    "played_week": true,
    "rank": 5,
@@ -406,9 +372,9 @@
    "clubs": 5,
    "season": 8.5,
    "total": 68.75,
-   "projected": 68.95,
-   "live_delta": 0.2,
-   "week_delta": 1.6,
+   "projected": 69.15,
+   "live_delta": 0.4,
+   "week_delta": 1.8,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -420,10 +386,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 8.0,
-   "total": 63.65,
+   "season": 8.4,
+   "total": 64.05,
    "projected": 64.05,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 7,
@@ -468,10 +434,10 @@
    "assoc": "GRE",
    "name": "Griekenland",
    "clubs": 5,
-   "season": 6.8,
-   "total": 47.212,
+   "season": 7.2,
+   "total": 47.612,
    "projected": 47.612,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 10,
