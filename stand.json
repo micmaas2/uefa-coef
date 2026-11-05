@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-05T21:57:06+00:00",
+ "generated_at": "2026-11-05T21:59:17+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
  "week": "2 nov – 8 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -90,7 +90,7 @@
    {
     "date": "2026-11-05",
     "competition": "UEL",
-    "status": "live",
+    "status": "final",
     "match": "AZ Alkmaar 1-2 Juventus",
     "club": "AZ Alkmaar",
     "delta": 0.0
@@ -126,10 +126,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 8.5,
-   "total": 68.75,
+   "season": 8.9,
+   "total": 69.15,
    "projected": 69.15,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.8,
    "played_week": true,
    "rank": 6,
@@ -248,8 +248,8 @@
    "date": "2026-11-05",
    "time": "21:00",
    "competition": "UEL",
-   "status": "live",
-   "clock": "90'+7'",
+   "status": "final",
+   "clock": "FT",
    "match": "AZ Alkmaar 1-2 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -266,25 +266,7 @@
   }
  ],
  "next_matches": [],
- "live_matches": [
-  {
-   "competition": "UEL",
-   "clock": "90'+7'",
-   "match": "AZ Alkmaar 1-2 Juventus",
-   "assocs": [
-    "ITA",
-    "NED"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+7'",
-   "match": "Torreense 3-2 Ararat-Armenia",
-   "assocs": [
-    "POR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -306,10 +288,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 7.214,
-   "total": 91.446,
+   "season": 7.499,
+   "total": 91.731,
    "projected": 91.731,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 2,
@@ -370,10 +352,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 8.5,
-   "total": 68.75,
+   "season": 8.9,
+   "total": 69.15,
    "projected": 69.15,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.8,
    "played_week": true,
    "rank": 6,

@@ -1129,8 +1129,8 @@
   "away": "Juventus",
   "home_goals": 1,
   "away_goals": 2,
-  "status": "live",
-  "clock": "90'+7'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -1143,8 +1143,8 @@
   "away": "Ararat-Armenia",
   "home_goals": 3,
   "away_goals": 2,
-  "status": "live",
-  "clock": "90'+7'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
