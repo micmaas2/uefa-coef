@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:09:23+00:00",
+ "generated_at": "2026-11-05T19:11:29+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 55.395,
-  "projected": 55.729,
+  "projected": 55.895,
   "season": 6.666,
   "clubs": 6,
-  "week_start_total": 55.396,
-  "live_delta": 0.333,
-  "week_delta": 0.333,
-  "gap_up": 7.721,
+  "week_start_total": 55.395,
+  "live_delta": 0.5,
+  "week_delta": 0.5,
+  "gap_up": 7.555,
   "gap_up_to": "België",
-  "gap_down": 2.654,
+  "gap_down": 2.82,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -99,9 +99,9 @@
     "date": "2026-11-05",
     "competition": "UECL",
     "status": "live",
-    "match": "FC Midtjylland 1-1 Ajax Amsterdam",
+    "match": "FC Midtjylland 1-2 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
-    "delta": 0.166
+    "delta": 0.333
    }
   ]
  },
@@ -144,13 +144,13 @@
    "clubs": 6,
    "season": 6.666,
    "total": 55.395,
-   "projected": 55.729,
-   "live_delta": 0.333,
-   "week_delta": 0.333,
+   "projected": 55.895,
+   "live_delta": 0.5,
+   "week_delta": 0.5,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 55.396,
+   "week_start_total": 55.395,
    "rank_week_start": 8,
    "rank_change": 0
   },
@@ -213,7 +213,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "66'",
+   "clock": "68'",
    "match": "NEC Nijmegen 1-1 Omonia Nicosia",
    "club": "NEC Nijmegen",
    "delta": 0.166
@@ -223,10 +223,10 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "51'",
-   "match": "FC Midtjylland 1-1 Ajax Amsterdam",
+   "clock": "53'",
+   "match": "FC Midtjylland 1-2 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
-   "delta": 0.166
+   "delta": 0.333
   }
  ],
  "next_matches": [
@@ -254,7 +254,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "67'",
+   "clock": "69'",
    "match": "Crystal Palace 0-1 TSG Hoffenheim",
    "assocs": [
     "ENG",
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "66'",
+   "clock": "68'",
    "match": "Lillestrom 0-1 Viktoria Plzen",
    "assocs": [
     "CZE"
@@ -271,7 +271,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "Sparta Prague 1-1 AFC Bournemouth",
    "assocs": [
     "CZE",
@@ -280,15 +280,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "65'",
-   "match": "AC Milan 0-1 Ferencvaros",
+   "clock": "67'",
+   "match": "AC Milan 0-2 Ferencvaros",
    "assocs": [
     "ITA"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "66'",
+   "clock": "68'",
    "match": "NEC Nijmegen 1-1 Omonia Nicosia",
    "assocs": [
     "NED"
@@ -296,7 +296,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "Levski Sofia 0-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "Real Sociedad 1-1 Lyon",
    "assocs": [
     "ESP",
@@ -313,7 +313,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "66'",
+   "clock": "68'",
    "match": "Anderlecht 1-0 RB Salzburg",
    "assocs": [
     "BEL"
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "68'",
+   "clock": "70'",
    "match": "Trabzonspor 0-1 SC Freiburg",
    "assocs": [
     "GER",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -338,15 +338,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "51'",
-   "match": "FC Midtjylland 1-1 Ajax Amsterdam",
+   "clock": "53'",
+   "match": "FC Midtjylland 1-2 Ajax Amsterdam",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "65'",
+   "clock": "67'",
    "match": "Atalanta 0-1 Kairat Almaty",
    "assocs": [
     "ITA"
@@ -354,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "AGF 0-0 Braga",
    "assocs": [
     "POR"
@@ -480,13 +480,13 @@
    "clubs": 6,
    "season": 6.666,
    "total": 55.395,
-   "projected": 55.729,
-   "live_delta": 0.333,
-   "week_delta": 0.333,
+   "projected": 55.895,
+   "live_delta": 0.5,
+   "week_delta": 0.5,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 55.396,
+   "week_start_total": 55.395,
    "rank_week_start": 8,
    "rank_change": 0
   },
