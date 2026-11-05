@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:33:32+00:00",
+ "generated_at": "2026-11-05T18:35:40+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -223,7 +223,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "34'",
+   "clock": "36'",
    "match": "FC Midtjylland 1-1 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Lillestrom 0-1 Viktoria Plzen",
    "assocs": [
     "CZE"
@@ -271,7 +271,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Sparta Prague 1-0 AFC Bournemouth",
    "assocs": [
     "CZE",
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+1'",
+   "clock": "HT",
    "match": "AC Milan 0-0 Ferencvaros",
    "assocs": [
     "ITA"
@@ -296,7 +296,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Levski Sofia 0-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Real Sociedad 1-0 Lyon",
    "assocs": [
     "ESP",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+2'",
+   "clock": "45'+4'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -338,7 +338,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "FC Midtjylland 1-1 Ajax Amsterdam",
    "assocs": [
     "NED"
@@ -346,7 +346,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+2'",
+   "clock": "45'+4'",
    "match": "Atalanta 0-0 Kairat Almaty",
    "assocs": [
     "ITA"
@@ -354,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'",
+   "clock": "HT",
    "match": "AGF 0-0 Braga",
    "assocs": [
     "POR"
