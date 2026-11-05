@@ -1032,7 +1032,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1046,7 +1046,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1060,7 +1060,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1074,7 +1074,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1130,7 +1130,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1144,7 +1144,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1155,10 +1155,10 @@
   "stage": "LP",
   "home": "Celta Vigo",
   "away": "Union St.-Gilloise",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1172,7 +1172,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "12'",
+  "clock": "14'",
   "decided_on_penalties": false
  },
  {
@@ -1186,7 +1186,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1270,7 +1270,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "12'",
+  "clock": "14'",
   "decided_on_penalties": false
  },
  {
@@ -1312,7 +1312,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "12'",
+  "clock": "14'",
   "decided_on_penalties": false
  },
  {
@@ -1326,7 +1326,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1340,7 +1340,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1354,7 +1354,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1368,7 +1368,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1382,7 +1382,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
@@ -1393,10 +1393,10 @@
   "stage": "LP",
   "home": "FC Lugano",
   "away": "Kauno Zalgiris",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -1410,7 +1410,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "10'",
+  "clock": "12'",
   "decided_on_penalties": false
  },
  {
