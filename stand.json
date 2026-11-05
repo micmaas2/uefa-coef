@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:39:39+00:00",
+ "generated_at": "2026-11-05T21:41:50+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -249,7 +249,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "80'",
+   "clock": "82'",
    "match": "AZ Alkmaar 0-2 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -259,7 +259,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "79'",
+   "clock": "81'",
    "match": "FC Twente 2-1 Pafos",
    "club": "FC Twente",
    "delta": 0.333
@@ -269,7 +269,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "Celtic 2-1 Besiktas",
    "assocs": [
     "TUR"
@@ -277,7 +277,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Sunderland 0-2 Dinamo Zagreb",
    "assocs": [
     "ENG"
@@ -285,7 +285,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "80'",
+   "clock": "83'",
    "match": "Benfica 2-1 Lech Poznan",
    "assocs": [
     "POL",
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "80'",
+   "clock": "82'",
    "match": "AZ Alkmaar 0-2 Juventus",
    "assocs": [
     "ITA",
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "Torreense 1-2 Ararat-Armenia",
    "assocs": [
     "POR"
@@ -311,7 +311,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "Celta Vigo 1-2 Union St.-Gilloise",
    "assocs": [
     "BEL",
@@ -320,7 +320,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "Hapoel Be'er 0-2 OFI Crete",
    "assocs": [
     "GRE"
@@ -328,7 +328,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "Bayer Leverkusen 0-1 Marseille",
    "assocs": [
     "FRA",
@@ -337,7 +337,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "83'",
+   "clock": "85'",
    "match": "Riga FC 1-1 Jablonec",
    "assocs": [
     "CZE"
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "80'",
+   "clock": "82'",
    "match": "Panathinaikos 2-1 CSKA Sofia",
    "assocs": [
     "GRE"
@@ -353,7 +353,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "Sint-Truidense 1-1 SK Brann",
    "assocs": [
     "BEL"
@@ -361,7 +361,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "Getafe 0-1 Brighton & Hove Albion",
    "assocs": [
     "ENG",
@@ -370,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "FC Twente 2-1 Pafos",
    "assocs": [
     "NED"
@@ -378,7 +378,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "AS Monaco 1-0 FC Nordsjælland",
    "assocs": [
     "FRA"
