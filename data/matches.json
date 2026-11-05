@@ -1088,7 +1088,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "90'+3'",
+  "clock": "90'+5'",
   "decided_on_penalties": false
  },
  {
@@ -1102,7 +1102,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1116,7 +1116,7 @@
   "home_goals": 1,
   "away_goals": 3,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1200,7 +1200,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1213,8 +1213,8 @@
   "away": "Omonia Nicosia",
   "home_goals": 3,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+2'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -1228,7 +1228,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
@@ -1242,7 +1242,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
@@ -1256,7 +1256,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1298,7 +1298,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'+1'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1423,8 +1423,8 @@
   "away": "SC Freiburg",
   "home_goals": 0,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
@@ -1438,7 +1438,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  },
  {
@@ -1452,7 +1452,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "88'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -1466,7 +1466,7 @@
   "home_goals": 3,
   "away_goals": 1,
   "status": "live",
-  "clock": "83'",
+  "clock": "86'",
   "decided_on_penalties": false
  },
  {
@@ -1480,7 +1480,7 @@
   "home_goals": 1,
   "away_goals": 5,
   "status": "live",
-  "clock": "77'",
+  "clock": "79'",
   "decided_on_penalties": false
  },
  {
@@ -1494,7 +1494,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+3'",
   "decided_on_penalties": false
  },
  {
@@ -1508,7 +1508,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'",
+  "clock": "90'+2'",
   "decided_on_penalties": false
  }
 ]
