@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-05T19:50:40+00:00",
+ "generated_at": "2026-11-05T19:52:52+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
  "week": "2 nov – 8 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
   "rank_confirmed": 8,
   "rank_week_start": 8,
   "rank_change": 0,
-  "total": 55.729,
+  "total": 56.062,
   "projected": 56.062,
-  "season": 7.0,
+  "season": 7.333,
   "clubs": 6,
   "week_start_total": 55.396,
-  "live_delta": 0.333,
+  "live_delta": 0.0,
   "week_delta": 0.666,
   "gap_up": 7.388,
   "gap_up_to": "België",
@@ -98,7 +98,7 @@
    {
     "date": "2026-11-05",
     "competition": "UECL",
-    "status": "live",
+    "status": "final",
     "match": "FC Midtjylland 1-6 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
     "delta": 0.333
@@ -142,10 +142,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 7.0,
-   "total": 55.729,
+   "season": 7.333,
+   "total": 56.062,
    "projected": 56.062,
-   "live_delta": 0.333,
+   "live_delta": 0.0,
    "week_delta": 0.666,
    "played_week": true,
    "rank": 8,
@@ -222,8 +222,8 @@
    "date": "2026-11-05",
    "time": "18:45",
    "competition": "UECL",
-   "status": "live",
-   "clock": "90'+2'",
+   "status": "final",
+   "clock": "FT",
    "match": "FC Midtjylland 1-6 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.333
@@ -251,16 +251,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UECL",
-   "clock": "90'+2'",
-   "match": "FC Midtjylland 1-6 Ajax Amsterdam",
-   "assocs": [
-    "NED"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -378,10 +369,10 @@
    "assoc": "NED",
    "name": "Nederland",
    "clubs": 6,
-   "season": 7.0,
-   "total": 55.729,
+   "season": 7.333,
+   "total": 56.062,
    "projected": 56.062,
-   "live_delta": 0.333,
+   "live_delta": 0.0,
    "week_delta": 0.666,
    "played_week": true,
    "rank": 8,

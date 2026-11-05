@@ -1479,8 +1479,8 @@
   "away": "Ajax Amsterdam",
   "home_goals": 1,
   "away_goals": 6,
-  "status": "live",
-  "clock": "90'+2'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
