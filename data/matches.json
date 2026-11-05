@@ -1032,7 +1032,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1046,7 +1046,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1060,7 +1060,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1074,7 +1074,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1130,7 +1130,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "31'",
+  "clock": "33'",
   "decided_on_penalties": false
  },
  {
@@ -1144,7 +1144,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1158,7 +1158,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1172,7 +1172,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1186,7 +1186,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "31'",
+  "clock": "33'",
   "decided_on_penalties": false
  },
  {
@@ -1270,7 +1270,7 @@
   "home_goals": 2,
   "away_goals": 1,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1312,7 +1312,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1323,10 +1323,10 @@
   "stage": "LP",
   "home": "Riga FC",
   "away": "Jablonec",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1340,7 +1340,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "33'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1354,7 +1354,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1368,7 +1368,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1382,7 +1382,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "31'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1393,10 +1393,10 @@
   "stage": "LP",
   "home": "FC Lugano",
   "away": "Kauno Zalgiris",
-  "home_goals": 2,
+  "home_goals": 3,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1407,10 +1407,10 @@
   "stage": "LP",
   "home": "AS Monaco",
   "away": "FC Nordsjælland",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
