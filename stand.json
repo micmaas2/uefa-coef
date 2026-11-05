@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:49:33+00:00",
+ "generated_at": "2026-11-05T20:51:43+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -259,7 +259,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "45'+1'",
+   "clock": "HT",
    "match": "FC Twente 0-1 Pafos",
    "club": "FC Twente",
    "delta": 0.0
@@ -277,7 +277,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Sunderland 0-2 Dinamo Zagreb",
    "assocs": [
     "ENG"
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Torreense 1-1 Ararat-Armenia",
    "assocs": [
     "POR"
@@ -320,7 +320,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+3'",
+   "clock": "HT",
    "match": "Hapoel Be'er 0-1 OFI Crete",
    "assocs": [
     "GRE"
@@ -328,7 +328,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+1'",
+   "clock": "HT",
    "match": "Bayer Leverkusen 0-0 Marseille",
    "assocs": [
     "FRA",
@@ -370,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+1'",
+   "clock": "HT",
    "match": "FC Twente 0-1 Pafos",
    "assocs": [
     "NED"
