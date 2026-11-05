@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:36:29+00:00",
+ "generated_at": "2026-11-05T20:38:40+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -18,7 +18,7 @@
   "week_start_total": 55.396,
   "live_delta": 0.166,
   "week_delta": 0.833,
-  "gap_up": 7.421,
+  "gap_up": 7.621,
   "gap_up_to": "België",
   "gap_down": 2.954,
   "gap_down_to": "Turkije",
@@ -144,9 +144,9 @@
    "clubs": 5,
    "season": 7.8,
    "total": 63.45,
-   "projected": 63.65,
-   "live_delta": 0.2,
-   "week_delta": 1.2,
+   "projected": 63.85,
+   "live_delta": 0.4,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -249,7 +249,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "33'",
+   "clock": "36'",
    "match": "AZ Alkmaar 0-1 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -259,7 +259,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "34'",
+   "clock": "36'",
    "match": "FC Twente 0-0 Pafos",
    "club": "FC Twente",
    "delta": 0.166
@@ -269,7 +269,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "37'",
    "match": "Celtic 0-0 Besiktas",
    "assocs": [
     "TUR"
@@ -277,7 +277,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Sunderland 0-1 Dinamo Zagreb",
    "assocs": [
     "ENG"
@@ -285,7 +285,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Benfica 1-0 Lech Poznan",
    "assocs": [
     "POL",
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "36'",
    "match": "AZ Alkmaar 0-1 Juventus",
    "assocs": [
     "ITA",
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Torreense 1-0 Ararat-Armenia",
    "assocs": [
     "POR"
@@ -311,8 +311,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
-   "match": "Celta Vigo 1-0 Union St.-Gilloise",
+   "clock": "37'",
+   "match": "Celta Vigo 1-1 Union St.-Gilloise",
    "assocs": [
     "BEL",
     "ESP"
@@ -320,7 +320,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Hapoel Be'er 0-0 OFI Crete",
    "assocs": [
     "GRE"
@@ -328,7 +328,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "36'",
    "match": "Bayer Leverkusen 0-0 Marseille",
    "assocs": [
     "FRA",
@@ -337,7 +337,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Riga FC 1-0 Jablonec",
    "assocs": [
     "CZE"
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "35'",
+   "clock": "37'",
    "match": "Panathinaikos 0-0 CSKA Sofia",
    "assocs": [
     "GRE"
@@ -353,7 +353,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Sint-Truidense 0-0 SK Brann",
    "assocs": [
     "BEL"
@@ -361,7 +361,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "37'",
    "match": "Getafe 0-0 Brighton & Hove Albion",
    "assocs": [
     "ENG",
@@ -370,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "FC Twente 0-0 Pafos",
    "assocs": [
     "NED"
@@ -378,7 +378,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "AS Monaco 1-0 FC Nordsjælland",
    "assocs": [
     "FRA"
@@ -424,9 +424,9 @@
    "clubs": 8,
    "season": 7.875,
    "total": 86.493,
-   "projected": 86.868,
-   "live_delta": 0.375,
-   "week_delta": 1.0,
+   "projected": 86.743,
+   "live_delta": 0.25,
+   "week_delta": 0.875,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -488,9 +488,9 @@
    "clubs": 5,
    "season": 7.8,
    "total": 63.45,
-   "projected": 63.65,
-   "live_delta": 0.2,
-   "week_delta": 1.2,
+   "projected": 63.85,
+   "live_delta": 0.4,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
