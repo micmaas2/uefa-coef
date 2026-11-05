@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:08:13+00:00",
+ "generated_at": "2026-11-05T18:10:20+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -91,17 +91,17 @@
     "date": "2026-11-05",
     "competition": "UEL",
     "status": "live",
-    "match": "NEC Nijmegen 0-0 Omonia Nicosia",
+    "match": "NEC Nijmegen 0-1 Omonia Nicosia",
     "club": "NEC Nijmegen",
-    "delta": 0.166
+    "delta": 0.0
    },
    {
     "date": "2026-11-05",
     "competition": "UECL",
     "status": "live",
-    "match": "FC Midtjylland 0-0 Ajax Amsterdam",
+    "match": "FC Midtjylland 0-1 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
-    "delta": 0.166
+    "delta": 0.333
    }
   ]
  },
@@ -213,20 +213,20 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "21'",
-   "match": "NEC Nijmegen 0-0 Omonia Nicosia",
+   "clock": "23'",
+   "match": "NEC Nijmegen 0-1 Omonia Nicosia",
    "club": "NEC Nijmegen",
-   "delta": 0.166
+   "delta": 0.0
   },
   {
    "date": "2026-11-05",
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "8'",
-   "match": "FC Midtjylland 0-0 Ajax Amsterdam",
+   "clock": "11'",
+   "match": "FC Midtjylland 0-1 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
-   "delta": 0.166
+   "delta": 0.333
   }
  ],
  "next_matches": [
@@ -254,7 +254,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "22'",
+   "clock": "24'",
    "match": "Crystal Palace 0-1 TSG Hoffenheim",
    "assocs": [
     "ENG",
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "22'",
+   "clock": "24'",
    "match": "Lillestrom 0-1 Viktoria Plzen",
    "assocs": [
     "CZE"
@@ -271,7 +271,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "21'",
+   "clock": "23'",
    "match": "Sparta Prague 0-0 AFC Bournemouth",
    "assocs": [
     "CZE",
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "20'",
+   "clock": "22'",
    "match": "AC Milan 0-0 Ferencvaros",
    "assocs": [
     "ITA"
@@ -288,15 +288,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "21'",
-   "match": "NEC Nijmegen 0-0 Omonia Nicosia",
+   "clock": "23'",
+   "match": "NEC Nijmegen 0-1 Omonia Nicosia",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "22'",
+   "clock": "23'",
    "match": "Levski Sofia 0-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "21'",
+   "clock": "23'",
    "match": "Real Sociedad 0-0 Lyon",
    "assocs": [
     "ESP",
@@ -313,7 +313,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "21'",
+   "clock": "23'",
    "match": "Anderlecht 1-0 RB Salzburg",
    "assocs": [
     "BEL"
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "21'",
+   "clock": "24'",
    "match": "Trabzonspor 0-1 SC Freiburg",
    "assocs": [
     "GER",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "21'",
+   "clock": "23'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -338,15 +338,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "8'",
-   "match": "FC Midtjylland 0-0 Ajax Amsterdam",
+   "clock": "11'",
+   "match": "FC Midtjylland 0-1 Ajax Amsterdam",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "21'",
+   "clock": "23'",
    "match": "Atalanta 0-0 Kairat Almaty",
    "assocs": [
     "ITA"
@@ -354,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "20'",
+   "clock": "22'",
    "match": "AGF 0-0 Braga",
    "assocs": [
     "POR"
