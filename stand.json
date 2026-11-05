@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:56:45+00:00",
+ "generated_at": "2026-11-05T18:58:52+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -213,7 +213,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "54'",
+   "clock": "56'",
    "match": "NEC Nijmegen 1-1 Omonia Nicosia",
    "club": "NEC Nijmegen",
    "delta": 0.166
@@ -254,7 +254,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "54'",
+   "clock": "56'",
    "match": "Crystal Palace 0-1 TSG Hoffenheim",
    "assocs": [
     "ENG",
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "53'",
+   "clock": "55'",
    "match": "Lillestrom 0-1 Viktoria Plzen",
    "assocs": [
     "CZE"
@@ -271,7 +271,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "52'",
+   "clock": "54'",
    "match": "Sparta Prague 1-0 AFC Bournemouth",
    "assocs": [
     "CZE",
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "53'",
+   "clock": "55'",
    "match": "AC Milan 0-1 Ferencvaros",
    "assocs": [
     "ITA"
@@ -288,7 +288,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "54'",
+   "clock": "56'",
    "match": "NEC Nijmegen 1-1 Omonia Nicosia",
    "assocs": [
     "NED"
@@ -296,7 +296,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "51'",
+   "clock": "53'",
    "match": "Levski Sofia 0-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "51'",
+   "clock": "53'",
    "match": "Real Sociedad 1-0 Lyon",
    "assocs": [
     "ESP",
@@ -313,7 +313,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "53'",
+   "clock": "55'",
    "match": "Anderlecht 1-0 RB Salzburg",
    "assocs": [
     "BEL"
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "55'",
+   "clock": "57'",
    "match": "Trabzonspor 0-1 SC Freiburg",
    "assocs": [
     "GER",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "51'",
+   "clock": "53'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -346,15 +346,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "52'",
-   "match": "Atalanta 0-0 Kairat Almaty",
+   "clock": "54'",
+   "match": "Atalanta 0-1 Kairat Almaty",
    "assocs": [
     "ITA"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "51'",
+   "clock": "53'",
    "match": "AGF 0-0 Braga",
    "assocs": [
     "POR"
@@ -384,9 +384,9 @@
    "clubs": 7,
    "season": 7.071,
    "total": 91.303,
-   "projected": 91.446,
-   "live_delta": 0.142,
-   "week_delta": 0.714,
+   "projected": 91.303,
+   "live_delta": 0.0,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
