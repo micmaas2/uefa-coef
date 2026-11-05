@@ -1088,7 +1088,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "86'",
+  "clock": "88'",
   "decided_on_penalties": false
  },
  {
@@ -1102,7 +1102,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "85'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -1116,7 +1116,7 @@
   "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "84'",
+  "clock": "86'",
   "decided_on_penalties": false
  },
  {
@@ -1200,7 +1200,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "84'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -1214,7 +1214,7 @@
   "home_goals": 3,
   "away_goals": 1,
   "status": "live",
-  "clock": "86'",
+  "clock": "88'",
   "decided_on_penalties": false
  },
  {
@@ -1225,10 +1225,10 @@
   "stage": "LP",
   "home": "Levski Sofia",
   "away": "Jagiellonia Bialystok",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "83'",
+  "clock": "85'",
   "decided_on_penalties": false
  },
  {
@@ -1242,7 +1242,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "83'",
+  "clock": "85'",
   "decided_on_penalties": false
  },
  {
@@ -1256,7 +1256,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "85'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -1281,10 +1281,10 @@
   "stage": "LP",
   "home": "Mjällby AIF",
   "away": "Borac Banja Luka",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -1298,7 +1298,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "84'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -1424,7 +1424,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -1438,7 +1438,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "83'",
+  "clock": "85'",
   "decided_on_penalties": false
  },
  {
@@ -1452,7 +1452,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "81'",
+  "clock": "84'",
   "decided_on_penalties": false
  },
  {
@@ -1466,7 +1466,7 @@
   "home_goals": 3,
   "away_goals": 0,
   "status": "live",
-  "clock": "77'",
+  "clock": "79'",
   "decided_on_penalties": false
  },
  {
@@ -1480,7 +1480,7 @@
   "home_goals": 1,
   "away_goals": 4,
   "status": "live",
-  "clock": "70'",
+  "clock": "72'",
   "decided_on_penalties": false
  },
  {
@@ -1494,7 +1494,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "84'",
+  "clock": "86'",
   "decided_on_penalties": false
  },
  {
@@ -1508,7 +1508,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "83'",
+  "clock": "86'",
   "decided_on_penalties": false
  }
 ]
