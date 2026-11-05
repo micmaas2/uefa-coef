@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:37:35+00:00",
+ "generated_at": "2026-11-05T19:39:46+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -110,10 +110,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 7.9,
-   "total": 68.15,
+   "season": 8.1,
+   "total": 68.35,
    "projected": 68.35,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 6,
@@ -223,7 +223,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "79'",
+   "clock": "81'",
    "match": "FC Midtjylland 1-5 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.333
@@ -255,23 +255,6 @@
   {
    "competition": "UEL",
    "clock": "90'+5'",
-   "match": "Crystal Palace 1-1 TSG Hoffenheim",
-   "assocs": [
-    "ENG",
-    "GER"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "Lillestrom 0-1 Viktoria Plzen",
-   "assocs": [
-    "CZE"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+3'",
    "match": "Sparta Prague 1-3 AFC Bournemouth",
    "assocs": [
     "CZE",
@@ -280,15 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+3'",
-   "match": "AC Milan 0-2 Ferencvaros",
-   "assocs": [
-    "ITA"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Levski Sofia 1-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -296,7 +271,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Real Sociedad 1-1 Lyon",
    "assocs": [
     "ESP",
@@ -305,7 +280,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'+3'",
+   "clock": "90'+6'",
    "match": "Anderlecht 2-0 RB Salzburg",
    "assocs": [
     "BEL"
@@ -313,7 +288,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -321,7 +296,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "FC Midtjylland 1-5 Ajax Amsterdam",
    "assocs": [
     "NED"
@@ -329,18 +304,10 @@
   },
   {
    "competition": "UECL",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "Atalanta 1-1 Kairat Almaty",
    "assocs": [
     "ITA"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+2'",
-   "match": "AGF 0-0 Braga",
-   "assocs": [
-    "POR"
    ]
   }
  ],
@@ -349,10 +316,10 @@
    "assoc": "ENG",
    "name": "Engeland",
    "clubs": 9,
-   "season": 8.611,
-   "total": 107.13,
+   "season": 8.722,
+   "total": 107.241,
    "projected": 107.463,
-   "live_delta": 0.333,
+   "live_delta": 0.222,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 1,
@@ -397,10 +364,10 @@
    "assoc": "GER",
    "name": "Duitsland",
    "clubs": 7,
-   "season": 8.142,
-   "total": 84.83,
+   "season": 8.284,
+   "total": 84.972,
    "projected": 84.972,
-   "live_delta": 0.142,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 4,
@@ -429,10 +396,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 7.9,
-   "total": 68.15,
+   "season": 8.1,
+   "total": 68.35,
    "projected": 68.35,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 6,
@@ -509,10 +476,10 @@
    "assoc": "CZE",
    "name": "Tsjechië",
    "clubs": 5,
-   "season": 3.9,
-   "total": 45.725,
+   "season": 4.3,
+   "total": 46.125,
    "projected": 46.125,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 11,
