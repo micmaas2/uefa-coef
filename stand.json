@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:39:46+00:00",
+ "generated_at": "2026-11-05T19:41:58+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -99,7 +99,7 @@
     "date": "2026-11-05",
     "competition": "UECL",
     "status": "live",
-    "match": "FC Midtjylland 1-5 Ajax Amsterdam",
+    "match": "FC Midtjylland 1-6 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
     "delta": 0.333
    }
@@ -126,10 +126,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 7.2,
-   "total": 62.85,
+   "season": 7.8,
+   "total": 63.45,
    "projected": 63.45,
-   "live_delta": 0.6,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 7,
@@ -223,8 +223,8 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "81'",
-   "match": "FC Midtjylland 1-5 Ajax Amsterdam",
+   "clock": "83'",
+   "match": "FC Midtjylland 1-6 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.333
   }
@@ -253,61 +253,11 @@
  ],
  "live_matches": [
   {
-   "competition": "UEL",
-   "clock": "90'+5'",
-   "match": "Sparta Prague 1-3 AFC Bournemouth",
-   "assocs": [
-    "CZE",
-    "ENG"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+4'",
-   "match": "Levski Sofia 1-0 Jagiellonia Bialystok",
-   "assocs": [
-    "POL"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+4'",
-   "match": "Real Sociedad 1-1 Lyon",
-   "assocs": [
-    "ESP",
-    "FRA"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+6'",
-   "match": "Anderlecht 2-0 RB Salzburg",
-   "assocs": [
-    "BEL"
-   ]
-  },
-  {
    "competition": "UECL",
-   "clock": "90'+4'",
-   "match": "KuPS Kuopio 0-0 KAA Gent",
-   "assocs": [
-    "BEL"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "81'",
-   "match": "FC Midtjylland 1-5 Ajax Amsterdam",
+   "clock": "83'",
+   "match": "FC Midtjylland 1-6 Ajax Amsterdam",
    "assocs": [
     "NED"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+5'",
-   "match": "Atalanta 1-1 Kairat Almaty",
-   "assocs": [
-    "ITA"
    ]
   }
  ],
@@ -316,10 +266,10 @@
    "assoc": "ENG",
    "name": "Engeland",
    "clubs": 9,
-   "season": 8.722,
-   "total": 107.241,
+   "season": 8.944,
+   "total": 107.463,
    "projected": 107.463,
-   "live_delta": 0.222,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 1,
@@ -332,10 +282,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 7.071,
-   "total": 91.303,
+   "season": 7.214,
+   "total": 91.446,
    "projected": 91.446,
-   "live_delta": 0.142,
+   "live_delta": 0.0,
    "week_delta": 0.714,
    "played_week": true,
    "rank": 2,
@@ -348,10 +298,10 @@
    "assoc": "ESP",
    "name": "Spanje",
    "clubs": 8,
-   "season": 7.75,
-   "total": 86.368,
+   "season": 7.875,
+   "total": 86.493,
    "projected": 86.493,
-   "live_delta": 0.125,
+   "live_delta": 0.0,
    "week_delta": 0.625,
    "played_week": true,
    "rank": 3,
@@ -380,10 +330,10 @@
    "assoc": "FRA",
    "name": "Frankrijk",
    "clubs": 7,
-   "season": 6.499,
-   "total": 71.581,
+   "season": 6.642,
+   "total": 71.724,
    "projected": 71.724,
-   "live_delta": 0.142,
+   "live_delta": 0.0,
    "week_delta": 0.714,
    "played_week": true,
    "rank": 5,
@@ -412,10 +362,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 7.2,
-   "total": 62.85,
+   "season": 7.8,
+   "total": 63.45,
    "projected": 63.45,
-   "live_delta": 0.6,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 7,
