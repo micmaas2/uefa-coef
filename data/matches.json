@@ -1087,8 +1087,8 @@
   "away": "TSG Hoffenheim",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1101,8 +1101,8 @@
   "away": "Viktoria Plzen",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1115,8 +1115,8 @@
   "away": "AFC Bournemouth",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1199,8 +1199,8 @@
   "away": "Ferencvaros",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -1213,8 +1213,8 @@
   "away": "Omonia Nicosia",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "2'",
   "decided_on_penalties": false
  },
  {
@@ -1227,8 +1227,8 @@
   "away": "Jagiellonia Bialystok",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1241,8 +1241,8 @@
   "away": "Lyon",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "2'",
   "decided_on_penalties": false
  },
  {
@@ -1255,8 +1255,8 @@
   "away": "RB Salzburg",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1283,8 +1283,8 @@
   "away": "Borac Banja Luka",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1297,8 +1297,8 @@
   "away": "Hajduk Split",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1423,8 +1423,8 @@
   "away": "SC Freiburg",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1437,8 +1437,8 @@
   "away": "KAA Gent",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1451,8 +1451,8 @@
   "away": "Inter D'Escaldes",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1465,8 +1465,8 @@
   "away": "Heart of Midlothian",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1493,8 +1493,8 @@
   "away": "Kairat Almaty",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "3'",
   "decided_on_penalties": false
  },
  {
@@ -1507,8 +1507,8 @@
   "away": "Braga",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  }
 ]
