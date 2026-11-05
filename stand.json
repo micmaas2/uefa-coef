@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:33:12+00:00",
+ "generated_at": "2026-11-05T19:35:24+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -99,7 +99,7 @@
     "date": "2026-11-05",
     "competition": "UECL",
     "status": "live",
-    "match": "FC Midtjylland 1-4 Ajax Amsterdam",
+    "match": "FC Midtjylland 1-5 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
     "delta": 0.333
    }
@@ -213,7 +213,7 @@
    "time": "18:45",
    "competition": "UEL",
    "status": "live",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "NEC Nijmegen 3-1 Omonia Nicosia",
    "club": "NEC Nijmegen",
    "delta": 0.333
@@ -223,8 +223,8 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "75'",
-   "match": "FC Midtjylland 1-4 Ajax Amsterdam",
+   "clock": "77'",
+   "match": "FC Midtjylland 1-5 Ajax Amsterdam",
    "club": "Ajax Amsterdam",
    "delta": 0.333
   }
@@ -254,8 +254,8 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "90'",
-   "match": "Crystal Palace 0-1 TSG Hoffenheim",
+   "clock": "90'+3'",
+   "match": "Crystal Palace 1-1 TSG Hoffenheim",
    "assocs": [
     "ENG",
     "GER"
@@ -263,7 +263,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Lillestrom 0-1 Viktoria Plzen",
    "assocs": [
     "CZE"
@@ -271,8 +271,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "88'",
-   "match": "Sparta Prague 1-2 AFC Bournemouth",
+   "clock": "90'",
+   "match": "Sparta Prague 1-3 AFC Bournemouth",
    "assocs": [
     "CZE",
     "ENG"
@@ -280,7 +280,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "AC Milan 0-2 Ferencvaros",
    "assocs": [
     "ITA"
@@ -288,7 +288,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "NEC Nijmegen 3-1 Omonia Nicosia",
    "assocs": [
     "NED"
@@ -296,7 +296,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "87'",
+   "clock": "90'",
    "match": "Levski Sofia 1-0 Jagiellonia Bialystok",
    "assocs": [
     "POL"
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "87'",
+   "clock": "89'",
    "match": "Real Sociedad 1-1 Lyon",
    "assocs": [
     "ESP",
@@ -313,15 +313,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "89'",
-   "match": "Anderlecht 1-0 RB Salzburg",
+   "clock": "90'+1'",
+   "match": "Anderlecht 2-0 RB Salzburg",
    "assocs": [
     "BEL"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Trabzonspor 0-1 SC Freiburg",
    "assocs": [
     "GER",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "87'",
+   "clock": "89'",
    "match": "KuPS Kuopio 0-0 KAA Gent",
    "assocs": [
     "BEL"
@@ -338,15 +338,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "75'",
-   "match": "FC Midtjylland 1-4 Ajax Amsterdam",
+   "clock": "77'",
+   "match": "FC Midtjylland 1-5 Ajax Amsterdam",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "Atalanta 1-1 Kairat Almaty",
    "assocs": [
     "ITA"
@@ -354,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "AGF 0-0 Braga",
    "assocs": [
     "POR"
@@ -368,13 +368,13 @@
    "clubs": 9,
    "season": 8.611,
    "total": 107.13,
-   "projected": 107.352,
-   "live_delta": 0.222,
-   "week_delta": 0.888,
+   "projected": 107.463,
+   "live_delta": 0.333,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
-   "week_start_total": 106.464,
+   "week_start_total": 106.463,
    "rank_week_start": 1,
    "rank_change": 0
   },
@@ -416,13 +416,13 @@
    "clubs": 7,
    "season": 7.856,
    "total": 84.544,
-   "projected": 85.115,
-   "live_delta": 0.571,
-   "week_delta": 1.142,
+   "projected": 84.972,
+   "live_delta": 0.428,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
-   "week_start_total": 83.973,
+   "week_start_total": 83.972,
    "rank_week_start": 4,
    "rank_change": 0
   },
