@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:22:15+00:00",
+ "generated_at": "2026-11-05T21:24:25+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-05",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 56.062,
-  "projected": 56.062,
+  "projected": 56.229,
   "season": 7.333,
   "clubs": 6,
   "week_start_total": 55.396,
-  "live_delta": 0.0,
-  "week_delta": 0.666,
-  "gap_up": 8.188,
+  "live_delta": 0.166,
+  "week_delta": 0.833,
+  "gap_up": 8.021,
   "gap_up_to": "België",
-  "gap_down": 2.787,
+  "gap_down": 2.954,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -107,9 +107,9 @@
     "date": "2026-11-05",
     "competition": "UECL",
     "status": "live",
-    "match": "FC Twente 0-1 Pafos",
+    "match": "FC Twente 1-1 Pafos",
     "club": "FC Twente",
-    "delta": 0.0
+    "delta": 0.166
    },
    {
     "date": "2026-11-05",
@@ -160,9 +160,9 @@
    "clubs": 6,
    "season": 7.333,
    "total": 56.062,
-   "projected": 56.062,
-   "live_delta": 0.0,
-   "week_delta": 0.666,
+   "projected": 56.229,
+   "live_delta": 0.166,
+   "week_delta": 0.833,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -249,7 +249,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "62'",
+   "clock": "64'",
    "match": "AZ Alkmaar 0-2 Juventus",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -259,17 +259,17 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "62'",
-   "match": "FC Twente 0-1 Pafos",
+   "clock": "64'",
+   "match": "FC Twente 1-1 Pafos",
    "club": "FC Twente",
-   "delta": 0.0
+   "delta": 0.166
   }
  ],
  "next_matches": [],
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "64'",
+   "clock": "67'",
    "match": "Celtic 1-1 Besiktas",
    "assocs": [
     "TUR"
@@ -277,7 +277,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "61'",
+   "clock": "63'",
    "match": "Sunderland 0-2 Dinamo Zagreb",
    "assocs": [
     "ENG"
@@ -285,7 +285,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "63'",
+   "clock": "65'",
    "match": "Benfica 1-0 Lech Poznan",
    "assocs": [
     "POL",
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "62'",
+   "clock": "64'",
    "match": "AZ Alkmaar 0-2 Juventus",
    "assocs": [
     "ITA",
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "62'",
+   "clock": "64'",
    "match": "Torreense 1-2 Ararat-Armenia",
    "assocs": [
     "POR"
@@ -311,7 +311,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "63'",
+   "clock": "66'",
    "match": "Celta Vigo 1-2 Union St.-Gilloise",
    "assocs": [
     "BEL",
@@ -320,7 +320,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "62'",
+   "clock": "64'",
    "match": "Hapoel Be'er 0-2 OFI Crete",
    "assocs": [
     "GRE"
@@ -328,7 +328,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "62'",
+   "clock": "64'",
    "match": "Bayer Leverkusen 0-0 Marseille",
    "assocs": [
     "FRA",
@@ -337,7 +337,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "65'",
+   "clock": "67'",
    "match": "Riga FC 1-1 Jablonec",
    "assocs": [
     "CZE"
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "63'",
+   "clock": "65'",
    "match": "Panathinaikos 1-1 CSKA Sofia",
    "assocs": [
     "GRE"
@@ -353,7 +353,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "63'",
+   "clock": "66'",
    "match": "Sint-Truidense 1-0 SK Brann",
    "assocs": [
     "BEL"
@@ -361,8 +361,8 @@
   },
   {
    "competition": "UECL",
-   "clock": "64'",
-   "match": "Getafe 0-0 Brighton & Hove Albion",
+   "clock": "66'",
+   "match": "Getafe 0-1 Brighton & Hove Albion",
    "assocs": [
     "ENG",
     "ESP"
@@ -370,15 +370,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "62'",
-   "match": "FC Twente 0-1 Pafos",
+   "clock": "64'",
+   "match": "FC Twente 1-1 Pafos",
    "assocs": [
     "NED"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "64'",
+   "clock": "66'",
    "match": "AS Monaco 1-0 FC Nordsjælland",
    "assocs": [
     "FRA"
@@ -392,9 +392,9 @@
    "clubs": 9,
    "season": 8.944,
    "total": 107.463,
-   "projected": 107.574,
-   "live_delta": 0.111,
-   "week_delta": 1.111,
+   "projected": 107.685,
+   "live_delta": 0.222,
+   "week_delta": 1.222,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -424,9 +424,9 @@
    "clubs": 8,
    "season": 7.875,
    "total": 86.493,
-   "projected": 86.618,
-   "live_delta": 0.125,
-   "week_delta": 0.75,
+   "projected": 86.493,
+   "live_delta": 0.0,
+   "week_delta": 0.625,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -504,9 +504,9 @@
    "clubs": 6,
    "season": 7.333,
    "total": 56.062,
-   "projected": 56.062,
-   "live_delta": 0.0,
-   "week_delta": 0.666,
+   "projected": 56.229,
+   "live_delta": 0.166,
+   "week_delta": 0.833,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
