@@ -1088,7 +1088,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "32'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1102,7 +1102,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "32'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1116,7 +1116,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1200,7 +1200,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "31'",
+  "clock": "33'",
   "decided_on_penalties": false
  },
  {
@@ -1214,7 +1214,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1228,7 +1228,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1242,7 +1242,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1256,7 +1256,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1284,7 +1284,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1298,7 +1298,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1424,7 +1424,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "32'",
+  "clock": "35'",
   "decided_on_penalties": false
  },
  {
@@ -1438,7 +1438,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1449,10 +1449,10 @@
   "stage": "LP",
   "home": "Red Star Belgrade",
   "away": "Inter D'Escaldes",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1466,7 +1466,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1480,7 +1480,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "19'",
+  "clock": "22'",
   "decided_on_penalties": false
  },
  {
@@ -1494,7 +1494,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "32'",
+  "clock": "34'",
   "decided_on_penalties": false
  },
  {
@@ -1508,7 +1508,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "30'",
+  "clock": "33'",
   "decided_on_penalties": false
  }
 ]
