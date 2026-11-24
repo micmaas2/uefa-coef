@@ -1606,7 +1606,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "90'+4'",
+  "clock": "90'+6'",
   "decided_on_penalties": false
  },
  {
@@ -1631,10 +1631,10 @@
   "stage": "LP",
   "home": "Bodo/Glimt",
   "away": "LASK Linz",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
