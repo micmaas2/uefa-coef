@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-24T19:40:01+00:00",
+ "generated_at": "2026-11-24T20:03:13+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-24",
  "week": "23 nov – 29 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 56.395,
-  "projected": 56.395,
+  "projected": 56.729,
   "season": 7.666,
   "clubs": 6,
-  "week_start_total": 56.395,
-  "live_delta": 0.0,
-  "week_delta": 0.0,
-  "gap_up": 7.655,
+  "week_start_total": 56.396,
+  "live_delta": 0.333,
+  "week_delta": 0.333,
+  "gap_up": 7.321,
   "gap_up_to": "België",
-  "gap_down": 2.92,
+  "gap_down": 3.254,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -118,6 +118,22 @@
     "match": "FC Midtjylland 1-6 Ajax Amsterdam",
     "club": "Ajax Amsterdam",
     "delta": 0.333
+   },
+   {
+    "date": "2026-11-24",
+    "competition": "UCL",
+    "status": "live",
+    "match": "Feyenoord Rotterdam 0-0 FC Porto",
+    "club": "Feyenoord Rotterdam",
+    "delta": 0.166
+   },
+   {
+    "date": "2026-11-24",
+    "competition": "UCL",
+    "status": "live",
+    "match": "Real Madrid 0-0 PSV Eindhoven",
+    "club": "PSV Eindhoven",
+    "delta": 0.166
    }
   ]
  },
@@ -128,10 +144,10 @@
    "clubs": 5,
    "season": 8.9,
    "total": 69.15,
-   "projected": 69.15,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 69.35,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
    "week_start_total": 69.15,
@@ -160,13 +176,13 @@
    "clubs": 6,
    "season": 7.666,
    "total": 56.395,
-   "projected": 56.395,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 56.729,
+   "live_delta": 0.333,
+   "week_delta": 0.333,
+   "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 56.395,
+   "week_start_total": 56.396,
    "rank_week_start": 8,
    "rank_change": 0
   },
@@ -203,30 +219,125 @@
    "rank_change": 0
   }
  ],
- "week_matches": [],
- "next_matches": [
+ "week_matches": [
   {
    "date": "2026-11-24",
    "time": "21:00",
    "competition": "UCL",
-   "status": "pre",
-   "clock": "Scheduled",
+   "status": "live",
+   "clock": "1'",
    "match": "Feyenoord Rotterdam 0-0 FC Porto",
    "club": "Feyenoord Rotterdam",
-   "delta": 0.0
+   "delta": 0.166
   },
   {
    "date": "2026-11-24",
    "time": "21:00",
    "competition": "UCL",
-   "status": "pre",
-   "clock": "Scheduled",
+   "status": "live",
+   "clock": "3'",
    "match": "Real Madrid 0-0 PSV Eindhoven",
    "club": "PSV Eindhoven",
+   "delta": 0.166
+  }
+ ],
+ "next_matches": [
+  {
+   "date": "2026-11-26",
+   "time": "18:45",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Ajax Amsterdam 0-0 FC Thun",
+   "club": "Ajax Amsterdam",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "NEC Nijmegen 0-0 Stade Rennais",
+   "club": "NEC Nijmegen",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "competition": "UEL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "Sparta Prague 0-0 AZ Alkmaar",
+   "club": "AZ Alkmaar",
+   "delta": 0.0
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "pre",
+   "clock": "Scheduled",
+   "match": "SC Freiburg 0-0 FC Twente",
+   "club": "FC Twente",
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Feyenoord Rotterdam 0-0 FC Porto",
+   "assocs": [
+    "NED",
+    "POR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "Arsenal 0-0 Borussia Dortmund",
+   "assocs": [
+    "ENG",
+    "GER"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "3'",
+   "match": "Slovan Bratislava 0-0 Real Betis",
+   "assocs": [
+    "ESP"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "3'",
+   "match": "Real Madrid 0-0 PSV Eindhoven",
+   "assocs": [
+    "ESP",
+    "NED"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "RB Leipzig 0-0 Lens",
+   "assocs": [
+    "FRA",
+    "GER"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Manchester City 0-0 Napoli",
+   "assocs": [
+    "ENG",
+    "ITA"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -234,9 +345,9 @@
    "clubs": 9,
    "season": 9.166,
    "total": 107.685,
-   "projected": 107.685,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 107.907,
+   "live_delta": 0.222,
+   "week_delta": 0.222,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -250,13 +361,13 @@
    "clubs": 7,
    "season": 7.499,
    "total": 91.731,
-   "projected": 91.731,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 91.874,
+   "live_delta": 0.142,
+   "week_delta": 0.142,
+   "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
-   "week_start_total": 91.731,
+   "week_start_total": 91.732,
    "rank_week_start": 2,
    "rank_change": 0
   },
@@ -266,10 +377,10 @@
    "clubs": 8,
    "season": 7.875,
    "total": 86.493,
-   "projected": 86.493,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 86.743,
+   "live_delta": 0.25,
+   "week_delta": 0.25,
+   "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
    "week_start_total": 86.493,
@@ -282,13 +393,13 @@
    "clubs": 7,
    "season": 8.284,
    "total": 84.972,
-   "projected": 84.972,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 85.258,
+   "live_delta": 0.285,
+   "week_delta": 0.285,
+   "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
-   "week_start_total": 84.972,
+   "week_start_total": 84.973,
    "rank_week_start": 4,
    "rank_change": 0
   },
@@ -298,10 +409,10 @@
    "clubs": 7,
    "season": 7.214,
    "total": 72.296,
-   "projected": 72.296,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 72.438,
+   "live_delta": 0.142,
+   "week_delta": 0.142,
+   "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
    "week_start_total": 72.296,
@@ -314,10 +425,10 @@
    "clubs": 5,
    "season": 8.9,
    "total": 69.15,
-   "projected": 69.15,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 69.35,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
    "week_start_total": 69.15,
@@ -346,13 +457,13 @@
    "clubs": 6,
    "season": 7.666,
    "total": 56.395,
-   "projected": 56.395,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 56.729,
+   "live_delta": 0.333,
+   "week_delta": 0.333,
+   "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
-   "week_start_total": 56.395,
+   "week_start_total": 56.396,
    "rank_week_start": 8,
    "rank_change": 0
   },
