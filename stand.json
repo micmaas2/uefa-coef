@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:34:46+00:00",
+ "generated_at": "2026-11-24T21:37:04+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-24",
@@ -225,7 +225,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "74'",
+   "clock": "77'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
@@ -235,7 +235,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "75'",
+   "clock": "77'",
    "match": "Real Madrid 3-1 PSV Eindhoven",
    "club": "PSV Eindhoven",
    "delta": 0.0
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "74'",
+   "clock": "77'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "assocs": [
     "NED",
@@ -295,7 +295,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "Arsenal 1-1 Borussia Dortmund",
    "assocs": [
     "ENG",
@@ -304,7 +304,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "73'",
+   "clock": "76'",
    "match": "Como 1-0 AEK Athens",
    "assocs": [
     "GRE",
@@ -313,7 +313,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Slovan Bratislava 0-2 Real Betis",
    "assocs": [
     "ESP"
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "75'",
+   "clock": "77'",
    "match": "Real Madrid 3-1 PSV Eindhoven",
    "assocs": [
     "ESP",
@@ -330,7 +330,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "RB Leipzig 2-1 Lens",
    "assocs": [
     "FRA",
@@ -339,7 +339,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "77'",
+   "clock": "79'",
    "match": "Manchester City 1-2 Napoli",
    "assocs": [
     "ENG",
