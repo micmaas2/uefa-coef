@@ -1522,7 +1522,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "83'",
+  "clock": "86'",
   "decided_on_penalties": false
  },
  {
@@ -1536,7 +1536,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "88'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -1550,7 +1550,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "82'",
+  "clock": "85'",
   "decided_on_penalties": false
  },
  {
@@ -1564,7 +1564,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -1578,7 +1578,7 @@
   "home_goals": 4,
   "away_goals": 1,
   "status": "live",
-  "clock": "85'",
+  "clock": "87'",
   "decided_on_penalties": false
  },
  {
@@ -1592,7 +1592,7 @@
   "home_goals": 2,
   "away_goals": 1,
   "status": "live",
-  "clock": "87'",
+  "clock": "90'",
   "decided_on_penalties": false
  },
  {
@@ -1617,10 +1617,10 @@
   "stage": "LP",
   "home": "Manchester City",
   "away": "Napoli",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "86'",
+  "clock": "88'",
   "decided_on_penalties": false
  },
  {
