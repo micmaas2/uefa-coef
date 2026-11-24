@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-23T03:19:20+00:00",
+ "generated_at": "2026-11-24T17:46:43+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-11-05",
+ "last_match_date": "2026-11-24",
  "week": "23 nov – 29 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -20,7 +20,7 @@
   "week_delta": 0.0,
   "gap_up": 7.655,
   "gap_up_to": "België",
-  "gap_down": 3.32,
+  "gap_down": 3.12,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -176,10 +176,10 @@
    "clubs": 5,
    "season": 7.9,
    "total": 53.075,
-   "projected": 53.075,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 53.275,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
    "week_start_total": 53.075,
@@ -226,7 +226,17 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Galatasaray 0-0 Aston Villa",
+   "assocs": [
+    "ENG",
+    "TUR"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -234,10 +244,10 @@
    "clubs": 9,
    "season": 9.166,
    "total": 107.685,
-   "projected": 107.685,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 107.796,
+   "live_delta": 0.111,
+   "week_delta": 0.111,
+   "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
    "week_start_total": 107.685,
@@ -362,10 +372,10 @@
    "clubs": 5,
    "season": 7.9,
    "total": 53.075,
-   "projected": 53.075,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 53.275,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
    "week_start_total": 53.075,
