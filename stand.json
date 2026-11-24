@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:53:09+00:00",
+ "generated_at": "2026-11-24T21:55:30+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-24",
@@ -225,7 +225,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
@@ -286,20 +286,11 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+3'",
+   "clock": "90'+5'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "assocs": [
     "NED",
     "POR"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+1'",
-   "match": "Como 1-0 AEK Athens",
-   "assocs": [
-    "GRE",
-    "ITA"
    ]
   }
  ],
@@ -324,10 +315,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 7.642,
-   "total": 91.874,
+   "season": 7.928,
+   "total": 92.16,
    "projected": 92.16,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 0.428,
    "played_week": true,
    "rank": 2,
