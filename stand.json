@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:50:51+00:00",
+ "generated_at": "2026-11-24T21:53:09+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-24",
@@ -130,7 +130,7 @@
    {
     "date": "2026-11-24",
     "competition": "UCL",
-    "status": "live",
+    "status": "final",
     "match": "Real Madrid 5-1 PSV Eindhoven",
     "club": "PSV Eindhoven",
     "delta": 0.0
@@ -225,7 +225,7 @@
    "time": "21:00",
    "competition": "UCL",
    "status": "live",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "club": "Feyenoord Rotterdam",
    "delta": 0.0
@@ -234,8 +234,8 @@
    "date": "2026-11-24",
    "time": "21:00",
    "competition": "UCL",
-   "status": "live",
-   "clock": "90'+2'",
+   "status": "final",
+   "clock": "FT",
    "match": "Real Madrid 5-1 PSV Eindhoven",
    "club": "PSV Eindhoven",
    "delta": 0.0
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Feyenoord Rotterdam 0-1 FC Porto",
    "assocs": [
     "NED",
@@ -295,38 +295,11 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "Arsenal 1-1 Borussia Dortmund",
-   "assocs": [
-    "ENG",
-    "GER"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'",
+   "clock": "90'+1'",
    "match": "Como 1-0 AEK Athens",
    "assocs": [
     "GRE",
     "ITA"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+2'",
-   "match": "Real Madrid 5-1 PSV Eindhoven",
-   "assocs": [
-    "ESP",
-    "NED"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "RB Leipzig 3-1 Lens",
-   "assocs": [
-    "FRA",
-    "GER"
    ]
   }
  ],
@@ -335,10 +308,10 @@
    "assoc": "ENG",
    "name": "Engeland",
    "clubs": 9,
-   "season": 9.277,
-   "total": 107.796,
+   "season": 9.388,
+   "total": 107.907,
    "projected": 107.907,
-   "live_delta": 0.111,
+   "live_delta": 0.0,
    "week_delta": 0.222,
    "played_week": true,
    "rank": 1,
@@ -367,10 +340,10 @@
    "assoc": "ESP",
    "name": "Spanje",
    "clubs": 8,
-   "season": 8.125,
-   "total": 86.743,
+   "season": 8.375,
+   "total": 86.993,
    "projected": 86.993,
-   "live_delta": 0.25,
+   "live_delta": 0.0,
    "week_delta": 0.5,
    "played_week": true,
    "rank": 3,
@@ -383,10 +356,10 @@
    "assoc": "GER",
    "name": "Duitsland",
    "clubs": 7,
-   "season": 8.284,
-   "total": 84.972,
+   "season": 8.713,
+   "total": 85.401,
    "projected": 85.401,
-   "live_delta": 0.428,
+   "live_delta": 0.0,
    "week_delta": 0.428,
    "played_week": true,
    "rank": 4,
