@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-24T19:37:41+00:00",
+ "generated_at": "2026-11-24T19:40:01+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-24",
  "week": "23 nov – 29 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -174,10 +174,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 7.9,
-   "total": 53.075,
+   "season": 8.3,
+   "total": 53.475,
    "projected": 53.475,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 9,
@@ -226,17 +226,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UCL",
-   "clock": "90'+6'",
-   "match": "Galatasaray 1-0 Aston Villa",
-   "assocs": [
-    "ENG",
-    "TUR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -370,10 +360,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 7.9,
-   "total": 53.075,
+   "season": 8.3,
+   "total": 53.475,
    "projected": 53.475,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.4,
    "played_week": true,
    "rank": 9,

@@ -1605,8 +1605,8 @@
   "away": "Aston Villa",
   "home_goals": 1,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+6'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
