@@ -1675,8 +1675,8 @@
   "away": "Villarreal",
   "home_goals": 0,
   "away_goals": 1,
-  "status": "live",
-  "clock": "90'+4'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {

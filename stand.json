@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T19:38:02+00:00",
+ "generated_at": "2026-11-25T19:40:26+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
  "week": "23 nov – 29 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -283,17 +283,7 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "Slavia Prague 0-1 Villarreal",
-   "assocs": [
-    "CZE",
-    "ESP"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -331,10 +321,10 @@
    "assoc": "ESP",
    "name": "Spanje",
    "clubs": 8,
-   "season": 8.625,
-   "total": 87.243,
+   "season": 8.875,
+   "total": 87.493,
    "projected": 87.493,
-   "live_delta": 0.25,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 3,
