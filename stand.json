@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:50:18+00:00",
+ "generated_at": "2026-11-25T21:52:29+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -286,15 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+2'",
-   "match": "Atlético Madrid 2-0 Viking FK",
-   "assocs": [
-    "ESP"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Club Brugge 0-3 Liverpool",
    "assocs": [
     "BEL",
@@ -303,7 +295,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Sporting CP 2-2 Manchester United",
    "assocs": [
     "ENG",
@@ -312,7 +304,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Paris Saint-Germain 2-2 AS Roma",
    "assocs": [
     "FRA",
@@ -321,7 +313,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "Shakhtar Donetsk 0-1 Fenerbahce",
    "assocs": [
     "TUR"
@@ -329,7 +321,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Internazionale 2-0 VfB Stuttgart",
    "assocs": [
     "GER",
@@ -338,7 +330,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Lille 2-1 Bayern Munich",
    "assocs": [
     "FRA",
@@ -383,10 +375,10 @@
    "assoc": "ESP",
    "name": "Spanje",
    "clubs": 8,
-   "season": 8.875,
-   "total": 87.493,
+   "season": 9.125,
+   "total": 87.743,
    "projected": 87.743,
-   "live_delta": 0.25,
+   "live_delta": 0.0,
    "week_delta": 1.25,
    "played_week": true,
    "rank": 3,
