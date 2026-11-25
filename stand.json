@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T13:24:02+00:00",
+ "generated_at": "2026-11-25T17:47:10+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
- "last_match_date": "2026-11-24",
+ "last_match_date": "2026-11-25",
  "week": "23 nov – 29 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -283,7 +283,25 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Slavia Prague 0-0 Villarreal",
+   "assocs": [
+    "CZE",
+    "ESP"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "Sabah FK 0-0 Barcelona",
+   "assocs": [
+    "ESP"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -323,9 +341,9 @@
    "clubs": 8,
    "season": 8.375,
    "total": 86.993,
-   "projected": 86.993,
-   "live_delta": 0.0,
-   "week_delta": 0.5,
+   "projected": 87.243,
+   "live_delta": 0.25,
+   "week_delta": 0.75,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -451,10 +469,10 @@
    "clubs": 5,
    "season": 4.5,
    "total": 46.325,
-   "projected": 46.325,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 46.525,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
    "week_start_total": 46.325,
