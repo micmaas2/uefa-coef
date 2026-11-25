@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:37:09+00:00",
+ "generated_at": "2026-11-25T21:39:20+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "79'",
+   "clock": "81'",
    "match": "Atlético Madrid 2-0 Viking FK",
    "assocs": [
     "ESP"
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "76'",
+   "clock": "78'",
    "match": "Club Brugge 0-1 Liverpool",
    "assocs": [
     "BEL",
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Sporting CP 1-2 Manchester United",
    "assocs": [
     "ENG",
@@ -312,7 +312,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Paris Saint-Germain 2-2 AS Roma",
    "assocs": [
     "FRA",
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "77'",
+   "clock": "79'",
    "match": "Shakhtar Donetsk 0-1 Fenerbahce",
    "assocs": [
     "TUR"
@@ -329,7 +329,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Internazionale 2-0 VfB Stuttgart",
    "assocs": [
     "GER",
@@ -338,7 +338,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "80'",
+   "clock": "82'",
    "match": "Lille 2-1 Bayern Munich",
    "assocs": [
     "FRA",
