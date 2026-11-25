@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:01:47+00:00",
+ "generated_at": "2026-11-25T20:04:12+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -18,9 +18,9 @@
   "week_start_total": 56.395,
   "live_delta": 0.0,
   "week_delta": 0.0,
-  "gap_up": 7.655,
+  "gap_up": 7.855,
   "gap_up_to": "België",
-  "gap_down": 2.92,
+  "gap_down": 2.72,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -160,10 +160,10 @@
    "clubs": 5,
    "season": 8.4,
    "total": 64.05,
-   "projected": 64.05,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 64.25,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 64.05,
@@ -192,9 +192,9 @@
    "clubs": 5,
    "season": 8.3,
    "total": 53.475,
-   "projected": 53.475,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 53.675,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -286,7 +286,24 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "1'",
+   "clock": "3'",
+   "match": "Atlético Madrid 0-0 Viking FK",
+   "assocs": [
+    "ESP"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "Club Brugge 0-0 Liverpool",
+   "assocs": [
+    "BEL",
+    "ENG"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "4'",
    "match": "Sporting CP 0-0 Manchester United",
    "assocs": [
     "ENG",
@@ -295,7 +312,24 @@
   },
   {
    "competition": "UCL",
-   "clock": "1'",
+   "clock": "3'",
+   "match": "Paris Saint-Germain 0-0 AS Roma",
+   "assocs": [
+    "FRA",
+    "ITA"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "2'",
+   "match": "Shakhtar Donetsk 0-0 Fenerbahce",
+   "assocs": [
+    "TUR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "4'",
    "match": "Internazionale 0-0 VfB Stuttgart",
    "assocs": [
     "GER",
@@ -304,7 +338,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Lille 0-0 Bayern Munich",
    "assocs": [
     "FRA",
@@ -319,13 +353,13 @@
    "clubs": 9,
    "season": 9.388,
    "total": 107.907,
-   "projected": 108.018,
-   "live_delta": 0.111,
-   "week_delta": 0.333,
+   "projected": 108.13,
+   "live_delta": 0.222,
+   "week_delta": 0.444,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
-   "week_start_total": 107.685,
+   "week_start_total": 107.686,
    "rank_week_start": 1,
    "rank_change": 0
   },
@@ -335,9 +369,9 @@
    "clubs": 7,
    "season": 7.928,
    "total": 92.16,
-   "projected": 92.303,
-   "live_delta": 0.142,
-   "week_delta": 0.571,
+   "projected": 92.446,
+   "live_delta": 0.285,
+   "week_delta": 0.714,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -351,9 +385,9 @@
    "clubs": 8,
    "season": 8.875,
    "total": 87.493,
-   "projected": 87.493,
-   "live_delta": 0.0,
-   "week_delta": 1.0,
+   "projected": 87.618,
+   "live_delta": 0.125,
+   "week_delta": 1.125,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -383,9 +417,9 @@
    "clubs": 7,
    "season": 7.214,
    "total": 72.296,
-   "projected": 72.438,
-   "live_delta": 0.142,
-   "week_delta": 0.142,
+   "projected": 72.581,
+   "live_delta": 0.285,
+   "week_delta": 0.285,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
@@ -415,10 +449,10 @@
    "clubs": 5,
    "season": 8.4,
    "total": 64.05,
-   "projected": 64.05,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
-   "played_week": false,
+   "projected": 64.25,
+   "live_delta": 0.2,
+   "week_delta": 0.2,
+   "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
    "week_start_total": 64.05,
@@ -447,9 +481,9 @@
    "clubs": 5,
    "season": 8.3,
    "total": 53.475,
-   "projected": 53.475,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 53.675,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
