@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T21:54:41+00:00",
+ "generated_at": "2026-11-25T21:56:53+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
  "week": "23 nov – 29 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -142,10 +142,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 9.3,
-   "total": 69.55,
+   "season": 9.5,
+   "total": 69.75,
    "projected": 69.75,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
@@ -190,10 +190,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 8.3,
-   "total": 53.475,
+   "season": 8.7,
+   "total": 53.875,
    "projected": 53.875,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
@@ -283,43 +283,16 @@
    "delta": 0.0
   }
  ],
- "live_matches": [
-  {
-   "competition": "UCL",
-   "clock": "90'+3'",
-   "match": "Club Brugge 0-3 Liverpool",
-   "assocs": [
-    "BEL",
-    "ENG"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+6'",
-   "match": "Sporting CP 2-2 Manchester United",
-   "assocs": [
-    "ENG",
-    "POR"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "Shakhtar Donetsk 0-1 Fenerbahce",
-   "assocs": [
-    "TUR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
    "name": "Engeland",
    "clubs": 9,
-   "season": 9.388,
-   "total": 107.907,
+   "season": 9.722,
+   "total": 108.241,
    "projected": 108.241,
-   "live_delta": 0.333,
+   "live_delta": 0.0,
    "week_delta": 0.555,
    "played_week": true,
    "rank": 1,
@@ -396,10 +369,10 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 9.3,
-   "total": 69.55,
+   "season": 9.5,
+   "total": 69.75,
    "projected": 69.75,
-   "live_delta": 0.2,
+   "live_delta": 0.0,
    "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
@@ -444,10 +417,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 8.3,
-   "total": 53.475,
+   "season": 8.7,
+   "total": 53.875,
    "projected": 53.875,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
