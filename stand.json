@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T19:40:26+00:00",
+ "generated_at": "2026-11-25T20:01:47+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
  "week": "23 nov – 29 nov",
- "live": false,
+ "live": true,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -144,9 +144,9 @@
    "clubs": 5,
    "season": 9.3,
    "total": 69.55,
-   "projected": 69.55,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 69.75,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -283,7 +283,35 @@
    "delta": 0.0
   }
  ],
- "live_matches": [],
+ "live_matches": [
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Sporting CP 0-0 Manchester United",
+   "assocs": [
+    "ENG",
+    "POR"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Internazionale 0-0 VfB Stuttgart",
+   "assocs": [
+    "GER",
+    "ITA"
+   ]
+  },
+  {
+   "competition": "UCL",
+   "clock": "1'",
+   "match": "Lille 0-0 Bayern Munich",
+   "assocs": [
+    "FRA",
+    "GER"
+   ]
+  }
+ ],
  "ranking": [
   {
    "assoc": "ENG",
@@ -291,9 +319,9 @@
    "clubs": 9,
    "season": 9.388,
    "total": 107.907,
-   "projected": 107.907,
-   "live_delta": 0.0,
-   "week_delta": 0.222,
+   "projected": 108.018,
+   "live_delta": 0.111,
+   "week_delta": 0.333,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -307,9 +335,9 @@
    "clubs": 7,
    "season": 7.928,
    "total": 92.16,
-   "projected": 92.16,
-   "live_delta": 0.0,
-   "week_delta": 0.428,
+   "projected": 92.303,
+   "live_delta": 0.142,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -339,9 +367,9 @@
    "clubs": 7,
    "season": 8.713,
    "total": 85.401,
-   "projected": 85.401,
-   "live_delta": 0.0,
-   "week_delta": 0.428,
+   "projected": 85.687,
+   "live_delta": 0.285,
+   "week_delta": 0.714,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
@@ -355,9 +383,9 @@
    "clubs": 7,
    "season": 7.214,
    "total": 72.296,
-   "projected": 72.296,
-   "live_delta": 0.0,
-   "week_delta": 0.0,
+   "projected": 72.438,
+   "live_delta": 0.142,
+   "week_delta": 0.142,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
@@ -371,9 +399,9 @@
    "clubs": 5,
    "season": 9.3,
    "total": 69.55,
-   "projected": 69.55,
-   "live_delta": 0.0,
-   "week_delta": 0.4,
+   "projected": 69.75,
+   "live_delta": 0.2,
+   "week_delta": 0.6,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
