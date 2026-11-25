@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:09:34+00:00",
+ "generated_at": "2026-11-25T21:10:58+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -144,9 +144,9 @@
    "clubs": 5,
    "season": 9.3,
    "total": 69.55,
-   "projected": 69.75,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 69.55,
+   "live_delta": 0.0,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "51'",
+   "clock": "52'",
    "match": "Atlético Madrid 2-0 Viking FK",
    "assocs": [
     "ESP"
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "48'",
+   "clock": "50'",
    "match": "Club Brugge 0-1 Liverpool",
    "assocs": [
     "BEL",
@@ -304,7 +304,7 @@
   {
    "competition": "UCL",
    "clock": "51'",
-   "match": "Sporting CP 1-1 Manchester United",
+   "match": "Sporting CP 1-2 Manchester United",
    "assocs": [
     "ENG",
     "POR"
@@ -312,7 +312,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "50'",
+   "clock": "52'",
    "match": "Paris Saint-Germain 1-1 AS Roma",
    "assocs": [
     "FRA",
@@ -321,7 +321,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "49'",
+   "clock": "51'",
    "match": "Shakhtar Donetsk 0-0 Fenerbahce",
    "assocs": [
     "TUR"
@@ -329,7 +329,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "50'",
+   "clock": "52'",
    "match": "Internazionale 0-0 VfB Stuttgart",
    "assocs": [
     "GER",
@@ -338,7 +338,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "52'",
+   "clock": "54'",
    "match": "Lille 0-1 Bayern Munich",
    "assocs": [
     "FRA",
@@ -353,9 +353,9 @@
    "clubs": 9,
    "season": 9.388,
    "total": 107.907,
-   "projected": 108.241,
-   "live_delta": 0.333,
-   "week_delta": 0.555,
+   "projected": 108.352,
+   "live_delta": 0.444,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -433,9 +433,9 @@
    "clubs": 5,
    "season": 9.3,
    "total": 69.55,
-   "projected": 69.75,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 69.55,
+   "live_delta": 0.0,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
