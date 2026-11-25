@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:56:44+00:00",
+ "generated_at": "2026-11-25T17:59:08+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "11'",
+   "clock": "13'",
    "match": "Slavia Prague 0-0 Villarreal",
    "assocs": [
     "CZE",
@@ -295,7 +295,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "11'",
+   "clock": "14'",
    "match": "Sabah FK 0-0 Barcelona",
    "assocs": [
     "ESP"
