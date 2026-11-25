@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:18:35+00:00",
+ "generated_at": "2026-11-25T20:21:00+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -20,7 +20,7 @@
   "week_delta": 0.0,
   "gap_up": 7.655,
   "gap_up_to": "België",
-  "gap_down": 2.72,
+  "gap_down": 2.52,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -192,9 +192,9 @@
    "clubs": 5,
    "season": 8.3,
    "total": 53.475,
-   "projected": 53.675,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 53.875,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "17'",
+   "clock": "19'",
    "match": "Atlético Madrid 0-0 Viking FK",
    "assocs": [
     "ESP"
@@ -294,7 +294,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "16'",
+   "clock": "18'",
    "match": "Club Brugge 0-1 Liverpool",
    "assocs": [
     "BEL",
@@ -303,7 +303,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "19'",
+   "clock": "21'",
    "match": "Sporting CP 0-0 Manchester United",
    "assocs": [
     "ENG",
@@ -312,7 +312,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "17'",
+   "clock": "19'",
    "match": "Paris Saint-Germain 0-1 AS Roma",
    "assocs": [
     "FRA",
@@ -321,15 +321,15 @@
   },
   {
    "competition": "UCL",
-   "clock": "16'",
-   "match": "Shakhtar Donetsk 0-0 Fenerbahce",
+   "clock": "19'",
+   "match": "Shakhtar Donetsk 0-1 Fenerbahce",
    "assocs": [
     "TUR"
    ]
   },
   {
    "competition": "UCL",
-   "clock": "18'",
+   "clock": "21'",
    "match": "Internazionale 0-0 VfB Stuttgart",
    "assocs": [
     "GER",
@@ -338,7 +338,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "18'",
+   "clock": "20'",
    "match": "Lille 0-1 Bayern Munich",
    "assocs": [
     "FRA",
@@ -481,9 +481,9 @@
    "clubs": 5,
    "season": 8.3,
    "total": 53.475,
-   "projected": 53.675,
-   "live_delta": 0.2,
-   "week_delta": 0.6,
+   "projected": 53.875,
+   "live_delta": 0.4,
+   "week_delta": 0.8,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
