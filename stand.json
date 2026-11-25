@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:04:27+00:00",
+ "generated_at": "2026-11-25T19:06:51+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -286,8 +286,8 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "60'",
-   "match": "Slavia Prague 0-0 Villarreal",
+   "clock": "63'",
+   "match": "Slavia Prague 0-1 Villarreal",
    "assocs": [
     "CZE",
     "ESP"
@@ -295,8 +295,8 @@
   },
   {
    "competition": "UCL",
-   "clock": "62'",
-   "match": "Sabah FK 0-4 Barcelona",
+   "clock": "64'",
+   "match": "Sabah FK 1-4 Barcelona",
    "assocs": [
     "ESP"
    ]
@@ -341,9 +341,9 @@
    "clubs": 8,
    "season": 8.375,
    "total": 86.993,
-   "projected": 87.368,
-   "live_delta": 0.375,
-   "week_delta": 0.875,
+   "projected": 87.493,
+   "live_delta": 0.5,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -469,9 +469,9 @@
    "clubs": 5,
    "season": 4.5,
    "total": 46.325,
-   "projected": 46.525,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 46.325,
+   "live_delta": 0.0,
+   "week_delta": 0.0,
    "played_week": true,
    "rank": 11,
    "rank_confirmed": 11,
