@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:52:29+00:00",
+ "generated_at": "2026-11-25T21:54:41+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-25",
@@ -286,7 +286,7 @@
  "live_matches": [
   {
    "competition": "UCL",
-   "clock": "90'+1'",
+   "clock": "90'+3'",
    "match": "Club Brugge 0-3 Liverpool",
    "assocs": [
     "BEL",
@@ -295,7 +295,7 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+3'",
+   "clock": "90'+6'",
    "match": "Sporting CP 2-2 Manchester United",
    "assocs": [
     "ENG",
@@ -304,37 +304,10 @@
   },
   {
    "competition": "UCL",
-   "clock": "90'+3'",
-   "match": "Paris Saint-Germain 2-2 AS Roma",
-   "assocs": [
-    "FRA",
-    "ITA"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+2'",
+   "clock": "90'+4'",
    "match": "Shakhtar Donetsk 0-1 Fenerbahce",
    "assocs": [
     "TUR"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+3'",
-   "match": "Internazionale 2-0 VfB Stuttgart",
-   "assocs": [
-    "GER",
-    "ITA"
-   ]
-  },
-  {
-   "competition": "UCL",
-   "clock": "90'+4'",
-   "match": "Lille 2-1 Bayern Munich",
-   "assocs": [
-    "FRA",
-    "GER"
    ]
   }
  ],
@@ -359,10 +332,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 7.928,
-   "total": 92.16,
+   "season": 8.356,
+   "total": 92.588,
    "projected": 92.588,
-   "live_delta": 0.428,
+   "live_delta": 0.0,
    "week_delta": 0.857,
    "played_week": true,
    "rank": 2,
@@ -407,10 +380,10 @@
    "assoc": "FRA",
    "name": "Frankrijk",
    "clubs": 7,
-   "season": 7.214,
-   "total": 72.296,
+   "season": 7.642,
+   "total": 72.724,
    "projected": 72.724,
-   "live_delta": 0.428,
+   "live_delta": 0.0,
    "week_delta": 0.428,
    "played_week": true,
    "rank": 5,
