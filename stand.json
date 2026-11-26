@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26T21:57:31+00:00",
+ "generated_at": "2026-11-26T21:59:42+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
  "week": "23 nov – 29 nov",
- "live": true,
+ "live": false,
  "focus": {
   "assoc": "NED",
   "rank": 8,
@@ -222,10 +222,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 9.1,
-   "total": 54.275,
+   "season": 9.5,
+   "total": 54.675,
    "projected": 54.675,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 9,
@@ -314,16 +314,7 @@
   }
  ],
  "next_matches": [],
- "live_matches": [
-  {
-   "competition": "UECL",
-   "clock": "90'+5'",
-   "match": "CSKA Sofia 1-2 Trabzonspor",
-   "assocs": [
-    "TUR"
-   ]
-  }
- ],
+ "live_matches": [],
  "ranking": [
   {
    "assoc": "ENG",
@@ -457,10 +448,10 @@
    "assoc": "TUR",
    "name": "Turkije",
    "clubs": 5,
-   "season": 9.1,
-   "total": 54.275,
+   "season": 9.5,
+   "total": 54.675,
    "projected": 54.675,
-   "live_delta": 0.4,
+   "live_delta": 0.0,
    "week_delta": 1.6,
    "played_week": true,
    "rank": 9,

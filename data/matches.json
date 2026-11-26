@@ -2081,8 +2081,8 @@
   "away": "Trabzonspor",
   "home_goals": 1,
   "away_goals": 2,
-  "status": "live",
-  "clock": "90'+5'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
