@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:00:05+00:00",
+ "generated_at": "2026-11-26T18:02:17+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -18,7 +18,7 @@
   "week_start_total": 56.396,
   "live_delta": 0.333,
   "week_delta": 0.333,
-  "gap_up": 7.521,
+  "gap_up": 7.321,
   "gap_up_to": "België",
   "gap_down": 2.654,
   "gap_down_to": "Turkije",
@@ -168,9 +168,9 @@
    "clubs": 5,
    "season": 8.4,
    "total": 64.05,
-   "projected": 64.25,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 64.05,
+   "live_delta": 0.0,
+   "week_delta": 0.0,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -253,7 +253,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "14'",
+   "clock": "16'",
    "match": "Ajax Amsterdam 1-0 FC Thun",
    "club": "Ajax Amsterdam",
    "delta": 0.333
@@ -294,7 +294,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "14'",
+   "clock": "16'",
    "match": "Besiktas 0-0 Hapoel Be'er",
    "assocs": [
     "TUR"
@@ -302,7 +302,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "14'",
+   "clock": "17'",
    "match": "Marseille 0-0 Levski Sofia",
    "assocs": [
     "FRA"
@@ -310,8 +310,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "14'",
-   "match": "Union St.-Gilloise 0-0 Lech Poznan",
+   "clock": "16'",
+   "match": "Union St.-Gilloise 0-1 Lech Poznan",
    "assocs": [
     "BEL",
     "POL"
@@ -319,7 +319,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "14'",
+   "clock": "16'",
    "match": "Dinamo Zagreb 0-1 Bayer Leverkusen",
    "assocs": [
     "GER"
@@ -327,7 +327,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "14'",
+   "clock": "17'",
    "match": "Viktoria Plzen 0-0 Benfica",
    "assocs": [
     "CZE",
@@ -336,7 +336,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "15'",
+   "clock": "17'",
    "match": "Celta Vigo 0-0 AFC Bournemouth",
    "assocs": [
     "ENG",
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "14'",
+   "clock": "17'",
    "match": "Olympiacos 0-0 AC Milan",
    "assocs": [
     "GRE",
@@ -354,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "11'",
+   "clock": "13'",
    "match": "Heart of Midlothian 0-0 AS Monaco",
    "assocs": [
     "FRA"
@@ -362,7 +362,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "14'",
+   "clock": "16'",
    "match": "Jablonec 0-0 FC Lugano",
    "assocs": [
     "CZE"
@@ -370,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "13'",
+   "clock": "15'",
    "match": "Iberia 1999 0-0 Getafe",
    "assocs": [
     "ESP"
@@ -378,7 +378,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "15'",
+   "clock": "17'",
    "match": "Brighton & Hove Albion 1-0 CSU Craiova",
    "assocs": [
     "ENG"
@@ -386,7 +386,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "14'",
+   "clock": "16'",
    "match": "Ajax Amsterdam 1-0 FC Thun",
    "assocs": [
     "NED"
@@ -496,9 +496,9 @@
    "clubs": 5,
    "season": 8.4,
    "total": 64.05,
-   "projected": 64.25,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 64.05,
+   "live_delta": 0.0,
+   "week_delta": 0.0,
    "played_week": true,
    "rank": 7,
    "rank_confirmed": 7,
@@ -576,9 +576,9 @@
    "clubs": 5,
    "season": 3.6,
    "total": 45.725,
-   "projected": 45.925,
-   "live_delta": 0.2,
-   "week_delta": 0.2,
+   "projected": 46.125,
+   "live_delta": 0.4,
+   "week_delta": 0.4,
    "played_week": true,
    "rank": 12,
    "rank_confirmed": 12,

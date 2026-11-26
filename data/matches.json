@@ -1844,7 +1844,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -1858,7 +1858,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -1870,9 +1870,9 @@
   "home": "Union St.-Gilloise",
   "away": "Lech Poznan",
   "home_goals": 0,
-  "away_goals": 0,
+  "away_goals": 1,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -1956,7 +1956,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -1970,7 +1970,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -1984,7 +1984,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "15'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -1998,7 +1998,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -2012,7 +2012,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -2040,7 +2040,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -2152,7 +2152,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -2166,7 +2166,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "15'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -2180,7 +2180,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -2194,7 +2194,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "11'",
+  "clock": "13'",
   "decided_on_penalties": false
  },
  {
@@ -2208,7 +2208,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
@@ -2222,7 +2222,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "13'",
+  "clock": "15'",
   "decided_on_penalties": false
  },
  {
@@ -2236,7 +2236,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "15'",
+  "clock": "17'",
   "decided_on_penalties": false
  },
  {
@@ -2250,7 +2250,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  },
  {
