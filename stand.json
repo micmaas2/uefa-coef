@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:44:06+00:00",
+ "generated_at": "2026-11-26T18:46:18+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -20,7 +20,7 @@
   "week_delta": 0.333,
   "gap_up": 7.321,
   "gap_up_to": "België",
-  "gap_down": 2.854,
+  "gap_down": 2.654,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -200,9 +200,9 @@
    "clubs": 5,
    "season": 8.7,
    "total": 53.875,
-   "projected": 53.875,
-   "live_delta": 0.0,
-   "week_delta": 0.8,
+   "projected": 54.075,
+   "live_delta": 0.2,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -292,6 +292,14 @@
   }
  ],
  "live_matches": [
+  {
+   "competition": "UEL",
+   "clock": "27'",
+   "match": "Besiktas 0-0 Hapoel Be'er",
+   "assocs": [
+    "TUR"
+   ]
+  },
   {
    "competition": "UEL",
    "clock": "HT",
@@ -520,9 +528,9 @@
    "clubs": 5,
    "season": 8.7,
    "total": 53.875,
-   "projected": 53.875,
-   "live_delta": 0.0,
-   "week_delta": 0.8,
+   "projected": 54.075,
+   "live_delta": 0.2,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
