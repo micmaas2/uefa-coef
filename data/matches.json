@@ -2261,10 +2261,10 @@
   "stage": "LP",
   "home": "Kairat Almaty",
   "away": "Mjällby AIF",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "14'",
+  "clock": "16'",
   "decided_on_penalties": false
  }
 ]
