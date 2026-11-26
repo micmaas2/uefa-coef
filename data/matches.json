@@ -1858,7 +1858,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "71'",
+  "clock": "73'",
   "decided_on_penalties": false
  },
  {
@@ -1872,7 +1872,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "70'",
+  "clock": "72'",
   "decided_on_penalties": false
  },
  {
@@ -1956,7 +1956,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "71'",
+  "clock": "73'",
   "decided_on_penalties": false
  },
  {
@@ -1970,7 +1970,7 @@
   "home_goals": 4,
   "away_goals": 0,
   "status": "live",
-  "clock": "71'",
+  "clock": "74'",
   "decided_on_penalties": false
  },
  {
@@ -1984,7 +1984,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "70'",
+  "clock": "73'",
   "decided_on_penalties": false
  },
  {
@@ -1998,7 +1998,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "72'",
+  "clock": "75'",
   "decided_on_penalties": false
  },
  {
@@ -2010,9 +2010,9 @@
   "home": "Olympiacos",
   "away": "AC Milan",
   "home_goals": 2,
-  "away_goals": 2,
+  "away_goals": 3,
   "status": "live",
-  "clock": "71'",
+  "clock": "74'",
   "decided_on_penalties": false
  },
  {
@@ -2037,10 +2037,10 @@
   "stage": "LP",
   "home": "Kauno Zalgiris",
   "away": "Riga FC",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "60'",
+  "clock": "62'",
   "decided_on_penalties": false
  },
  {
@@ -2152,7 +2152,7 @@
   "home_goals": 1,
   "away_goals": 4,
   "status": "live",
-  "clock": "72'",
+  "clock": "74'",
   "decided_on_penalties": false
  },
  {
@@ -2166,7 +2166,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "73'",
+  "clock": "75'",
   "decided_on_penalties": false
  },
  {
@@ -2180,7 +2180,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "72'",
+  "clock": "74'",
   "decided_on_penalties": false
  },
  {
@@ -2194,7 +2194,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "66'",
+  "clock": "68'",
   "decided_on_penalties": false
  },
  {
@@ -2205,10 +2205,10 @@
   "stage": "LP",
   "home": "Jablonec",
   "away": "FC Lugano",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "70'",
+  "clock": "72'",
   "decided_on_penalties": false
  },
  {
@@ -2222,7 +2222,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "71'",
+  "clock": "73'",
   "decided_on_penalties": false
  },
  {
@@ -2236,7 +2236,7 @@
   "home_goals": 4,
   "away_goals": 0,
   "status": "live",
-  "clock": "69'",
+  "clock": "71'",
   "decided_on_penalties": false
  },
  {
@@ -2247,10 +2247,10 @@
   "stage": "LP",
   "home": "Ajax Amsterdam",
   "away": "FC Thun",
-  "home_goals": 2,
+  "home_goals": 3,
   "away_goals": 0,
   "status": "live",
-  "clock": "70'",
+  "clock": "72'",
   "decided_on_penalties": false
  },
  {
