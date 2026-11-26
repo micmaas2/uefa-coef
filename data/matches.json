@@ -1844,7 +1844,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "63'",
+  "clock": "65'",
   "decided_on_penalties": false
  },
  {
@@ -2040,7 +2040,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "87'",
+  "clock": "89'",
   "decided_on_penalties": false
  },
  {
@@ -2192,9 +2192,9 @@
   "home": "Heart of Midlothian",
   "away": "AS Monaco",
   "home_goals": 2,
-  "away_goals": 2,
+  "away_goals": 3,
   "status": "live",
-  "clock": "90'+3'",
+  "clock": "90'+5'",
   "decided_on_penalties": false
  },
  {
