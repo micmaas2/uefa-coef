@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:43:32+00:00",
+ "generated_at": "2026-11-26T19:45:42+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -294,18 +294,10 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "65'",
+   "clock": "67'",
    "match": "Besiktas 0-0 Hapoel Be'er",
    "assocs": [
     "TUR"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+5'",
-   "match": "Heart of Midlothian 2-3 AS Monaco",
-   "assocs": [
-    "FRA"
    ]
   }
  ],
@@ -378,10 +370,10 @@
    "assoc": "FRA",
    "name": "Frankrijk",
    "clubs": 7,
-   "season": 7.928,
-   "total": 73.01,
+   "season": 8.214,
+   "total": 73.296,
    "projected": 73.296,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 1.0,
    "played_week": true,
    "rank": 5,

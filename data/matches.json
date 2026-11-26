@@ -1844,7 +1844,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "65'",
+  "clock": "67'",
   "decided_on_penalties": false
  },
  {
@@ -2040,7 +2040,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "89'",
+  "clock": "90'+1'",
   "decided_on_penalties": false
  },
  {
@@ -2193,8 +2193,8 @@
   "away": "AS Monaco",
   "home_goals": 2,
   "away_goals": 3,
-  "status": "live",
-  "clock": "90'+5'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
