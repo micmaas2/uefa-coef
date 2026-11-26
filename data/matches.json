@@ -1773,8 +1773,8 @@
   "away": "Lillestrom",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -1815,8 +1815,8 @@
   "away": "Real Sociedad",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -1829,8 +1829,8 @@
   "away": "Stade Rennais",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -1841,10 +1841,10 @@
   "stage": "LP",
   "home": "Besiktas",
   "away": "Hapoel Be'er",
-  "home_goals": 2,
+  "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "80'",
+  "clock": "82'",
   "decided_on_penalties": false
  },
  {
@@ -2053,8 +2053,8 @@
   "away": "FC Twente",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -2081,8 +2081,8 @@
   "away": "Trabzonspor",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {
@@ -2123,8 +2123,8 @@
   "away": "Atalanta",
   "home_goals": 0,
   "away_goals": 0,
-  "status": "pre",
-  "clock": "Scheduled",
+  "status": "live",
+  "clock": "1'",
   "decided_on_penalties": false
  },
  {

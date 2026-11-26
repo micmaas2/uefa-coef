@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:58:56+00:00",
+ "generated_at": "2026-11-26T20:01:08+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -12,15 +12,15 @@
   "rank_week_start": 8,
   "rank_change": 0,
   "total": 56.729,
-  "projected": 56.729,
+  "projected": 57.062,
   "season": 8.0,
   "clubs": 6,
   "week_start_total": 56.396,
-  "live_delta": 0.0,
-  "week_delta": 0.333,
-  "gap_up": 7.521,
+  "live_delta": 0.333,
+  "week_delta": 0.666,
+  "gap_up": 7.188,
   "gap_up_to": "België",
-  "gap_down": 2.454,
+  "gap_down": 2.587,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -137,6 +137,22 @@
    },
    {
     "date": "2026-11-26",
+    "competition": "UEL",
+    "status": "live",
+    "match": "NEC Nijmegen 0-0 Stade Rennais",
+    "club": "NEC Nijmegen",
+    "delta": 0.166
+   },
+   {
+    "date": "2026-11-26",
+    "competition": "UECL",
+    "status": "live",
+    "match": "SC Freiburg 0-0 FC Twente",
+    "club": "FC Twente",
+    "delta": 0.166
+   },
+   {
+    "date": "2026-11-26",
     "competition": "UECL",
     "status": "final",
     "match": "Ajax Amsterdam 4-0 FC Thun",
@@ -184,9 +200,9 @@
    "clubs": 6,
    "season": 8.0,
    "total": 56.729,
-   "projected": 56.729,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 57.062,
+   "live_delta": 0.333,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -200,9 +216,9 @@
    "clubs": 5,
    "season": 8.7,
    "total": 53.875,
-   "projected": 54.275,
-   "live_delta": 0.4,
-   "week_delta": 1.2,
+   "projected": 54.475,
+   "live_delta": 0.6,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -257,6 +273,26 @@
    "match": "Ajax Amsterdam 4-0 FC Thun",
    "club": "Ajax Amsterdam",
    "delta": 0.333
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "competition": "UEL",
+   "status": "live",
+   "clock": "1'",
+   "match": "NEC Nijmegen 0-0 Stade Rennais",
+   "club": "NEC Nijmegen",
+   "delta": 0.166
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "competition": "UECL",
+   "status": "live",
+   "clock": "1'",
+   "match": "SC Freiburg 0-0 FC Twente",
+   "club": "FC Twente",
+   "delta": 0.166
   }
  ],
  "next_matches": [
@@ -266,38 +302,69 @@
    "competition": "UEL",
    "status": "pre",
    "clock": "Scheduled",
-   "match": "NEC Nijmegen 0-0 Stade Rennais",
-   "club": "NEC Nijmegen",
-   "delta": 0.0
-  },
-  {
-   "date": "2026-11-26",
-   "time": "21:00",
-   "competition": "UEL",
-   "status": "pre",
-   "clock": "Scheduled",
    "match": "Sparta Prague 0-0 AZ Alkmaar",
    "club": "AZ Alkmaar",
-   "delta": 0.0
-  },
-  {
-   "date": "2026-11-26",
-   "time": "21:00",
-   "competition": "UECL",
-   "status": "pre",
-   "clock": "Scheduled",
-   "match": "SC Freiburg 0-0 FC Twente",
-   "club": "FC Twente",
    "delta": 0.0
   }
  ],
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "80'",
-   "match": "Besiktas 2-0 Hapoel Be'er",
+   "clock": "1'",
+   "match": "Lyon 0-0 Lillestrom",
+   "assocs": [
+    "FRA"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "1'",
+   "match": "Crystal Palace 0-0 Real Sociedad",
+   "assocs": [
+    "ENG",
+    "ESP"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "1'",
+   "match": "NEC Nijmegen 0-0 Stade Rennais",
+   "assocs": [
+    "FRA",
+    "NED"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "82'",
+   "match": "Besiktas 1-0 Hapoel Be'er",
    "assocs": [
     "TUR"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "SC Freiburg 0-0 FC Twente",
+   "assocs": [
+    "GER",
+    "NED"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "CSKA Sofia 0-0 Trabzonspor",
+   "assocs": [
+    "TUR"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "1'",
+   "match": "Borac Banja Luka 0-0 Atalanta",
+   "assocs": [
+    "ITA"
    ]
   }
  ],
@@ -308,9 +375,9 @@
    "clubs": 9,
    "season": 10.166,
    "total": 108.685,
-   "projected": 108.685,
-   "live_delta": 0.0,
-   "week_delta": 1.0,
+   "projected": 108.796,
+   "live_delta": 0.111,
+   "week_delta": 1.111,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -324,9 +391,9 @@
    "clubs": 7,
    "season": 8.642,
    "total": 92.874,
-   "projected": 92.874,
-   "live_delta": 0.0,
-   "week_delta": 1.142,
+   "projected": 93.017,
+   "live_delta": 0.142,
+   "week_delta": 1.285,
    "played_week": true,
    "rank": 2,
    "rank_confirmed": 2,
@@ -340,9 +407,9 @@
    "clubs": 8,
    "season": 9.125,
    "total": 87.743,
-   "projected": 87.743,
-   "live_delta": 0.0,
-   "week_delta": 1.25,
+   "projected": 87.868,
+   "live_delta": 0.125,
+   "week_delta": 1.375,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -356,9 +423,9 @@
    "clubs": 7,
    "season": 8.999,
    "total": 85.687,
-   "projected": 85.687,
-   "live_delta": 0.0,
-   "week_delta": 0.714,
+   "projected": 85.83,
+   "live_delta": 0.142,
+   "week_delta": 0.857,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
@@ -372,9 +439,9 @@
    "clubs": 7,
    "season": 8.214,
    "total": 73.296,
-   "projected": 73.296,
-   "live_delta": 0.0,
-   "week_delta": 1.0,
+   "projected": 73.581,
+   "live_delta": 0.285,
+   "week_delta": 1.285,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
@@ -420,9 +487,9 @@
    "clubs": 6,
    "season": 8.0,
    "total": 56.729,
-   "projected": 56.729,
-   "live_delta": 0.0,
-   "week_delta": 0.333,
+   "projected": 57.062,
+   "live_delta": 0.333,
+   "week_delta": 0.666,
    "played_week": true,
    "rank": 8,
    "rank_confirmed": 8,
@@ -436,9 +503,9 @@
    "clubs": 5,
    "season": 8.7,
    "total": 53.875,
-   "projected": 54.275,
-   "live_delta": 0.4,
-   "week_delta": 1.2,
+   "projected": 54.475,
+   "live_delta": 0.6,
+   "week_delta": 1.4,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
