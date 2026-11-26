@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:55:20+00:00",
+ "generated_at": "2026-11-26T21:57:31+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -20,7 +20,7 @@
   "week_delta": 1.0,
   "gap_up": 7.855,
   "gap_up_to": "België",
-  "gap_down": 2.92,
+  "gap_down": 2.72,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -154,7 +154,7 @@
    {
     "date": "2026-11-26",
     "competition": "UECL",
-    "status": "live",
+    "status": "final",
     "match": "SC Freiburg 2-1 FC Twente",
     "club": "FC Twente",
     "delta": 0.0
@@ -190,10 +190,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 8.8,
-   "total": 64.45,
+   "season": 9.6,
+   "total": 65.25,
    "projected": 65.25,
-   "live_delta": 0.8,
+   "live_delta": 0.0,
    "week_delta": 1.2,
    "played_week": true,
    "rank": 7,
@@ -224,9 +224,9 @@
    "clubs": 5,
    "season": 9.1,
    "total": 54.275,
-   "projected": 54.475,
-   "live_delta": 0.2,
-   "week_delta": 1.4,
+   "projected": 54.675,
+   "live_delta": 0.4,
+   "week_delta": 1.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -306,8 +306,8 @@
    "date": "2026-11-26",
    "time": "21:00",
    "competition": "UECL",
-   "status": "live",
-   "clock": "90'+7'",
+   "status": "final",
+   "clock": "FT",
    "match": "SC Freiburg 2-1 FC Twente",
    "club": "FC Twente",
    "delta": 0.0
@@ -316,53 +316,11 @@
  "next_matches": [],
  "live_matches": [
   {
-   "competition": "UEL",
-   "clock": "90'+7'",
-   "match": "OFI Crete 1-3 Anderlecht",
-   "assocs": [
-    "BEL",
-    "GRE"
-   ]
-  },
-  {
-   "competition": "UEL",
-   "clock": "90'+2'",
-   "match": "Torreense 1-2 Celtic",
-   "assocs": [
-    "POR"
-   ]
-  },
-  {
    "competition": "UECL",
-   "clock": "90'+7'",
-   "match": "SC Freiburg 2-1 FC Twente",
-   "assocs": [
-    "GER",
-    "NED"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+3'",
-   "match": "CSKA Sofia 1-1 Trabzonspor",
+   "clock": "90'+5'",
+   "match": "CSKA Sofia 1-2 Trabzonspor",
    "assocs": [
     "TUR"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+3'",
-   "match": "Hajduk Split 0-2 Sint-Truidense",
-   "assocs": [
-    "BEL"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "90'+7'",
-   "match": "Borac Banja Luka 2-3 Atalanta",
-   "assocs": [
-    "ITA"
    ]
   }
  ],
@@ -387,10 +345,10 @@
    "assoc": "ITA",
    "name": "Italië",
    "clubs": 7,
-   "season": 8.928,
-   "total": 93.16,
+   "season": 9.214,
+   "total": 93.446,
    "projected": 93.446,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 1.714,
    "played_week": true,
    "rank": 2,
@@ -419,10 +377,10 @@
    "assoc": "GER",
    "name": "Duitsland",
    "clubs": 7,
-   "season": 9.284,
-   "total": 85.972,
+   "season": 9.57,
+   "total": 86.258,
    "projected": 86.258,
-   "live_delta": 0.285,
+   "live_delta": 0.0,
    "week_delta": 1.285,
    "played_week": true,
    "rank": 4,
@@ -467,10 +425,10 @@
    "assoc": "BEL",
    "name": "België",
    "clubs": 5,
-   "season": 8.8,
-   "total": 64.45,
+   "season": 9.6,
+   "total": 65.25,
    "projected": 65.25,
-   "live_delta": 0.8,
+   "live_delta": 0.0,
    "week_delta": 1.2,
    "played_week": true,
    "rank": 7,
@@ -501,9 +459,9 @@
    "clubs": 5,
    "season": 9.1,
    "total": 54.275,
-   "projected": 54.475,
-   "live_delta": 0.2,
-   "week_delta": 1.4,
+   "projected": 54.675,
+   "live_delta": 0.4,
+   "week_delta": 1.6,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
