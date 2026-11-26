@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:34:06+00:00",
+ "generated_at": "2026-11-26T20:36:18+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -20,7 +20,7 @@
   "week_delta": 0.666,
   "gap_up": 8.188,
   "gap_up_to": "België",
-  "gap_down": 2.587,
+  "gap_down": 2.787,
   "gap_down_to": "Turkije",
   "log": [
    {
@@ -224,9 +224,9 @@
    "clubs": 5,
    "season": 9.1,
    "total": 54.275,
-   "projected": 54.475,
-   "live_delta": 0.2,
-   "week_delta": 1.4,
+   "projected": 54.275,
+   "live_delta": 0.0,
+   "week_delta": 1.2,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
@@ -287,7 +287,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "34'",
+   "clock": "36'",
    "match": "NEC Nijmegen 1-0 Stade Rennais",
    "club": "NEC Nijmegen",
    "delta": 0.333
@@ -297,7 +297,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "33'",
+   "clock": "36'",
    "match": "Sparta Prague 2-0 AZ Alkmaar",
    "club": "AZ Alkmaar",
    "delta": 0.0
@@ -307,7 +307,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "33'",
+   "clock": "35'",
    "match": "SC Freiburg 1-0 FC Twente",
    "club": "FC Twente",
    "delta": 0.0
@@ -317,7 +317,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Lyon 0-0 Lillestrom",
    "assocs": [
     "FRA"
@@ -325,7 +325,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "35'",
    "match": "Juventus 0-1 Omonia Nicosia",
    "assocs": [
     "ITA"
@@ -333,7 +333,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "35'",
    "match": "OFI Crete 0-1 Anderlecht",
    "assocs": [
     "BEL",
@@ -342,7 +342,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Crystal Palace 0-0 Real Sociedad",
    "assocs": [
     "ENG",
@@ -351,7 +351,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "NEC Nijmegen 1-0 Stade Rennais",
    "assocs": [
     "FRA",
@@ -360,7 +360,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "32'",
+   "clock": "34'",
    "match": "Torreense 1-1 Celtic",
    "assocs": [
     "POR"
@@ -368,7 +368,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Sunderland 0-0 Jagiellonia Bialystok",
    "assocs": [
     "ENG",
@@ -377,7 +377,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "36'",
    "match": "Sparta Prague 2-0 AZ Alkmaar",
    "assocs": [
     "CZE",
@@ -386,7 +386,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "33'",
+   "clock": "35'",
    "match": "TSG Hoffenheim 0-0 SK Sturm Graz",
    "assocs": [
     "GER"
@@ -394,7 +394,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "33'",
+   "clock": "35'",
    "match": "SC Freiburg 1-0 FC Twente",
    "assocs": [
     "GER",
@@ -403,7 +403,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Braga 2-0 KuPS Kuopio",
    "assocs": [
     "POR"
@@ -411,15 +411,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "33'",
-   "match": "CSKA Sofia 0-0 Trabzonspor",
+   "clock": "35'",
+   "match": "CSKA Sofia 1-0 Trabzonspor",
    "assocs": [
     "TUR"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "32'",
+   "clock": "34'",
    "match": "KAA Gent 1-0 Red Star Belgrade",
    "assocs": [
     "BEL"
@@ -427,7 +427,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "33'",
+   "clock": "35'",
    "match": "Hajduk Split 0-0 Sint-Truidense",
    "assocs": [
     "BEL"
@@ -435,7 +435,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "Borac Banja Luka 2-0 Atalanta",
    "assocs": [
     "ITA"
@@ -443,7 +443,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "34'",
+   "clock": "36'",
    "match": "FC Nordsjælland 0-0 Panathinaikos",
    "assocs": [
     "GRE"
@@ -585,9 +585,9 @@
    "clubs": 5,
    "season": 9.1,
    "total": 54.275,
-   "projected": 54.475,
-   "live_delta": 0.2,
-   "week_delta": 1.4,
+   "projected": 54.275,
+   "live_delta": 0.0,
+   "week_delta": 1.2,
    "played_week": true,
    "rank": 9,
    "rank_confirmed": 9,
