@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:46:32+00:00",
+ "generated_at": "2026-11-26T21:48:44+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -139,7 +139,7 @@
     "date": "2026-11-26",
     "competition": "UEL",
     "status": "live",
-    "match": "NEC Nijmegen 2-1 Stade Rennais",
+    "match": "NEC Nijmegen 3-1 Stade Rennais",
     "club": "NEC Nijmegen",
     "delta": 0.333
    },
@@ -174,11 +174,11 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 9.5,
-   "total": 69.75,
-   "projected": 70.35,
-   "live_delta": 0.6,
-   "week_delta": 1.2,
+   "season": 9.9,
+   "total": 70.15,
+   "projected": 70.15,
+   "live_delta": 0.0,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
@@ -287,8 +287,8 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "88'",
-   "match": "NEC Nijmegen 2-1 Stade Rennais",
+   "clock": "90'",
+   "match": "NEC Nijmegen 3-1 Stade Rennais",
    "club": "NEC Nijmegen",
    "delta": 0.333
   },
@@ -297,7 +297,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Sparta Prague 2-4 AZ Alkmaar",
    "club": "AZ Alkmaar",
    "delta": 0.333
@@ -307,7 +307,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "88'",
+   "clock": "90'",
    "match": "SC Freiburg 1-1 FC Twente",
    "club": "FC Twente",
    "delta": 0.166
@@ -317,7 +317,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Lyon 0-0 Lillestrom",
    "assocs": [
     "FRA"
@@ -325,7 +325,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "87'",
+   "clock": "90'",
    "match": "Juventus 4-1 Omonia Nicosia",
    "assocs": [
     "ITA"
@@ -333,7 +333,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "88'",
+   "clock": "90'+1'",
    "match": "OFI Crete 1-2 Anderlecht",
    "assocs": [
     "BEL",
@@ -342,7 +342,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "90'",
+   "clock": "90'+2'",
    "match": "Crystal Palace 2-1 Real Sociedad",
    "assocs": [
     "ENG",
@@ -351,8 +351,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "88'",
-   "match": "NEC Nijmegen 2-1 Stade Rennais",
+   "clock": "90'",
+   "match": "NEC Nijmegen 3-1 Stade Rennais",
    "assocs": [
     "FRA",
     "NED"
@@ -360,15 +360,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "84'",
-   "match": "Torreense 1-1 Celtic",
+   "clock": "86'",
+   "match": "Torreense 1-2 Celtic",
    "assocs": [
     "POR"
    ]
   },
   {
    "competition": "UEL",
-   "clock": "87'",
+   "clock": "90'",
    "match": "Sunderland 1-1 Jagiellonia Bialystok",
    "assocs": [
     "ENG",
@@ -377,7 +377,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "Sparta Prague 2-4 AZ Alkmaar",
    "assocs": [
     "CZE",
@@ -386,7 +386,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "86'",
+   "clock": "89'",
    "match": "TSG Hoffenheim 2-1 SK Sturm Graz",
    "assocs": [
     "GER"
@@ -394,7 +394,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "SC Freiburg 1-1 FC Twente",
    "assocs": [
     "GER",
@@ -403,15 +403,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "90'+1'",
-   "match": "Braga 4-0 KuPS Kuopio",
-   "assocs": [
-    "POR"
-   ]
-  },
-  {
-   "competition": "UECL",
-   "clock": "84'",
+   "clock": "87'",
    "match": "CSKA Sofia 1-1 Trabzonspor",
    "assocs": [
     "TUR"
@@ -419,7 +411,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "KAA Gent 1-1 Red Star Belgrade",
    "assocs": [
     "BEL"
@@ -427,7 +419,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "85'",
+   "clock": "87'",
    "match": "Hajduk Split 0-2 Sint-Truidense",
    "assocs": [
     "BEL"
@@ -435,7 +427,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "88'",
+   "clock": "90'",
    "match": "Borac Banja Luka 2-1 Atalanta",
    "assocs": [
     "ITA"
@@ -443,7 +435,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "89'",
+   "clock": "90'+1'",
    "match": "FC Nordsjælland 3-2 Panathinaikos",
    "assocs": [
     "GRE"
@@ -535,11 +527,11 @@
    "assoc": "POR",
    "name": "Portugal",
    "clubs": 5,
-   "season": 9.5,
-   "total": 69.75,
-   "projected": 70.35,
-   "live_delta": 0.6,
-   "week_delta": 1.2,
+   "season": 9.9,
+   "total": 70.15,
+   "projected": 70.15,
+   "live_delta": 0.0,
+   "week_delta": 1.0,
    "played_week": true,
    "rank": 6,
    "rank_confirmed": 6,
