@@ -1844,7 +1844,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "69'",
+  "clock": "71'",
   "decided_on_penalties": false
  },
  {
@@ -2039,8 +2039,8 @@
   "away": "Riga FC",
   "home_goals": 2,
   "away_goals": 0,
-  "status": "live",
-  "clock": "90'+3'",
+  "status": "final",
+  "clock": "FT",
   "decided_on_penalties": false
  },
  {
