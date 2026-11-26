@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:49:28+00:00",
+ "generated_at": "2026-11-26T20:51:41+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -360,7 +360,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+2'",
+   "clock": "HT",
    "match": "Torreense 1-1 Celtic",
    "assocs": [
     "POR"
@@ -386,7 +386,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "45'+4'",
+   "clock": "HT",
    "match": "TSG Hoffenheim 0-1 SK Sturm Graz",
    "assocs": [
     "GER"
@@ -411,7 +411,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+4'",
+   "clock": "HT",
    "match": "CSKA Sofia 1-0 Trabzonspor",
    "assocs": [
     "TUR"
@@ -427,7 +427,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "45'+3'",
+   "clock": "45'+5'",
    "match": "Hajduk Split 0-1 Sint-Truidense",
    "assocs": [
     "BEL"
