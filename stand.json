@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:39:55+00:00",
+ "generated_at": "2026-11-26T21:42:04+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -147,7 +147,7 @@
     "date": "2026-11-26",
     "competition": "UEL",
     "status": "live",
-    "match": "Sparta Prague 2-3 AZ Alkmaar",
+    "match": "Sparta Prague 2-4 AZ Alkmaar",
     "club": "AZ Alkmaar",
     "delta": 0.333
    },
@@ -287,7 +287,7 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "81'",
+   "clock": "84'",
    "match": "NEC Nijmegen 2-1 Stade Rennais",
    "club": "NEC Nijmegen",
    "delta": 0.333
@@ -297,8 +297,8 @@
    "time": "21:00",
    "competition": "UEL",
    "status": "live",
-   "clock": "82'",
-   "match": "Sparta Prague 2-3 AZ Alkmaar",
+   "clock": "84'",
+   "match": "Sparta Prague 2-4 AZ Alkmaar",
    "club": "AZ Alkmaar",
    "delta": 0.333
   },
@@ -307,7 +307,7 @@
    "time": "21:00",
    "competition": "UECL",
    "status": "live",
-   "clock": "82'",
+   "clock": "84'",
    "match": "SC Freiburg 1-1 FC Twente",
    "club": "FC Twente",
    "delta": 0.166
@@ -317,7 +317,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "Lyon 0-0 Lillestrom",
    "assocs": [
     "FRA"
@@ -325,7 +325,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "Juventus 4-1 Omonia Nicosia",
    "assocs": [
     "ITA"
@@ -333,7 +333,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "OFI Crete 1-2 Anderlecht",
    "assocs": [
     "BEL",
@@ -342,7 +342,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "83'",
+   "clock": "85'",
    "match": "Crystal Palace 2-1 Real Sociedad",
    "assocs": [
     "ENG",
@@ -351,7 +351,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "81'",
+   "clock": "84'",
    "match": "NEC Nijmegen 2-1 Stade Rennais",
    "assocs": [
     "FRA",
@@ -360,7 +360,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "77'",
+   "clock": "79'",
    "match": "Torreense 1-1 Celtic",
    "assocs": [
     "POR"
@@ -368,7 +368,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "Sunderland 1-1 Jagiellonia Bialystok",
    "assocs": [
     "ENG",
@@ -377,8 +377,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "82'",
-   "match": "Sparta Prague 2-3 AZ Alkmaar",
+   "clock": "84'",
+   "match": "Sparta Prague 2-4 AZ Alkmaar",
    "assocs": [
     "CZE",
     "NED"
@@ -386,15 +386,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "80'",
-   "match": "TSG Hoffenheim 1-1 SK Sturm Graz",
+   "clock": "82'",
+   "match": "TSG Hoffenheim 2-1 SK Sturm Graz",
    "assocs": [
     "GER"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "SC Freiburg 1-1 FC Twente",
    "assocs": [
     "GER",
@@ -403,7 +403,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "85'",
+   "clock": "87'",
    "match": "Braga 4-0 KuPS Kuopio",
    "assocs": [
     "POR"
@@ -411,7 +411,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "CSKA Sofia 1-1 Trabzonspor",
    "assocs": [
     "TUR"
@@ -419,7 +419,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "81'",
+   "clock": "83'",
    "match": "KAA Gent 1-0 Red Star Belgrade",
    "assocs": [
     "BEL"
@@ -427,7 +427,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "78'",
+   "clock": "80'",
    "match": "Hajduk Split 0-2 Sint-Truidense",
    "assocs": [
     "BEL"
@@ -435,7 +435,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "82'",
+   "clock": "84'",
    "match": "Borac Banja Luka 2-0 Atalanta",
    "assocs": [
     "ITA"
@@ -443,7 +443,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "83'",
+   "clock": "85'",
    "match": "FC Nordsjælland 3-2 Panathinaikos",
    "assocs": [
     "GRE"
@@ -505,13 +505,13 @@
    "clubs": 7,
    "season": 8.999,
    "total": 85.687,
-   "projected": 85.972,
-   "live_delta": 0.285,
-   "week_delta": 1.0,
+   "projected": 86.115,
+   "live_delta": 0.428,
+   "week_delta": 1.142,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
-   "week_start_total": 84.972,
+   "week_start_total": 84.973,
    "rank_week_start": 4,
    "rank_change": 0
   },
