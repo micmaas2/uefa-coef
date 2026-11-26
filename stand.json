@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:48:31+00:00",
+ "generated_at": "2026-11-26T18:50:42+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -294,7 +294,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "29'",
+   "clock": "31'",
    "match": "Besiktas 0-0 Hapoel Be'er",
    "assocs": [
     "TUR"
@@ -302,7 +302,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Marseille 1-0 Levski Sofia",
    "assocs": [
     "FRA"
@@ -310,7 +310,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Union St.-Gilloise 0-2 Lech Poznan",
    "assocs": [
     "BEL",
@@ -319,7 +319,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Dinamo Zagreb 0-2 Bayer Leverkusen",
    "assocs": [
     "GER"
@@ -327,8 +327,8 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
-   "match": "Viktoria Plzen 3-0 Benfica",
+   "clock": "47'",
+   "match": "Viktoria Plzen 4-0 Benfica",
    "assocs": [
     "CZE",
     "POR"
@@ -336,7 +336,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Celta Vigo 1-0 AFC Bournemouth",
    "assocs": [
     "ENG",
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Olympiacos 1-0 AC Milan",
    "assocs": [
     "GRE",
@@ -362,7 +362,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "HT",
+   "clock": "46'",
    "match": "Jablonec 0-0 FC Lugano",
    "assocs": [
     "CZE"
@@ -370,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "HT",
+   "clock": "47'",
    "match": "Iberia 1999 1-0 Getafe",
    "assocs": [
     "ESP"
