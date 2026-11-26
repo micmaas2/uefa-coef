@@ -1844,7 +1844,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "34'",
+  "clock": "36'",
   "decided_on_penalties": false
  },
  {
@@ -1858,7 +1858,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "48'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -1872,7 +1872,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "48'",
+  "clock": "50'",
   "decided_on_penalties": false
  },
  {
@@ -1956,7 +1956,7 @@
   "home_goals": 0,
   "away_goals": 2,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -1970,7 +1970,7 @@
   "home_goals": 4,
   "away_goals": 0,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -1984,7 +1984,7 @@
   "home_goals": 1,
   "away_goals": 1,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -1995,10 +1995,10 @@
   "stage": "LP",
   "home": "RB Salzburg",
   "away": "Ararat-Armenia",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "51'",
+  "clock": "53'",
   "decided_on_penalties": false
  },
  {
@@ -2009,10 +2009,10 @@
   "stage": "LP",
   "home": "Olympiacos",
   "away": "AC Milan",
-  "home_goals": 1,
+  "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -2149,10 +2149,10 @@
   "stage": "LP",
   "home": "SK Brann",
   "away": "AGF",
-  "home_goals": 0,
+  "home_goals": 1,
   "away_goals": 2,
   "status": "live",
-  "clock": "50'",
+  "clock": "52'",
   "decided_on_penalties": false
  },
  {
@@ -2166,7 +2166,7 @@
   "home_goals": 0,
   "away_goals": 1,
   "status": "live",
-  "clock": "50'",
+  "clock": "52'",
   "decided_on_penalties": false
  },
  {
@@ -2180,7 +2180,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "50'",
+  "clock": "52'",
   "decided_on_penalties": false
  },
  {
@@ -2194,7 +2194,7 @@
   "home_goals": 2,
   "away_goals": 2,
   "status": "live",
-  "clock": "HT",
+  "clock": "47'",
   "decided_on_penalties": false
  },
  {
@@ -2208,7 +2208,7 @@
   "home_goals": 0,
   "away_goals": 0,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -2222,7 +2222,7 @@
   "home_goals": 1,
   "away_goals": 0,
   "status": "live",
-  "clock": "49'",
+  "clock": "51'",
   "decided_on_penalties": false
  },
  {
@@ -2236,7 +2236,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "47'",
+  "clock": "49'",
   "decided_on_penalties": false
  },
  {
@@ -2250,7 +2250,7 @@
   "home_goals": 2,
   "away_goals": 0,
   "status": "live",
-  "clock": "48'",
+  "clock": "50'",
   "decided_on_penalties": false
  },
  {
