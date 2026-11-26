@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:49:07+00:00",
+ "generated_at": "2026-11-26T17:51:18+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -253,7 +253,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Ajax Amsterdam 0-0 FC Thun",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -294,7 +294,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Besiktas 0-0 Hapoel Be'er",
    "assocs": [
     "TUR"
@@ -302,7 +302,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "6'",
    "match": "Marseille 0-0 Levski Sofia",
    "assocs": [
     "FRA"
@@ -310,7 +310,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Union St.-Gilloise 0-0 Lech Poznan",
    "assocs": [
     "BEL",
@@ -319,7 +319,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Dinamo Zagreb 0-0 Bayer Leverkusen",
    "assocs": [
     "GER"
@@ -327,7 +327,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Viktoria Plzen 0-0 Benfica",
    "assocs": [
     "CZE",
@@ -336,7 +336,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "4'",
+   "clock": "6'",
    "match": "Celta Vigo 0-0 AFC Bournemouth",
    "assocs": [
     "ENG",
@@ -345,7 +345,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "3'",
+   "clock": "6'",
    "match": "Olympiacos 0-0 AC Milan",
    "assocs": [
     "GRE",
@@ -354,7 +354,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "3'",
+   "clock": "2'",
+   "match": "Heart of Midlothian 0-0 AS Monaco",
+   "assocs": [
+    "FRA"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "6'",
    "match": "Jablonec 0-0 FC Lugano",
    "assocs": [
     "CZE"
@@ -362,7 +370,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "2'",
+   "clock": "4'",
    "match": "Iberia 1999 0-0 Getafe",
    "assocs": [
     "ESP"
@@ -370,15 +378,15 @@
   },
   {
    "competition": "UECL",
-   "clock": "4'",
-   "match": "Brighton & Hove Albion 0-0 CSU Craiova",
+   "clock": "6'",
+   "match": "Brighton & Hove Albion 1-0 CSU Craiova",
    "assocs": [
     "ENG"
    ]
   },
   {
    "competition": "UECL",
-   "clock": "3'",
+   "clock": "5'",
    "match": "Ajax Amsterdam 0-0 FC Thun",
    "assocs": [
     "NED"
@@ -392,9 +400,9 @@
    "clubs": 9,
    "season": 9.722,
    "total": 108.241,
-   "projected": 108.463,
-   "live_delta": 0.222,
-   "week_delta": 0.777,
+   "projected": 108.574,
+   "live_delta": 0.333,
+   "week_delta": 0.888,
    "played_week": true,
    "rank": 1,
    "rank_confirmed": 1,
@@ -456,9 +464,9 @@
    "clubs": 7,
    "season": 7.642,
    "total": 72.724,
-   "projected": 72.867,
-   "live_delta": 0.142,
-   "week_delta": 0.571,
+   "projected": 73.01,
+   "live_delta": 0.285,
+   "week_delta": 0.714,
    "played_week": true,
    "rank": 5,
    "rank_confirmed": 5,
