@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:46:56+00:00",
+ "generated_at": "2026-11-26T17:49:07+00:00",
  "snapshot_date": "2026-10-15",
  "cycle": "2022/23 – 2026/27 (bepaalt tickets 2028/29)",
  "last_match_date": "2026-11-26",
@@ -253,7 +253,7 @@
    "time": "18:45",
    "competition": "UECL",
    "status": "live",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Ajax Amsterdam 0-0 FC Thun",
    "club": "Ajax Amsterdam",
    "delta": 0.166
@@ -294,7 +294,7 @@
  "live_matches": [
   {
    "competition": "UEL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Besiktas 0-0 Hapoel Be'er",
    "assocs": [
     "TUR"
@@ -302,7 +302,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Marseille 0-0 Levski Sofia",
    "assocs": [
     "FRA"
@@ -310,7 +310,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Union St.-Gilloise 0-0 Lech Poznan",
    "assocs": [
     "BEL",
@@ -319,7 +319,15 @@
   },
   {
    "competition": "UEL",
-   "clock": "1'",
+   "clock": "3'",
+   "match": "Dinamo Zagreb 0-0 Bayer Leverkusen",
+   "assocs": [
+    "GER"
+   ]
+  },
+  {
+   "competition": "UEL",
+   "clock": "3'",
    "match": "Viktoria Plzen 0-0 Benfica",
    "assocs": [
     "CZE",
@@ -328,7 +336,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "2'",
+   "clock": "4'",
    "match": "Celta Vigo 0-0 AFC Bournemouth",
    "assocs": [
     "ENG",
@@ -337,7 +345,7 @@
   },
   {
    "competition": "UEL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Olympiacos 0-0 AC Milan",
    "assocs": [
     "GRE",
@@ -346,7 +354,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Jablonec 0-0 FC Lugano",
    "assocs": [
     "CZE"
@@ -355,6 +363,14 @@
   {
    "competition": "UECL",
    "clock": "2'",
+   "match": "Iberia 1999 0-0 Getafe",
+   "assocs": [
+    "ESP"
+   ]
+  },
+  {
+   "competition": "UECL",
+   "clock": "4'",
    "match": "Brighton & Hove Albion 0-0 CSU Craiova",
    "assocs": [
     "ENG"
@@ -362,7 +378,7 @@
   },
   {
    "competition": "UECL",
-   "clock": "1'",
+   "clock": "3'",
    "match": "Ajax Amsterdam 0-0 FC Thun",
    "assocs": [
     "NED"
@@ -408,9 +424,9 @@
    "clubs": 8,
    "season": 9.125,
    "total": 87.743,
-   "projected": 87.868,
-   "live_delta": 0.125,
-   "week_delta": 1.375,
+   "projected": 87.993,
+   "live_delta": 0.25,
+   "week_delta": 1.5,
    "played_week": true,
    "rank": 3,
    "rank_confirmed": 3,
@@ -424,9 +440,9 @@
    "clubs": 7,
    "season": 8.713,
    "total": 85.401,
-   "projected": 85.401,
-   "live_delta": 0.0,
-   "week_delta": 0.428,
+   "projected": 85.544,
+   "live_delta": 0.142,
+   "week_delta": 0.571,
    "played_week": true,
    "rank": 4,
    "rank_confirmed": 4,
